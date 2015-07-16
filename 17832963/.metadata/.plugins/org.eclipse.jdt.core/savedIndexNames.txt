@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\CursoProgramacion\programacion-inces\17832963\.metadata\.plugins\org.eclipse.jdt.core
+828133061.index
+1065832147.index
+523253555.index
