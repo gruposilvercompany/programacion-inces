@@ -2036,3 +2036,6 @@ java.lang.ArrayIndexOutOfBoundsException: -1
 
 !ENTRY org.eclipse.osgi 2 1 2015-07-16 00:54:55.311
 !MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 01:09:27.632
+!MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
