@@ -1,0 +1,17 @@
+package Vista;
+
+import java.awt.BorderLayout;
+import javax.swing.JPanel;
+import javax.swing.JInternalFrame;
+
+public class Operacion1 extends JInternalFrame {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

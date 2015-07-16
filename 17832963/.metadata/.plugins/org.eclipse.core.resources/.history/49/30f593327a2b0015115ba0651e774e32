@@ -1,0 +1,8 @@
+package Vista;
+
+import javax.swing.JPanel;
+import javax.swing.JInternalFrame;
+
+public class Operacion1 extends JInternalFrame {
+
+}

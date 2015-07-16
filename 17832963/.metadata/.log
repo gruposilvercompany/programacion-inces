@@ -1360,3 +1360,679 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:39:34.486
 !MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/lang/CharSequence.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:10.529
+!MESSAGE NLS unused message: FileBuffer_status_ok in: org.eclipse.core.internal.filebuffers.FileBuffersMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:12.091
+!MESSAGE NLS unused message: ImportsStructure_operation_description in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:12.096
+!MESSAGE NLS unused message: GenerateToStringOperation_error_dialog_title in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:12.101
+!MESSAGE NLS unused message: GenerateToStringOperation_invalid_message in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.310
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_message2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.324
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_title2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.329
+!MESSAGE NLS unused message: CompilationUnitEditor_warning_save_delete in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.334
+!MESSAGE NLS unused message: StructureSelect_error_title in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.338
+!MESSAGE NLS unused message: StructureSelect_error_message in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.342
+!MESSAGE NLS unused message: StructureSelectNext_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.347
+!MESSAGE NLS unused message: StructureSelectNext_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.351
+!MESSAGE NLS unused message: StructureSelectNext_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.355
+!MESSAGE NLS unused message: StructureSelectPrevious_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.359
+!MESSAGE NLS unused message: StructureSelectPrevious_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.364
+!MESSAGE NLS unused message: StructureSelectPrevious_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.368
+!MESSAGE NLS unused message: StructureSelectEnclosing_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.379
+!MESSAGE NLS unused message: StructureSelectEnclosing_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.384
+!MESSAGE NLS unused message: StructureSelectEnclosing_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.388
+!MESSAGE NLS unused message: StructureSelectHistory_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.392
+!MESSAGE NLS unused message: StructureSelectHistory_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.397
+!MESSAGE NLS unused message: StructureSelectHistory_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.401
+!MESSAGE NLS unused message: GotoNextMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.405
+!MESSAGE NLS unused message: GotoPreviousMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.410
+!MESSAGE NLS unused message: SourceAttachmentForm_message_containerEntry in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:15.414
+!MESSAGE NLS unused message: JavaEditor_occurrence_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:17.128
+!MESSAGE NLS unused message: TOOLTIP_UNPIN_FIGURE in: org.eclipse.gef.ui.palette.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.404
+!MESSAGE NLS unused message: MarkerRulerAction_addMarker in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.462
+!MESSAGE NLS unused message: MarkerRulerAction_removeMarkers in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.499
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_title in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.505
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_message in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.509
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_rememberquestion in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.873
+!MESSAGE NLS unused message: PropertiesStructureCreator_error_occurred in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:18.886
+!MESSAGE NLS unused message: AddFromHistory_noHistoryMessage in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:20.558
+!MESSAGE NLS unused message: ToggleDetailPaneAction_6 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:20.571
+!MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-16 00:49:27.569
+!MESSAGE null Builder
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.894
+!MESSAGE NLS unused message: RefactoringHistoryWizard_no_refactorings_error in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.898
+!MESSAGE NLS unused message: RefactoringHistoryWizard_no_refactorings_message in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.902
+!MESSAGE NLS unused message: RefactoringHistoryLabelProvider_label_country in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.907
+!MESSAGE NLS unused message: RefactoringHistoryLabelProvider_label_language in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.911
+!MESSAGE NLS unused message: RefactoringHistoryLabelProvider_this_month_format in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.915
+!MESSAGE NLS unused message: RefactoringHistoryLabelProvider_last_month_format in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.919
+!MESSAGE NLS unused message: RefactoringHistoryLabelProvider_month_format in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.923
+!MESSAGE NLS unused message: RefactoringHistoryOverviewPage_description in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.928
+!MESSAGE NLS unused message: ShowRefactoringHistoryControl_edit_label in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.933
+!MESSAGE NLS unused message: RefactoringPropertyPage_confirm_delete_pattern in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.937
+!MESSAGE NLS unused message: RefactoringPropertyPage_edit_caption in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.941
+!MESSAGE NLS unused message: RefactoringPropertyPage_edit_message in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:29.952
+!MESSAGE NLS unused message: DeleteResourcesWizard_outOfSync in: org.eclipse.ltk.internal.ui.refactoring.RefactoringUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.034
+!MESSAGE NLS unused message: TextChanges_error_unsaved_changes in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.038
+!MESSAGE NLS unused message: ParticipantDescriptor_correct in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.043
+!MESSAGE NLS unused message: UnknownRefactoringDescriptor_initialization_error in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.048
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_deleting in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.052
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_name in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.057
+!MESSAGE NLS unused message: MoveResourceChange_error_destination_already_exists in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.178
+!MESSAGE NLS unused message: Assert_assertion_failed in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.182
+!MESSAGE NLS unused message: Assert_null_argument in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.187
+!MESSAGE NLS unused message: ProcessorBasedRefactoring_error_unsupported_initialization in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.197
+!MESSAGE NLS unused message: Change_is_unsaved in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.201
+!MESSAGE NLS unused message: Change_is_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.205
+!MESSAGE NLS unused message: Change_has_modifications in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.210
+!MESSAGE NLS unused message: Change_same_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.214
+!MESSAGE NLS unused message: UndoCompilationUnitChange_no_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.219
+!MESSAGE NLS unused message: RenameResourceChange_rename_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.224
+!MESSAGE NLS unused message: RenameResourceChange_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.228
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.233
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description_short in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.244
+!MESSAGE NLS unused message: DeleteFromClassPathChange_remove in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.248
+!MESSAGE NLS unused message: MoveResourceChange_move in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.254
+!MESSAGE NLS unused message: AbstractDeleteChange_deleting in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.258
+!MESSAGE NLS unused message: AddToClasspathChange_add in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.262
+!MESSAGE NLS unused message: MoveCompilationUnitChange_default_package in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.267
+!MESSAGE NLS unused message: InlineTempRefactoring_syntax_errors in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.271
+!MESSAGE NLS unused message: ExtractTempRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.276
+!MESSAGE NLS unused message: ExtractTempRefactoring_preview in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.280
+!MESSAGE NLS unused message: ExtractTempRefactoring_extract_temp in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.284
+!MESSAGE NLS unused message: ExtractTempRefactoring_update_imports in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.288
+!MESSAGE NLS unused message: ExtractClassRefactoring_comment_enclosing_type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.299
+!MESSAGE NLS unused message: ExtractConstantRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.304
+!MESSAGE NLS unused message: RenameEnumConstProcessor_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.317
+!MESSAGE NLS unused message: RenameFieldRefactoring_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.333
+!MESSAGE NLS unused message: RenameTypeProcessor_cannot_rename_locals_same_new_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.337
+!MESSAGE NLS unused message: RippleMethodFinder_analizing_hierarchy in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.341
+!MESSAGE NLS unused message: RenameResourceRefactoring_Internal_Error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.346
+!MESSAGE NLS unused message: RenameResourceRefactoring_alread_exists in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.350
+!MESSAGE NLS unused message: RenameResourceRefactoring_invalidName in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.354
+!MESSAGE NLS unused message: RenameResourceProcessor_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.358
+!MESSAGE NLS unused message: ExtractSupertypeProcessor_unexpected_exception in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.363
+!MESSAGE NLS unused message: MoveMembersRefactoring_check_availability in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.368
+!MESSAGE NLS unused message: SurroundWithTryCatchAnalyzer_noUncaughtExceptions in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.373
+!MESSAGE NLS unused message: CopyRefactoring_searching in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.378
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.382
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_method_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.393
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_constructor_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.397
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_field_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.401
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_replace_body_with_delegation in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.405
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_method in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.409
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_message in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.414
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.418
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.422
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.426
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.430
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.435
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.449
+!MESSAGE NLS unused message: PromoteTempToFieldRefactoring_uses_types_declared_locally in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.453
+!MESSAGE NLS unused message: ConvertAnonymousToNestedRefactoring_edit_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.457
+!MESSAGE NLS unused message: InlineConstantRefactoring_members_declared_in_anonymous in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.462
+!MESSAGE NLS unused message: InlineConstantRefactoring_source_code_unavailable in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.466
+!MESSAGE NLS unused message: DeleteFileChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.470
+!MESSAGE NLS unused message: DeleteFolderChange_0 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.474
+!MESSAGE NLS unused message: DeleteSourceManipulationChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.479
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.483
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.487
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.492
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.496
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.501
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.506
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.510
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.514
+!MESSAGE NLS unused message: DeleteRefactoring_3 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.519
+!MESSAGE NLS unused message: JavaDeleteProcessor_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.523
+!MESSAGE NLS unused message: JavaRefactoringDescriptor_initialization_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.539
+!MESSAGE NLS unused message: ChangeTypeRefactoring_Generalize_Type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.543
+!MESSAGE NLS unused message: ChangeTypeRefactoring_changes in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.547
+!MESSAGE NLS unused message: ChangeTypeRefactoring_cantDoIt in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.551
+!MESSAGE NLS unused message: ChangeTypeRefactoring_unhandledSearchException in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.556
+!MESSAGE NLS unused message: ChangeTypeRefactoring_failedToSelectType in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:49:30.560
+!MESSAGE NLS unused message: ChangeTypeRefactoring_javaLangObject in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:51:31.256
+!MESSAGE NLS unused message: JavadocHover_back_toolTip in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:51:34.215
+!MESSAGE NLS unused message: ProposalInfo_more_to_come in: org.eclipse.jdt.internal.ui.text.java.JavaTextMessages
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.846
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/AccessorPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.856
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/ArrayBufferView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.862
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/DataPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.867
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/GenericPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.875
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/Global.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.884
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.890
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.896
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.901
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.907
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.913
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.918
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.924
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.933
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.939
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.945
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDataView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.952
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.957
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.965
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDebug$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.971
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.976
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.982
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.988
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:06.994
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.000
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.006
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.012
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.018
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.024
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.030
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.036
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.043
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.049
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.056
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.062
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.068
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.074
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.081
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJava$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.088
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.094
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.100
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSAdapter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.109
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSON$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.117
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeMath$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.123
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.130
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.137
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.143
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.150
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.156
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.162
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.168
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.174
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.180
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.186
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.192
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.198
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.204
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExpExecResult.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.210
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.217
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.223
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.229
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.236
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.242
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.248
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.257
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.268
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.275
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.281
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.291
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.296
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.305
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.311
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.318
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.323
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.330
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.337
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-16 00:52:07.343
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-16 00:52:55.559
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at org.eclipse.emf.common.util.BasicEList.get(BasicEList.java:514)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObjectForURIFragmentRootSegment(ResourceImpl.java:642)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:692)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:671)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setValueFromId(XMLHandler.java:2511)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2439)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMIHandler.handleObjectAttribs(SAXXMIHandler.java:74)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:1929)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromTypeName(XMLHandler.java:1833)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:1768)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1576)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:876)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.processElement(XMIHandler.java:82)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:854)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:626)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:179)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:179)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1089)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:895)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:249)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:83)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:264)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:390)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:262)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doLoadFromCache(VEModelCacheUtility.java:103)
+	at org.eclipse.ve.internal.java.codegen.core.VEModelInstance.createComposition(VEModelInstance.java:100)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reConnect(JavaSourceTranslator.java:1134)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:910)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:54:55.290
+!MESSAGE NLS unused message: CommonTab_No_Encoding_Selected in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-16 00:54:55.311
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages

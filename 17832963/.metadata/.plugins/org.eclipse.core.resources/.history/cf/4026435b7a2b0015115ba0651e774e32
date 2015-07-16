@@ -1,0 +1,16 @@
+package Vista;
+
+import javax.swing.JPanel;
+import javax.swing.JFrame;
+
+public class Principal extends JFrame {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
