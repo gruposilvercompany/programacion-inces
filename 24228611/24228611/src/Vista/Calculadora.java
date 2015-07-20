@@ -2,6 +2,7 @@ package Vista;
 
 import java.awt.Rectangle;
 
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JMenu;
@@ -9,7 +10,6 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 
-import sun.net.www.content.image.jpeg;
 
 public class Calculadora extends JFrame{
 
@@ -29,9 +29,9 @@ public class Calculadora extends JFrame{
 	
 	public void Inicializar(){
 		this.setVisible(true);
-		this.setLocation(400,200);
+		this.setLocation(400,300);
 		this.setSize(300,300);
-		this.setTitle("Ventana Principal");
+		this.setTitle("Calculadora");
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setJMenuBar(MenuContenedor());
 		this.setContentPane(Contenedor());
