@@ -1,0 +1,23 @@
+!SESSION 2015-07-20 14:10:09.703 -----------------------------------------------
+eclipse.buildId=I20070625-1500
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_VE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.update.configurator 2015-07-20 14:10:12.401
+!MESSAGE Unable to find feature.xml in directory: C:\Users\inces\Documents\eclipse\features\.svn
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-07-20 14:10:27.362
+!MESSAGE Both 'com.omondo.uml.core' and 'com.omondo.uml.std' register a package for 'editmodel.xmi'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2015-07-20 14:10:35.474
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2015-07-20 14:10:35.474
+!MESSAGE Conflict for 'AUTOGEN:::com.omondo.uml.std.ui.check.diagram/com.omondo.uml.std.ui.actions.check.diagram':
+HandlerActivation(commandId=AUTOGEN:::com.omondo.uml.std.ui.check.diagram/com.omondo.uml.std.ui.actions.check.diagram,
+	handler=ActionDelegateHandlerProxy(null,com.omondo.uml.std.external.UMLCheckDiagramAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@f03482),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::com.omondo.uml.std.ui.check.diagram/com.omondo.uml.std.ui.actions.check.diagram,
+	handler=ActionDelegateHandlerProxy(null,com.omondo.uml.std.external.UMLCheckDiagramAction),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@f03482),sourcePriority=16384)
