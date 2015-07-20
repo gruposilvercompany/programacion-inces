@@ -1,0 +1,20 @@
+package Vista;
+
+import javax.swing.JFrame;
+
+public class Principal extends JFrame{
+
+	public Principal(){
+		Inicializar();
+	}
+	
+	public void Inicializar(){
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

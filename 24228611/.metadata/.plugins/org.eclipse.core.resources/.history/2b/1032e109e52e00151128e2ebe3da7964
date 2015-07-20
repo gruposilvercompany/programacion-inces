@@ -1,0 +1,23 @@
+package Vista;
+
+import javax.swing.JFrame;
+
+public class Principal extends JFrame{
+
+	public Principal(){
+		Inicializar();
+	}
+	
+	public void Inicializar(){
+		this.setVisible(true);
+		this.setLocation(400,300);
+		this.setTitle("Principal");
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
