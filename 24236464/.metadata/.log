@@ -3528,3 +3528,1908 @@ java.net.SocketTimeoutException: Read timed out
 	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
 	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2015-07-20 00:37:15.823 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_VE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:17.851
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_ENTRY_NOT_FOUND_EXCEPTION in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:17.851
+!MESSAGE NLS unused message: FILTER_INVALID in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:17.867
+!MESSAGE NLS unused message: LAUNCHER_INVALID_PORT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:20.207
+!MESSAGE NLS unused message: ADAPTOR_DIRECTORY_REMOVE_EXCEPTION in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:20.207
+!MESSAGE NLS unused message: ADAPTOR_ERROR_GETTING_MANIFEST in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:20.222
+!MESSAGE NLS unused message: ADAPTOR_DATA_AREA_NOT_SET in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:20.222
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_PROPERTIES_ERROR in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-07-20 00:37:41.605
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.835
+!MESSAGE NLS unused message: BuildPathDialog_error_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.882
+!MESSAGE NLS unused message: BuildPathDialog_error_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.898
+!MESSAGE NLS unused message: ImportOrganizePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.898
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_static_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.898
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_normal_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.913
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.913
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_error_invalidnumberofemptylines in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.913
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_emptylines_between_groups_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.929
+!MESSAGE NLS unused message: ImportOrganizeInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.929
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showEditorBreadcrumb in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.929
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showQuickFixables in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.929
+!MESSAGE NLS unused message: JavaEditorPreferencePage_backgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.945
+!MESSAGE NLS unused message: JavaEditorPreferencePage_custom in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.945
+!MESSAGE NLS unused message: JavaEditorPreferencePage_semanticHighlighting_option in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.960
+!MESSAGE NLS unused message: JavaEditorPreferencePage_foreground in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.960
+!MESSAGE NLS unused message: JavaEditorPreferencePage_displayedTabWidth in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.960
+!MESSAGE NLS unused message: JavaEditorPreferencePage_insertSpaceForTabs in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.960
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showOverviewRuler in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.976
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightCurrentLine in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.976
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showPrintMargin in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.976
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColumn in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.976
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showLineNumbers in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.991
+!MESSAGE NLS unused message: JavaEditorPreferencePage_lineNumberForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:53.991
+!MESSAGE NLS unused message: JavaEditorPreferencePage_currentLineHighlighColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.007
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColor2 in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.007
+!MESSAGE NLS unused message: JavaEditorPreferencePage_typing_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.007
+!MESSAGE NLS unused message: JavaEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.007
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_disableCustomCarets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.023
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_wideCaret in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.023
+!MESSAGE NLS unused message: JavaEditorHoverConfigurationBlock_enabled in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.023
+!MESSAGE NLS unused message: MarkOccurrencesConfigurationBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.038
+!MESSAGE NLS unused message: JavaElementInfoPage_binary in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.038
+!MESSAGE NLS unused message: JavaElementInfoPage_classpath_entry_kind in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.038
+!MESSAGE NLS unused message: JavaElementInfoPage_library in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.054
+!MESSAGE NLS unused message: JavaElementInfoPage_nameLabel in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.054
+!MESSAGE NLS unused message: JavaElementInfoPage_not_present in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.054
+!MESSAGE NLS unused message: JavaElementInfoPage_package in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.069
+!MESSAGE NLS unused message: JavaElementInfoPage_package_contents in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.069
+!MESSAGE NLS unused message: JavaElementInfoPage_project in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.069
+!MESSAGE NLS unused message: JavaElementInfoPage_resource_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.069
+!MESSAGE NLS unused message: JavaElementInfoPage_source in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.085
+!MESSAGE NLS unused message: JavaElementInfoPage_variable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.085
+!MESSAGE NLS unused message: JavaElementInfoPage_variable_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.085
+!MESSAGE NLS unused message: JavaElementInfoPage_location in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.101
+!MESSAGE NLS unused message: SourceAttachmentPropertyPage_containerentry_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.101
+!MESSAGE NLS unused message: CodeFormatterPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.101
+!MESSAGE NLS unused message: JavaBuildPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.116
+!MESSAGE NLS unused message: JavaBuildConfigurationBlock_section_access_rules in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.116
+!MESSAGE NLS unused message: ProblemSeveritiesConfigurationBlock_section_nls in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.116
+!MESSAGE NLS unused message: CompliancePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.132
+!MESSAGE NLS unused message: OptionsConfigurationBlock_job_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.132
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildall_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.132
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildproject_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.147
+!MESSAGE NLS unused message: JavaCategoryPropertyPage_text in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.147
+!MESSAGE NLS unused message: CodeTemplateBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.147
+!MESSAGE NLS unused message: CodeTemplateBlock_export_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.147
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionBackgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.163
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.163
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.163
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.179
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.179
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.179
+!MESSAGE NLS unused message: BuildPathPreferencePage_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.194
+!MESSAGE NLS unused message: BuildPathPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.194
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_enable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.210
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.210
+!MESSAGE NLS unused message: SmartTypingConfigurationBlock_tabs_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.210
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_restricted_link in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.225
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideForbidden_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.225
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideDiscouraged_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.225
+!MESSAGE NLS unused message: CodeAssistAdvancedConfigurationBlock_parameterNameFromAttachedJavadoc_timeout_ms in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.241
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_member_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.241
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_type_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.241
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.257
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.257
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.413
+!MESSAGE NLS unused message: TypeSelectionDialog_errorMessage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.413
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.428
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.428
+!MESSAGE NLS unused message: BuildPathDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.428
+!MESSAGE NLS unused message: GenerateHashCodeEqualsDialog_dialog_description in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.428
+!MESSAGE NLS unused message: JavaImageLabelprovider_assert_wrongImage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.444
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.444
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.444
+!MESSAGE NLS unused message: ResourceTransferDragAdapter_cannot_delete_files in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:54.444
+!MESSAGE NLS unused message: SortMembersMessageDialog_configure_preferences_tool_tip in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.567
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.567
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_resources in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.629
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_types in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.629
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_unknown_import_decl in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.676
+!MESSAGE NLS unused message: AddGetterSetterAction_error_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.676
+!MESSAGE NLS unused message: AddGetterSetterAction_SkipSetterForFinalDialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.707
+!MESSAGE NLS unused message: ExternalizeStringsAction_dialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.739
+!MESSAGE NLS unused message: FindStringsToExternalizeAction_non_externalized in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.770
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.785
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.801
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.832
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.832
+!MESSAGE NLS unused message: OpenExternalJavadocAction_select_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.848
+!MESSAGE NLS unused message: OpenExternalJavadocAction_libraries_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.848
+!MESSAGE NLS unused message: OpenExternalJavadocAction_source_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.863
+!MESSAGE NLS unused message: OpenExternalJavadocAction_no_entry in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.863
+!MESSAGE NLS unused message: OpenExternalJavadocAction_opening_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.863
+!MESSAGE NLS unused message: OpenExternalJavadocAction_dialog_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.879
+!MESSAGE NLS unused message: OpenExternalJavadocAction_code_resolve_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.879
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_op_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.895
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_unexpected in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.895
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_notoncp in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.895
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.910
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.910
+!MESSAGE NLS unused message: RefreshAction_error_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.910
+!MESSAGE NLS unused message: RefreshAction_error_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.926
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.926
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.926
+!MESSAGE NLS unused message: AddDelegateMethodsAction_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.973
+!MESSAGE NLS unused message: HistoryAction_inputElements_3 in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.973
+!MESSAGE NLS unused message: RefreshAction_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.973
+!MESSAGE NLS unused message: RefreshAction_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.988
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.988
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.988
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_title in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:55.988
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_message in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.051
+!MESSAGE NLS unused message: copyAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.066
+!MESSAGE NLS unused message: copyAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.066
+!MESSAGE NLS unused message: copyAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.066
+!MESSAGE NLS unused message: deleteAction_checkDeletion in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.082
+!MESSAGE NLS unused message: deleteAction_confirm_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.082
+!MESSAGE NLS unused message: deleteAction_confirmReadOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.082
+!MESSAGE NLS unused message: deleteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.097
+!MESSAGE NLS unused message: DestinationRenderer_packages in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.097
+!MESSAGE NLS unused message: moveAction_checkMove in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.097
+!MESSAGE NLS unused message: moveAction_error_readOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.097
+!MESSAGE NLS unused message: moveAction_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.113
+!MESSAGE NLS unused message: moveAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.113
+!MESSAGE NLS unused message: moveAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.113
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.129
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.129
+!MESSAGE NLS unused message: ReorgAction_exception_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.129
+!MESSAGE NLS unused message: ReorgAction_task_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.144
+!MESSAGE NLS unused message: ReorgAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.144
+!MESSAGE NLS unused message: ReorgAction_reorganize in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.144
+!MESSAGE NLS unused message: CopyResourcesToClipboardAction_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.160
+!MESSAGE NLS unused message: DeleteResourceAction_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.160
+!MESSAGE NLS unused message: DeleteResourceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.160
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_paste1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.160
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.175
+!MESSAGE NLS unused message: ReorgExceptionHandler_see_details in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.175
+!MESSAGE NLS unused message: ReorgGroup_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.175
+!MESSAGE NLS unused message: ReorgGroup_pasteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.175
+!MESSAGE NLS unused message: SourceReferenceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.191
+!MESSAGE NLS unused message: JdtCopyAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.191
+!MESSAGE NLS unused message: JdtCopyAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.191
+!MESSAGE NLS unused message: JdtCopyAction_Copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.191
+!MESSAGE NLS unused message: JdtMoveAction_move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.207
+!MESSAGE NLS unused message: JdtMoveAction_preview in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.207
+!MESSAGE NLS unused message: JdtMoveAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.222
+!MESSAGE NLS unused message: JdtMoveAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.222
+!MESSAGE NLS unused message: JdtMoveAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.222
+!MESSAGE NLS unused message: JdtMoveAction_Move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.238
+!MESSAGE NLS unused message: JdtMoveAction_default_package_warning in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.238
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.238
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.238
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.253
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_confirm_gs_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.253
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_gs in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.269
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.269
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.269
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.285
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.285
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cus_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.285
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.300
+!MESSAGE NLS unused message: ReorgDestinationAction_error in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.300
+!MESSAGE NLS unused message: ReorgDestinationAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.300
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.300
+!MESSAGE NLS unused message: ReorgDestinationAction_exception_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.316
+!MESSAGE NLS unused message: ReorgDestinationAction_error_occurred in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.316
+!MESSAGE NLS unused message: ReorgQueries_Confirm_Overwritting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.316
+!MESSAGE NLS unused message: ReorgQueries_exists_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.331
+!MESSAGE NLS unused message: ReorgQueries_exists in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.331
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.347
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.347
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.363
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.363
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.363
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.378
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.394
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.394
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.409
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.409
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_deleting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.409
+!MESSAGE NLS unused message: DeleteResourcesAction_deleteAction_confirm_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.425
+!MESSAGE NLS unused message: DeleteResourcesAction_Delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.425
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.425
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_resources in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.441
+!MESSAGE NLS unused message: DeleteResourcesAction_default_package in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.441
+!MESSAGE NLS unused message: DeleteResourcesAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.456
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.456
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single_package_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.456
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.472
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple_with_packages_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.472
+!MESSAGE NLS unused message: NewNameQueries_21 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.488
+!MESSAGE NLS unused message: NewNameQueries_22 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.488
+!MESSAGE NLS unused message: ReorgMoveWizard_4 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.659
+!MESSAGE NLS unused message: NewSourceFolderWizardPage_warning_AddedExclusions in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.675
+!MESSAGE NLS unused message: NewVariableEntryDialog_info_isfolder in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.675
+!MESSAGE NLS unused message: CPListLabelProvider_container_access_rules in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.675
+!MESSAGE NLS unused message: CPListLabelProvider_access_rules_enabled in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.675
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.690
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_not_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.690
+!MESSAGE NLS unused message: NewFolderDialog_folderNameEmpty in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.706
+!MESSAGE NLS unused message: NewFolderDialog_errorTitle in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.706
+!MESSAGE NLS unused message: NewFolderDialog_internalError in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.706
+!MESSAGE NLS unused message: NewFolderDialog_progress in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.722
+!MESSAGE NLS unused message: LinkFolderDialog_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.722
+!MESSAGE NLS unused message: LinkFolderDialog_createIn in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.737
+!MESSAGE NLS unused message: LinkFolderDialog_directory_message in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.737
+!MESSAGE NLS unused message: LinkFolderDialog_folderNameGroup_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.737
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.753
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_external_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.753
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_workspace_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.753
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:56.753
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notExisingProjectOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.096
+!MESSAGE NLS unused message: SurroundWithTryCatchAction_no_exceptions in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.096
+!MESSAGE NLS unused message: ExtractTempInputPage_signature_preview in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.112
+!MESSAGE NLS unused message: ExtractTempInputPage_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.112
+!MESSAGE NLS unused message: MoveMembersInputPage_descriptionKey in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.112
+!MESSAGE NLS unused message: MoveMembersInputPage_upperListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.112
+!MESSAGE NLS unused message: MoveMembersInputPage_lowerListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.127
+!MESSAGE NLS unused message: MoveMembersInputPage_internal_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.127
+!MESSAGE NLS unused message: MoveMembersInputPage_move in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.127
+!MESSAGE NLS unused message: PullUpInputPage_hierarchyLabal in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.127
+!MESSAGE NLS unused message: RenameTempAction_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.143
+!MESSAGE NLS unused message: MoveMembersAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.143
+!MESSAGE NLS unused message: MoveMembersAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.158
+!MESSAGE NLS unused message: ParameterEditDialog_type_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.158
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Create_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.158
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Deprecate_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.174
+!MESSAGE NLS unused message: UseSupertypeInputPage_Use_Supertype in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.174
+!MESSAGE NLS unused message: UseSupertypeInputPage_Internal_Error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.174
+!MESSAGE NLS unused message: VisibilityControlUtil_final in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.190
+!MESSAGE NLS unused message: VisibilityControlUtil_synchronized in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.190
+!MESSAGE NLS unused message: PullUpInputPage1_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.190
+!MESSAGE NLS unused message: PullUpInputPage1_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.205
+!MESSAGE NLS unused message: PushDownInputPage_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.205
+!MESSAGE NLS unused message: PushDownInputPage_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.205
+!MESSAGE NLS unused message: UseSupertypeAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.205
+!MESSAGE NLS unused message: UseSupertypeAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.221
+!MESSAGE NLS unused message: PushDownAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.221
+!MESSAGE NLS unused message: PushDownAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.221
+!MESSAGE NLS unused message: ExtractInterfaceAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.236
+!MESSAGE NLS unused message: ExtractInterfaceAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.236
+!MESSAGE NLS unused message: ConvertNestedToTopAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.236
+!MESSAGE NLS unused message: ConvertNestedToTopAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.252
+!MESSAGE NLS unused message: RenameResourceWizard_defaultPageTitle in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.252
+!MESSAGE NLS unused message: RenameResourceWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.252
+!MESSAGE NLS unused message: RenameLocalVariableWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.252
+!MESSAGE NLS unused message: ParameterEditDialog_type_invalid in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.268
+!MESSAGE NLS unused message: DeleteWizard_12 in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.268
+!MESSAGE NLS unused message: IntroduceIndirectionInputPage_select_declaring_class in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.268
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_fieldgroup_text in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.283
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.283
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_empty in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.283
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.299
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_label in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.299
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_button in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.299
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createdelegate_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.314
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createcomments_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.314
+!MESSAGE NLS unused message: ExtractClassWizard_button_down in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.314
+!MESSAGE NLS unused message: ExtractClassWizard_checke_setters in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.330
+!MESSAGE NLS unused message: ExtractClassWizard_button_up in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.486
+!MESSAGE NLS unused message: AbstractWorkingSetPage_workingSet_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.486
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameMustNotBeEmpty in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.486
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_workingSetExists in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.486
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameWhitespace in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.502
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.502
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.502
+!MESSAGE NLS unused message: WorkingSetModel_histroy_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.502
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.517
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_error_details in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.517
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.517
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.533
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.533
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.533
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.642
+!MESSAGE NLS unused message: FilterDescriptor_filterCreationError_title in: org.eclipse.jdt.internal.ui.filters.FilterMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.845
+!MESSAGE NLS unused message: BuildGroup_buildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.845
+!MESSAGE NLS unused message: BuildGroup_rebuildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.860
+!MESSAGE NLS unused message: DropAdapter_alreadyExists in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.860
+!MESSAGE NLS unused message: DropAdapter_errorSame in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.860
+!MESSAGE NLS unused message: DropAdapter_errorSubfolder in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.860
+!MESSAGE NLS unused message: DropAdapter_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.876
+!MESSAGE NLS unused message: FilterSelectionAction_apply_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.876
+!MESSAGE NLS unused message: FilterSelectionAction_apply_toolTip in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.876
+!MESSAGE NLS unused message: FilterSelectionAction_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.892
+!MESSAGE NLS unused message: OpenResource_action_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.892
+!MESSAGE NLS unused message: OpenResource_action_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.892
+!MESSAGE NLS unused message: OpenResource_error_message in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.907
+!MESSAGE NLS unused message: OpenResource_error_messageArgs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.907
+!MESSAGE NLS unused message: OpenResource_error_messageProblems in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.907
+!MESSAGE NLS unused message: OpenResource_error_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.923
+!MESSAGE NLS unused message: Sorter_expectPackage in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.923
+!MESSAGE NLS unused message: ShowLibraries_hideReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.923
+!MESSAGE NLS unused message: ShowLibraries_showReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.923
+!MESSAGE NLS unused message: ShowBinaries_hideBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.938
+!MESSAGE NLS unused message: ShowBinaries_showBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.938
+!MESSAGE NLS unused message: ShowInNavigator_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.938
+!MESSAGE NLS unused message: ShowInNavigator_error in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.938
+!MESSAGE NLS unused message: ShowInNavigator_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.954
+!MESSAGE NLS unused message: PackageExplorer_filters in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.954
+!MESSAGE NLS unused message: PackageExplorer_gotoTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.970
+!MESSAGE NLS unused message: PackageExplorer_openPerspective in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.970
+!MESSAGE NLS unused message: PackageExplorer_refactoringTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.970
+!MESSAGE NLS unused message: PackageExplorer_referencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.970
+!MESSAGE NLS unused message: PackageExplorer_binaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:57.985
+!MESSAGE NLS unused message: PackageExplorer_openWith in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:58.001
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:58.016
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_preview_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:58.016
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:59.561
+!MESSAGE NLS unused message: TextEditorPreferencePage_colorsAndFonts_link_tooltip in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:37:59.561
+!MESSAGE NLS unused message: TextEditorPreferencePage_overwriteMode in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:02.774
+!MESSAGE NLS unused message: AllTypesCache_searching in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:02.790
+!MESSAGE NLS unused message: AllTypesCache_checking_type_cache in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.153
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_message2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.153
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_title2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.169
+!MESSAGE NLS unused message: CompilationUnitEditor_warning_save_delete in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.169
+!MESSAGE NLS unused message: StructureSelect_error_title in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.169
+!MESSAGE NLS unused message: StructureSelect_error_message in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.169
+!MESSAGE NLS unused message: StructureSelectNext_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.184
+!MESSAGE NLS unused message: StructureSelectNext_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.184
+!MESSAGE NLS unused message: StructureSelectNext_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.184
+!MESSAGE NLS unused message: StructureSelectPrevious_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.184
+!MESSAGE NLS unused message: StructureSelectPrevious_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.200
+!MESSAGE NLS unused message: StructureSelectPrevious_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.200
+!MESSAGE NLS unused message: StructureSelectEnclosing_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.216
+!MESSAGE NLS unused message: StructureSelectEnclosing_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.216
+!MESSAGE NLS unused message: StructureSelectEnclosing_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.216
+!MESSAGE NLS unused message: StructureSelectHistory_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.231
+!MESSAGE NLS unused message: StructureSelectHistory_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.231
+!MESSAGE NLS unused message: StructureSelectHistory_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.231
+!MESSAGE NLS unused message: GotoNextMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.231
+!MESSAGE NLS unused message: GotoPreviousMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.247
+!MESSAGE NLS unused message: SourceAttachmentForm_message_containerEntry in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:10.247
+!MESSAGE NLS unused message: JavaEditor_occurrence_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:12.041
+!MESSAGE NLS unused message: FileBuffer_status_ok in: org.eclipse.core.internal.filebuffers.FileBuffersMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:12.524
+!MESSAGE NLS unused message: TOOLTIP_UNPIN_FIGURE in: org.eclipse.gef.ui.palette.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.147
+!MESSAGE NLS unused message: MarkerRulerAction_addMarker in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.162
+!MESSAGE NLS unused message: MarkerRulerAction_removeMarkers in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.178
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_title in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.178
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_message in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.194
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_rememberquestion in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.974
+!MESSAGE NLS unused message: PropertiesStructureCreator_error_occurred in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:14.989
+!MESSAGE NLS unused message: AddFromHistory_noHistoryMessage in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:17.267
+!MESSAGE NLS unused message: ToggleDetailPaneAction_6 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:17.314
+!MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-20 00:38:22.602
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.doSave(JavaSourceTranslator.java:1411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$3.doRun(JavaSourceTranslator.java:956)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-20 00:38:34.069
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.doSave(JavaSourceTranslator.java:1411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$3.doRun(JavaSourceTranslator.java:956)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:42.711
+!MESSAGE NLS unused message: JavadocHover_back_toolTip in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:38:42.836
+!MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:38:47.189
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.ve.internal.java.core.BeanPropertySourceAdapter.getPropertyValue(BeanPropertySourceAdapter.java:96)
+	at org.eclipse.ve.internal.jfc.core.NonBoundsBeanPropertySource.getPropertyValue(NonBoundsBeanPropertySource.java:81)
+	at org.eclipse.ve.internal.propertysheet.command.CommandStackPropertySheetEntry.primGetValues(CommandStackPropertySheetEntry.java:173)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshValues(AbstractPropertySheetEntry.java:893)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:824)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ve.java.core 4 2 2015-07-20 00:38:59.419
+!MESSAGE Se han producido problemas al invocar el código del plug-in: "org.eclipse.ve.java.core".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.jfc.core.WindowProxyAdapter.primReleaseBeanProxy(WindowProxyAdapter.java:109)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:347)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-20 00:38:59.450
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.jfc.core.WindowProxyAdapter.primReleaseBeanProxy(WindowProxyAdapter.java:109)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:347)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 2 2015-07-20 00:38:59.450
+!MESSAGE Se han producido problemas al invocar el código del plug-in: "org.eclipse.ve.java.core".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:407)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:350)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-20 00:38:59.466
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:407)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:350)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 2 2015-07-20 00:38:59.466
+!MESSAGE Se han producido problemas al invocar el código del plug-in: "org.eclipse.ve.java.core".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:407)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:350)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-20 00:38:59.466
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerProxyAdapter.primReleaseBeanProxy(ContainerProxyAdapter.java:657)
+	at org.eclipse.ve.internal.java.core.BeanProxyAdapter.releaseBeanProxy(BeanProxyAdapter.java:1370)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter$3.run(MemberContainerProxyAdapter.java:355)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseSetting(MemberContainerProxyAdapter.java:348)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseSetting(CompositionProxyAdapter.java:365)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:407)
+	at org.eclipse.ve.internal.java.core.CompositionProxyAdapter.releaseBeanProxy(CompositionProxyAdapter.java:350)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.releaseBeanProxy(MemberContainerProxyAdapter.java:375)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2008)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:39:01.962
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.ve.internal.java.core.BeanPropertySourceAdapter.getPropertyValue(BeanPropertySourceAdapter.java:96)
+	at org.eclipse.ve.internal.jfc.core.NonBoundsBeanPropertySource.getPropertyValue(NonBoundsBeanPropertySource.java:81)
+	at org.eclipse.ve.internal.propertysheet.command.CommandStackPropertySheetEntry.primGetValues(CommandStackPropertySheetEntry.java:173)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshValues(AbstractPropertySheetEntry.java:893)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:824)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-20 00:39:16.284
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.doSave(JavaSourceTranslator.java:1411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$3.doRun(JavaSourceTranslator.java:956)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-20 00:39:28.333
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.RuntimeException: IWAV0066E No se ha establecido ninguna fábrica de proxy de bean estándar.
+	at org.eclipse.jem.internal.proxy.core.ProxyFactoryRegistry.getBeanProxyFactory(ProxyFactoryRegistry.java:159)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.initBeanProxy(MemberContainerProxyAdapter.java:563)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2089)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-20 00:39:46.180
+!MESSAGE 
+!STACK 0
+IWAV0073I *** Excepción de VM remota - Rastreo de VM remota:
+org.eclipse.jem.internal.proxy.common.remote.CommandErrorException-- Error code:8 Value data:"null" 
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1254)
+	at org.eclipse.jem.internal.proxy.vm.remote.ConnectionHandler.run(ConnectionHandler.java:454)
+	at org.eclipse.jem.internal.proxy.vm.remote.CallbackHandler.initiateCallbackStream(CallbackHandler.java:47)
+	at org.eclipse.jem.internal.proxy.vm.remote.RemoteVMServerThread.requestStream(RemoteVMServerThread.java:420)
+	at org.eclipse.jem.internal.beaninfo.vm.ModelingBeanInfo.send(ModelingBeanInfo.java:546)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.jem.internal.proxy.vm.remote.ConnectionHandler.run(ConnectionHandler.java:317)
+	at org.eclipse.jem.internal.proxy.vm.remote.ConnectionThread.run(ConnectionThread.java:47)
+IWAV0074I *** Rastreo de pila local:
+org.eclipse.jem.internal.proxy.remote.REMThrowableBeanProxyProxy: org.eclipse.jem.internal.proxy.common.remote.CommandErrorException-- Error code:8 Value data:"null" 
+	at org.eclipse.jem.internal.proxy.remote.REMThrowableBeanTypeProxy.createThrowableBeanProxy(REMThrowableBeanTypeProxy.java:34)
+	at org.eclipse.jem.internal.proxy.remote.REMThrowableBeanTypeProxy.newBeanProxy(REMThrowableBeanTypeProxy.java:65)
+	at org.eclipse.jem.internal.proxy.remote.REMStandardBeanProxyFactory.getBeanProxy(REMStandardBeanProxyFactory.java:459)
+	at org.eclipse.jem.internal.proxy.remote.REMStandardBeanProxyFactory.processErrorReturn(REMStandardBeanProxyFactory.java:510)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:221)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:178)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEvents(BeaninfoClassAdapter.java:1272)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEvents(JavaClassImpl.java:1304)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allEvents(BeaninfoClassAdapter.java:2311)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllEvents(BeaninfoClassAdapter.java:1280)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllEvents(JavaClassImpl.java:1326)
+	at org.eclipse.ve.internal.java.codegen.java.EventsParser.getAddSignitures(EventsParser.java:66)
+	at org.eclipse.ve.internal.java.codegen.java.EventsParser.analyze(EventsParser.java:99)
+	at org.eclipse.ve.internal.java.codegen.java.EventsParser.addEvents(EventsParser.java:170)
+	at org.eclipse.ve.internal.java.codegen.java.JavaBeanModelBuilder.analyzeEvents(JavaBeanModelBuilder.java:372)
+	at org.eclipse.ve.internal.java.codegen.java.JavaBeanModelBuilder.build(JavaBeanModelBuilder.java:463)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.handleParseable(JavaSourceTranslator.java:429)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.run(JavaSourceTranslator.java:502)
+	at org.eclipse.ve.internal.java.codegen.java.SnippetParseJob.doRun(SnippetParseJob.java:92)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:39:47.912
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:11.811
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:13.028
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:18.207
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:40:23.651
+!MESSAGE NLS unused message: ProposalInfo_more_to_come in: org.eclipse.jdt.internal.ui.text.java.JavaTextMessages
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:24.603
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:26.116
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:30.515
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:33.729
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:35.351
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-20 00:40:36.428
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.command.WrapperedPropertyDescriptor.isReadOnly(WrapperedPropertyDescriptor.java:214)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:40:41.109
+!MESSAGE NLS unused message: CommonTab_No_Encoding_Selected in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:40:41.109
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.070
+!MESSAGE NLS unused message: SubTypeHierarchyViewer_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.070
+!MESSAGE NLS unused message: SubTypeHierarchyViewer_filtered_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.070
+!MESSAGE NLS unused message: SuperTypeHierarchyViewer_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.085
+!MESSAGE NLS unused message: SuperTypeHierarchyViewer_filtered_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.085
+!MESSAGE NLS unused message: TraditionalHierarchyViewer_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.085
+!MESSAGE NLS unused message: TraditionalHierarchyViewer_filtered_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.085
+!MESSAGE NLS unused message: TypeHierarchyViewPart_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 00:42:12.101
+!MESSAGE NLS unused message: TypeHierarchyViewPart_ws_title in: org.eclipse.jdt.internal.ui.typehierarchy.TypeHierarchyMessages

@@ -1,12 +1,10 @@
 package Vistas;
 
-import javax.swing.SwingUtilities;
-import java.awt.BorderLayout;
-import javax.swing.JPanel;
 import javax.swing.JFrame;
-import javax.swing.JMenuBar;
 import javax.swing.JMenu;
+import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
+
 
 public class VentanaPrincipal extends JFrame {
 
@@ -62,12 +60,15 @@ public class VentanaPrincipal extends JFrame {
 	 */
 	private JMenuItem getMenusalir() {
 		if (Menusalir == null) {
-			Menusalir = new JMenuItem("salir");
-			Menusalir.addMouseListener(new java.awt.event.MouseAdapter() {
-				public void mouseClicked(java.awt.event.MouseEvent e) {
-					System.exit(0); // TODO Auto-generated Event stub mouseClicked()
+			Menusalir = new JMenuItem();
+			Menusalir.setText("Salir del Sistema");
+			Menusalir.addActionListener(new java.awt.event.ActionListener() {
+				public void actionPerformed(java.awt.event.ActionEvent e) {
+					System.exit(0); // TODO Auto-generated Event stub actionPerformed()
 				}
 			});
+			
+			
 		}
 		return Menusalir;
 	}
@@ -77,13 +78,9 @@ public class VentanaPrincipal extends JFrame {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SwingUtilities.invokeLater(new Runnable() {
-			public void run() {
-				VentanaPrincipal thisClass = new VentanaPrincipal();
-				thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-				thisClass.setVisible(true);
-			}
-		});
+		VentanaPrincipal thisClass = new VentanaPrincipal();
+		thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		thisClass.setVisible(true);
 	}
 
 	/**
@@ -103,6 +100,7 @@ public class VentanaPrincipal extends JFrame {
 		this.setSize(300, 200);
 		this.setJMenuBar(getBarramenu());
 		this.setTitle("JFrame");
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 
 }
