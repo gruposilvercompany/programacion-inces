@@ -4497,3 +4497,1224 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.osgi 2 1 2015-07-20 16:45:10.143
 !MESSAGE NLS unused message: deleteFile_Delete_File in: org.eclipse.jdt.internal.corext.refactoring.nls.changes.NLSChangesMessages
+!SESSION 2015-07-21 13:22:54.334 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_VE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:04.416
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_ENTRY_NOT_FOUND_EXCEPTION in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:04.417
+!MESSAGE NLS unused message: FILTER_INVALID in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:04.419
+!MESSAGE NLS unused message: LAUNCHER_INVALID_PORT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:06.872
+!MESSAGE NLS unused message: ADAPTOR_DIRECTORY_REMOVE_EXCEPTION in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:06.874
+!MESSAGE NLS unused message: ADAPTOR_ERROR_GETTING_MANIFEST in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:06.875
+!MESSAGE NLS unused message: ADAPTOR_DATA_AREA_NOT_SET in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:06.876
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_PROPERTIES_ERROR in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.499
+!MESSAGE NLS unused message: BuildPathDialog_error_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.525
+!MESSAGE NLS unused message: BuildPathDialog_error_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.526
+!MESSAGE NLS unused message: ImportOrganizePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.527
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_static_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.528
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_normal_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.528
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.529
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_error_invalidnumberofemptylines in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.530
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_emptylines_between_groups_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.531
+!MESSAGE NLS unused message: ImportOrganizeInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.532
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showEditorBreadcrumb in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.533
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showQuickFixables in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.534
+!MESSAGE NLS unused message: JavaEditorPreferencePage_backgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.538
+!MESSAGE NLS unused message: JavaEditorPreferencePage_custom in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.542
+!MESSAGE NLS unused message: JavaEditorPreferencePage_semanticHighlighting_option in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.554
+!MESSAGE NLS unused message: JavaEditorPreferencePage_foreground in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.555
+!MESSAGE NLS unused message: JavaEditorPreferencePage_displayedTabWidth in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.556
+!MESSAGE NLS unused message: JavaEditorPreferencePage_insertSpaceForTabs in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.557
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showOverviewRuler in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.557
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightCurrentLine in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.558
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showPrintMargin in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.559
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColumn in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.559
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showLineNumbers in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.560
+!MESSAGE NLS unused message: JavaEditorPreferencePage_lineNumberForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.560
+!MESSAGE NLS unused message: JavaEditorPreferencePage_currentLineHighlighColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.561
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColor2 in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.562
+!MESSAGE NLS unused message: JavaEditorPreferencePage_typing_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.562
+!MESSAGE NLS unused message: JavaEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.564
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_disableCustomCarets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.565
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_wideCaret in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.566
+!MESSAGE NLS unused message: JavaEditorHoverConfigurationBlock_enabled in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.566
+!MESSAGE NLS unused message: MarkOccurrencesConfigurationBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.567
+!MESSAGE NLS unused message: JavaElementInfoPage_binary in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.567
+!MESSAGE NLS unused message: JavaElementInfoPage_classpath_entry_kind in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.572
+!MESSAGE NLS unused message: JavaElementInfoPage_library in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.589
+!MESSAGE NLS unused message: JavaElementInfoPage_nameLabel in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.590
+!MESSAGE NLS unused message: JavaElementInfoPage_not_present in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.591
+!MESSAGE NLS unused message: JavaElementInfoPage_package in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.592
+!MESSAGE NLS unused message: JavaElementInfoPage_package_contents in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.593
+!MESSAGE NLS unused message: JavaElementInfoPage_project in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.594
+!MESSAGE NLS unused message: JavaElementInfoPage_resource_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.595
+!MESSAGE NLS unused message: JavaElementInfoPage_source in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.596
+!MESSAGE NLS unused message: JavaElementInfoPage_variable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.596
+!MESSAGE NLS unused message: JavaElementInfoPage_variable_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.597
+!MESSAGE NLS unused message: JavaElementInfoPage_location in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.599
+!MESSAGE NLS unused message: SourceAttachmentPropertyPage_containerentry_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.599
+!MESSAGE NLS unused message: CodeFormatterPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.600
+!MESSAGE NLS unused message: JavaBuildPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.601
+!MESSAGE NLS unused message: JavaBuildConfigurationBlock_section_access_rules in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.602
+!MESSAGE NLS unused message: ProblemSeveritiesConfigurationBlock_section_nls in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.603
+!MESSAGE NLS unused message: CompliancePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.604
+!MESSAGE NLS unused message: OptionsConfigurationBlock_job_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.604
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildall_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.605
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildproject_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.605
+!MESSAGE NLS unused message: JavaCategoryPropertyPage_text in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.606
+!MESSAGE NLS unused message: CodeTemplateBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.607
+!MESSAGE NLS unused message: CodeTemplateBlock_export_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.608
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionBackgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.608
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.609
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.609
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.610
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.611
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.611
+!MESSAGE NLS unused message: BuildPathPreferencePage_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.612
+!MESSAGE NLS unused message: BuildPathPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.614
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_enable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.615
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.616
+!MESSAGE NLS unused message: SmartTypingConfigurationBlock_tabs_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.616
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_restricted_link in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.617
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideForbidden_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.618
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideDiscouraged_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.621
+!MESSAGE NLS unused message: CodeAssistAdvancedConfigurationBlock_parameterNameFromAttachedJavadoc_timeout_ms in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.623
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_member_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.625
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_type_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.628
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.634
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:41.636
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.028
+!MESSAGE NLS unused message: TypeSelectionDialog_errorMessage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.030
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.032
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.035
+!MESSAGE NLS unused message: BuildPathDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.037
+!MESSAGE NLS unused message: GenerateHashCodeEqualsDialog_dialog_description in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.039
+!MESSAGE NLS unused message: JavaImageLabelprovider_assert_wrongImage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.039
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.040
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.041
+!MESSAGE NLS unused message: ResourceTransferDragAdapter_cannot_delete_files in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:42.041
+!MESSAGE NLS unused message: SortMembersMessageDialog_configure_preferences_tool_tip in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.017
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_message2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.018
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_title2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.018
+!MESSAGE NLS unused message: CompilationUnitEditor_warning_save_delete in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.020
+!MESSAGE NLS unused message: StructureSelect_error_title in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.020
+!MESSAGE NLS unused message: StructureSelect_error_message in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.021
+!MESSAGE NLS unused message: StructureSelectNext_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.022
+!MESSAGE NLS unused message: StructureSelectNext_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.022
+!MESSAGE NLS unused message: StructureSelectNext_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.023
+!MESSAGE NLS unused message: StructureSelectPrevious_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.023
+!MESSAGE NLS unused message: StructureSelectPrevious_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.024
+!MESSAGE NLS unused message: StructureSelectPrevious_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.024
+!MESSAGE NLS unused message: StructureSelectEnclosing_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.025
+!MESSAGE NLS unused message: StructureSelectEnclosing_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.025
+!MESSAGE NLS unused message: StructureSelectEnclosing_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.026
+!MESSAGE NLS unused message: StructureSelectHistory_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.027
+!MESSAGE NLS unused message: StructureSelectHistory_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.027
+!MESSAGE NLS unused message: StructureSelectHistory_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.030
+!MESSAGE NLS unused message: GotoNextMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.033
+!MESSAGE NLS unused message: GotoPreviousMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.035
+!MESSAGE NLS unused message: SourceAttachmentForm_message_containerEntry in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.038
+!MESSAGE NLS unused message: JavaEditor_occurrence_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:43.932
+!MESSAGE NLS unused message: FileBuffer_status_ok in: org.eclipse.core.internal.filebuffers.FileBuffersMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:48.771
+!MESSAGE NLS unused message: MarkerRulerAction_addMarker in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:48.772
+!MESSAGE NLS unused message: MarkerRulerAction_removeMarkers in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:48.772
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_title in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:48.773
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_message in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:48.774
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_rememberquestion in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.282
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.284
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_resources in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.286
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_types in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.288
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_unknown_import_decl in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.291
+!MESSAGE NLS unused message: AddGetterSetterAction_error_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.293
+!MESSAGE NLS unused message: AddGetterSetterAction_SkipSetterForFinalDialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.295
+!MESSAGE NLS unused message: ExternalizeStringsAction_dialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.297
+!MESSAGE NLS unused message: FindStringsToExternalizeAction_non_externalized in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.298
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.299
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.301
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.304
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.306
+!MESSAGE NLS unused message: OpenExternalJavadocAction_select_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.308
+!MESSAGE NLS unused message: OpenExternalJavadocAction_libraries_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.311
+!MESSAGE NLS unused message: OpenExternalJavadocAction_source_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.313
+!MESSAGE NLS unused message: OpenExternalJavadocAction_no_entry in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.315
+!MESSAGE NLS unused message: OpenExternalJavadocAction_opening_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.317
+!MESSAGE NLS unused message: OpenExternalJavadocAction_dialog_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.319
+!MESSAGE NLS unused message: OpenExternalJavadocAction_code_resolve_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.321
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_op_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.322
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_unexpected in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.323
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_notoncp in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.324
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.325
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.326
+!MESSAGE NLS unused message: RefreshAction_error_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.327
+!MESSAGE NLS unused message: RefreshAction_error_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.328
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.328
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.329
+!MESSAGE NLS unused message: AddDelegateMethodsAction_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.375
+!MESSAGE NLS unused message: HistoryAction_inputElements_3 in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.377
+!MESSAGE NLS unused message: RefreshAction_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.380
+!MESSAGE NLS unused message: RefreshAction_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.382
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.384
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.387
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_title in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.390
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_message in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.939
+!MESSAGE NLS unused message: SurroundWithTryCatchAction_no_exceptions in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.942
+!MESSAGE NLS unused message: ExtractTempInputPage_signature_preview in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.944
+!MESSAGE NLS unused message: ExtractTempInputPage_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.947
+!MESSAGE NLS unused message: MoveMembersInputPage_descriptionKey in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.949
+!MESSAGE NLS unused message: MoveMembersInputPage_upperListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.951
+!MESSAGE NLS unused message: MoveMembersInputPage_lowerListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.955
+!MESSAGE NLS unused message: MoveMembersInputPage_internal_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.956
+!MESSAGE NLS unused message: MoveMembersInputPage_move in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.957
+!MESSAGE NLS unused message: PullUpInputPage_hierarchyLabal in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.958
+!MESSAGE NLS unused message: RenameTempAction_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.960
+!MESSAGE NLS unused message: MoveMembersAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.961
+!MESSAGE NLS unused message: MoveMembersAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.961
+!MESSAGE NLS unused message: ParameterEditDialog_type_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.962
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Create_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.963
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Deprecate_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.964
+!MESSAGE NLS unused message: UseSupertypeInputPage_Use_Supertype in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.964
+!MESSAGE NLS unused message: UseSupertypeInputPage_Internal_Error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.965
+!MESSAGE NLS unused message: VisibilityControlUtil_final in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.966
+!MESSAGE NLS unused message: VisibilityControlUtil_synchronized in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.966
+!MESSAGE NLS unused message: PullUpInputPage1_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.967
+!MESSAGE NLS unused message: PullUpInputPage1_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.968
+!MESSAGE NLS unused message: PushDownInputPage_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.969
+!MESSAGE NLS unused message: PushDownInputPage_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.970
+!MESSAGE NLS unused message: UseSupertypeAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.972
+!MESSAGE NLS unused message: UseSupertypeAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.974
+!MESSAGE NLS unused message: PushDownAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.976
+!MESSAGE NLS unused message: PushDownAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.977
+!MESSAGE NLS unused message: ExtractInterfaceAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.978
+!MESSAGE NLS unused message: ExtractInterfaceAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.980
+!MESSAGE NLS unused message: ConvertNestedToTopAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.981
+!MESSAGE NLS unused message: ConvertNestedToTopAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.982
+!MESSAGE NLS unused message: RenameResourceWizard_defaultPageTitle in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.983
+!MESSAGE NLS unused message: RenameResourceWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.984
+!MESSAGE NLS unused message: RenameLocalVariableWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:49.985
+!MESSAGE NLS unused message: ParameterEditDialog_type_invalid in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.016
+!MESSAGE NLS unused message: DeleteWizard_12 in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.019
+!MESSAGE NLS unused message: IntroduceIndirectionInputPage_select_declaring_class in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.023
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_fieldgroup_text in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.025
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.027
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_empty in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.030
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.032
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_label in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.034
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_button in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.037
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createdelegate_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.039
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createcomments_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.042
+!MESSAGE NLS unused message: ExtractClassWizard_button_down in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.044
+!MESSAGE NLS unused message: ExtractClassWizard_checke_setters in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.045
+!MESSAGE NLS unused message: ExtractClassWizard_button_up in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.108
+!MESSAGE NLS unused message: copyAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.110
+!MESSAGE NLS unused message: copyAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.111
+!MESSAGE NLS unused message: copyAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.112
+!MESSAGE NLS unused message: deleteAction_checkDeletion in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.114
+!MESSAGE NLS unused message: deleteAction_confirm_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.117
+!MESSAGE NLS unused message: deleteAction_confirmReadOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.118
+!MESSAGE NLS unused message: deleteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.120
+!MESSAGE NLS unused message: DestinationRenderer_packages in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.121
+!MESSAGE NLS unused message: moveAction_checkMove in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.123
+!MESSAGE NLS unused message: moveAction_error_readOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.127
+!MESSAGE NLS unused message: moveAction_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.129
+!MESSAGE NLS unused message: moveAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.130
+!MESSAGE NLS unused message: moveAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.131
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.132
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.133
+!MESSAGE NLS unused message: ReorgAction_exception_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.133
+!MESSAGE NLS unused message: ReorgAction_task_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.140
+!MESSAGE NLS unused message: ReorgAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.141
+!MESSAGE NLS unused message: ReorgAction_reorganize in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.145
+!MESSAGE NLS unused message: CopyResourcesToClipboardAction_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.146
+!MESSAGE NLS unused message: DeleteResourceAction_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.147
+!MESSAGE NLS unused message: DeleteResourceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.148
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_paste1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.149
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.151
+!MESSAGE NLS unused message: ReorgExceptionHandler_see_details in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.152
+!MESSAGE NLS unused message: ReorgGroup_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.153
+!MESSAGE NLS unused message: ReorgGroup_pasteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.156
+!MESSAGE NLS unused message: SourceReferenceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.212
+!MESSAGE NLS unused message: JdtCopyAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.213
+!MESSAGE NLS unused message: JdtCopyAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.214
+!MESSAGE NLS unused message: JdtCopyAction_Copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.215
+!MESSAGE NLS unused message: JdtMoveAction_move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.216
+!MESSAGE NLS unused message: JdtMoveAction_preview in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.217
+!MESSAGE NLS unused message: JdtMoveAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.219
+!MESSAGE NLS unused message: JdtMoveAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.221
+!MESSAGE NLS unused message: JdtMoveAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.222
+!MESSAGE NLS unused message: JdtMoveAction_Move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.224
+!MESSAGE NLS unused message: JdtMoveAction_default_package_warning in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.225
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.226
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.227
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.228
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_confirm_gs_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.229
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_gs in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.230
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.231
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.232
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.233
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.234
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cus_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.235
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.236
+!MESSAGE NLS unused message: ReorgDestinationAction_error in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.237
+!MESSAGE NLS unused message: ReorgDestinationAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.237
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.238
+!MESSAGE NLS unused message: ReorgDestinationAction_exception_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.239
+!MESSAGE NLS unused message: ReorgDestinationAction_error_occurred in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.240
+!MESSAGE NLS unused message: ReorgQueries_Confirm_Overwritting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.241
+!MESSAGE NLS unused message: ReorgQueries_exists_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.242
+!MESSAGE NLS unused message: ReorgQueries_exists in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.243
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.243
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.244
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.245
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.245
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.246
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.247
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.247
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.248
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.249
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.250
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_deleting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.252
+!MESSAGE NLS unused message: DeleteResourcesAction_deleteAction_confirm_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.254
+!MESSAGE NLS unused message: DeleteResourcesAction_Delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.256
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.258
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_resources in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.260
+!MESSAGE NLS unused message: DeleteResourcesAction_default_package in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.263
+!MESSAGE NLS unused message: DeleteResourcesAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.265
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.268
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single_package_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.269
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.270
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple_with_packages_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.271
+!MESSAGE NLS unused message: NewNameQueries_21 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.272
+!MESSAGE NLS unused message: NewNameQueries_22 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.273
+!MESSAGE NLS unused message: ReorgMoveWizard_4 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.408
+!MESSAGE NLS unused message: PropertiesStructureCreator_error_occurred in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:50.409
+!MESSAGE NLS unused message: AddFromHistory_noHistoryMessage in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.003
+!MESSAGE NLS unused message: NewSourceFolderWizardPage_warning_AddedExclusions in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.046
+!MESSAGE NLS unused message: NewVariableEntryDialog_info_isfolder in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.048
+!MESSAGE NLS unused message: CPListLabelProvider_container_access_rules in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.048
+!MESSAGE NLS unused message: CPListLabelProvider_access_rules_enabled in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.049
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.049
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_not_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.050
+!MESSAGE NLS unused message: NewFolderDialog_folderNameEmpty in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.051
+!MESSAGE NLS unused message: NewFolderDialog_errorTitle in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.052
+!MESSAGE NLS unused message: NewFolderDialog_internalError in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.052
+!MESSAGE NLS unused message: NewFolderDialog_progress in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.053
+!MESSAGE NLS unused message: LinkFolderDialog_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.053
+!MESSAGE NLS unused message: LinkFolderDialog_createIn in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.054
+!MESSAGE NLS unused message: LinkFolderDialog_directory_message in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.055
+!MESSAGE NLS unused message: LinkFolderDialog_folderNameGroup_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.056
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.057
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_external_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.057
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_workspace_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.058
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.059
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notExisingProjectOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.594
+!MESSAGE NLS unused message: AbstractWorkingSetPage_workingSet_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.595
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameMustNotBeEmpty in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.596
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_workingSetExists in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.597
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameWhitespace in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.598
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.599
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.602
+!MESSAGE NLS unused message: WorkingSetModel_histroy_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.604
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.606
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_error_details in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.609
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.612
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.619
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.620
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.621
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:55.759
+!MESSAGE NLS unused message: FilterDescriptor_filterCreationError_title in: org.eclipse.jdt.internal.ui.filters.FilterMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.160
+!MESSAGE NLS unused message: BuildGroup_buildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.167
+!MESSAGE NLS unused message: BuildGroup_rebuildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.170
+!MESSAGE NLS unused message: DropAdapter_alreadyExists in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.172
+!MESSAGE NLS unused message: DropAdapter_errorSame in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.173
+!MESSAGE NLS unused message: DropAdapter_errorSubfolder in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.174
+!MESSAGE NLS unused message: DropAdapter_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.175
+!MESSAGE NLS unused message: FilterSelectionAction_apply_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.177
+!MESSAGE NLS unused message: FilterSelectionAction_apply_toolTip in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.178
+!MESSAGE NLS unused message: FilterSelectionAction_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.179
+!MESSAGE NLS unused message: OpenResource_action_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.180
+!MESSAGE NLS unused message: OpenResource_action_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.181
+!MESSAGE NLS unused message: OpenResource_error_message in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.182
+!MESSAGE NLS unused message: OpenResource_error_messageArgs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.183
+!MESSAGE NLS unused message: OpenResource_error_messageProblems in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.184
+!MESSAGE NLS unused message: OpenResource_error_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.186
+!MESSAGE NLS unused message: Sorter_expectPackage in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.187
+!MESSAGE NLS unused message: ShowLibraries_hideReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.188
+!MESSAGE NLS unused message: ShowLibraries_showReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.189
+!MESSAGE NLS unused message: ShowBinaries_hideBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.190
+!MESSAGE NLS unused message: ShowBinaries_showBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.191
+!MESSAGE NLS unused message: ShowInNavigator_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.192
+!MESSAGE NLS unused message: ShowInNavigator_error in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.193
+!MESSAGE NLS unused message: ShowInNavigator_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.194
+!MESSAGE NLS unused message: PackageExplorer_filters in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.197
+!MESSAGE NLS unused message: PackageExplorer_gotoTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.198
+!MESSAGE NLS unused message: PackageExplorer_openPerspective in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.199
+!MESSAGE NLS unused message: PackageExplorer_refactoringTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.200
+!MESSAGE NLS unused message: PackageExplorer_referencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.200
+!MESSAGE NLS unused message: PackageExplorer_binaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.201
+!MESSAGE NLS unused message: PackageExplorer_openWith in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.203
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.205
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_preview_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:56.207
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:58.931
+!MESSAGE NLS unused message: TextEditorPreferencePage_colorsAndFonts_link_tooltip in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:23:58.931
+!MESSAGE NLS unused message: TextEditorPreferencePage_overwriteMode in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:24:08.634
+!MESSAGE NLS unused message: AllTypesCache_searching in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:24:08.638
+!MESSAGE NLS unused message: AllTypesCache_checking_type_cache in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:25:22.962
+!MESSAGE NLS unused message: JavadocHover_back_toolTip in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:25:23.078
+!MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:26:40.430
+!MESSAGE NLS unused message: ToggleDetailPaneAction_6 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:26:40.431
+!MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:34:58.972
+!MESSAGE NLS unused message: ProposalInfo_more_to_come in: org.eclipse.jdt.internal.ui.text.java.JavaTextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.279
+!MESSAGE NLS unused message: CorrectionMessages_add_type_parameters_to_instantiation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.280
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator__multiFixErrorDialog_Titel in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.281
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.282
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_message in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.283
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_unusedimport_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.284
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_project_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.285
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_workspace_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.286
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeworkspace_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.286
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeproject_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.287
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_surroundwith_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.292
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_unqualifiedfieldaccess_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.293
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_externalizestrings_dialog_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.294
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_addnon_nls_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.295
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.296
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostaticdefining_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.297
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_indirectaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.297
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_remove_nls_tag_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.298
+!MESSAGE NLS unused message: TypeMismatchSubProcessor_0 in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.299
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_changemodifiertodefault_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.300
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_addoverrideannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.301
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_adddeprecatedannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.302
+!MESSAGE NLS unused message: SuppressWarningsSubProcessor_suppress_warnings_initializer_label in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.304
+!MESSAGE NLS unused message: UnimplementedMethodsCorrectionProposal_info in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.311
+!MESSAGE NLS unused message: QuickAssistProcessor_forLoop_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.312
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_removeParenthesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.313
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_addParethesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.841
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator_multiFixErrorDialog_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 13:40:12.842
+!MESSAGE NLS unused message: GetterSetterCorrectionSubProcessor_createsetterusingencapsulatefield_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:16:55.602
+!MESSAGE NLS unused message: CommonTab_No_Encoding_Selected in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:16:55.623
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:18:18.102
+!MESSAGE NLS unused message: ImportsStructure_operation_description in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:18:18.103
+!MESSAGE NLS unused message: GenerateToStringOperation_error_dialog_title in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:18:18.106
+!MESSAGE NLS unused message: GenerateToStringOperation_invalid_message in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.251
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_RemovedAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.265
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_AlteredAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.266
+!MESSAGE NLS unused message: Java50Fix_ParametrizeTypeReference_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.268
+!MESSAGE NLS unused message: CodeStyleFix_AddThisQualifier_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.269
+!MESSAGE NLS unused message: ExpressionsFix_addParanoiacParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.270
+!MESSAGE NLS unused message: ExpressionsFix_add_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.271
+!MESSAGE NLS unused message: ExpressionsFix_removeUnnecessaryParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.272
+!MESSAGE NLS unused message: ExpressionsFix_remove_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.273
+!MESSAGE NLS unused message: CleanUpPostSaveListener_exception_error in: org.eclipse.jdt.internal.corext.fix.FixMessages

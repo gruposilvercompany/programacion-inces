@@ -107,13 +107,7 @@ public class Ventana extends JFrame{
 			calc.setText("Calculadora");
 			calc.setBounds(new Rectangle(10,50,120,20));
 			
-			 calc.addMouseListener(new MouseAdapter() {
-				   public void mouseClicked(java.awt.event.MouseEvent e){
-					   Calculadora calc = new Calculadora();
-					   calc.setVisible(true);
-					   calc.setDefaultCloseOperation(EXIT_ON_CLOSE);
-				   }
-			   });
+			
 		}
 		return calc;
 	}
@@ -123,6 +117,15 @@ public class Ventana extends JFrame{
 			ecu = new JButton();
 			ecu.setText("Ecuaciones");
 			ecu.setBounds(new Rectangle(10,80,120,20));
+
+			 ecu.addMouseListener(new MouseAdapter() {
+				   public void mouseClicked(java.awt.event.MouseEvent e){
+					   Calculadora calc = new Calculadora();
+					   calc.setVisible(true);
+					   calc.setDefaultCloseOperation(EXIT_ON_CLOSE);
+				   }
+			   });
+			
 		}
 		return ecu;
 	}

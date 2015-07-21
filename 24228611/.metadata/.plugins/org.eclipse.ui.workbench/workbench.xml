@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="14" version="2.0">
+<workbench progressCount="31" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="150" y="150">
 <fastViewData fastViewLocation="1024"/>
@@ -20,8 +20,8 @@
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" itemType="typeToolBarContribution" x="268" y="22"/>
-<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" itemType="typePlaceholder" x="268" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -32,13 +32,18 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" name="VentanaPrincipal.java" partName="VentanaPrincipal.java" path="C:/Curso Programacion/programacion-inces/24228611/24228611/src/Vista/VentanaPrincipal.java" title="VentanaPrincipal.java" tooltip="24228611/src/Vista/VentanaPrincipal.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/24228611/src/Vista/VentanaPrincipal.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Ventana.java" partName="Ventana.java" path="C:/Curso Programacion/programacion-inces/24228611/24228611/src/Vista/Ventana.java" title="Ventana.java" tooltip="24228611/src/Vista/Ventana.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/24228611/src/Vista/Ventana.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="453" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculadora.java" partName="Calculadora.java" path="C:/Curso Programacion/programacion-inces/24228611/24228611/src/Vista/Calculadora.java" title="Calculadora.java" tooltip="24228611/src/Vista/Calculadora.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/24228611/src/Vista/Calculadora.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3195" selectionTopPixel="1746"/>
 </editor>
 </editors>
 <views>
@@ -81,6 +86,7 @@
 <expanded>
 <category IMemento.internal.id="Errores"/>
 <category IMemento.internal.id="Avisos"/>
+<category IMemento.internal.id="Avisos (1 elemento)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -93,12 +99,15 @@
 <view id="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" partName="Java Beans">
 <viewState/>
 </view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Consola">
+<viewState/>
+</view>
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Esquema">
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -158,6 +167,7 @@
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.views.PropertySheet"/>
 <view id="org.eclipse.ve.internal.java.codegen.editorpart.BeansList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
 <view id="org.eclipse.jdt.ui.TypeHierarchy"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
@@ -185,14 +195,14 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.7492877" ratioLeft="526" ratioRight="176" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problemas"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="Propiedades"/>
 <page content="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" label="Java Beans"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Consola"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -201,6 +211,7 @@
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
+<part id="5"/>
 </presentation>
 </folder>
 </info>
@@ -226,84 +237,159 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/24228611/src/Vista/VentanaPrincipal.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" path="/24228611/src/Vista/VentanaPrincipal.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/24228611/src/Vista/VentanaPrincipal.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/24228611/src/Vista/Ventana.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/24228611/src/Vista/Calculadora.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/24228611/src/Vista/Calculadora.java"/>
 </editors>
-<item historyLabel="VentanaPrincipal.java" index="0">
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1460" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1287" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1752" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2035" y="2"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="911" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2070" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2242" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2219" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2216" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2711" y="0"/>
+</item>
+<item historyLabel="Calculadora.java" index="1">
+<position info="not_deleted" x="96" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2711" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1718" y="0"/>
+</item>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1718" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2283" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2707" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2363" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2364" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2412" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1906" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1942" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="1975" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2013" y="0"/>
+</item>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2013" y="0"/>
+</item>
+<item historyLabel="Ventana.java" index="0">
 <position/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2557" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="2">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="0">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2557" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="0">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2624" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="0">
-<position info="not_deleted" x="18" y="0"/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="2686" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="3080" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="3080" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2223" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="3080" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="4" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="286" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="254" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="286" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="753" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Ventana.java" index="0">
+<position info="not_deleted" x="453" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="753" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2454" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2577" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="2021" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position/>
+<item historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="1883" y="0"/>
 </item>
-<item historyLabel="VentanaPrincipal.java" index="1">
-<position info="not_deleted" x="2078" y="0"/>
-</item>
-<item active="true" historyLabel="VentanaPrincipal.java" index="1">
-<position info="not_deleted" x="0" y="0"/>
+<item active="true" historyLabel="Calculadora.java" index="2">
+<position info="not_deleted" x="1897" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -311,13 +397,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@e92cb9"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -329,6 +408,12 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculadora.java" tooltip="24228611/src/Vista/Calculadora.java">
+<persistable path="/24228611/src/Vista/Calculadora.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Ventana.java" tooltip="24228611/src/Vista/Ventana.java">
+<persistable path="/24228611/src/Vista/Ventana.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" name="VentanaPrincipal.java" tooltip="24228611/src/Vista/VentanaPrincipal.java">
 <persistable path="/24228611/src/Vista/VentanaPrincipal.java"/>
 </file>
