@@ -7146,3 +7146,2116 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.osgi 2 1 2015-07-21 09:23:12.443
 !MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
+!SESSION 2015-07-21 00:17:00.558 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_VE
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:02.797
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_ENTRY_NOT_FOUND_EXCEPTION in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:02.801
+!MESSAGE NLS unused message: FILTER_INVALID in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:02.804
+!MESSAGE NLS unused message: LAUNCHER_INVALID_PORT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:04.320
+!MESSAGE NLS unused message: ADAPTOR_DIRECTORY_REMOVE_EXCEPTION in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:04.324
+!MESSAGE NLS unused message: ADAPTOR_ERROR_GETTING_MANIFEST in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:04.327
+!MESSAGE NLS unused message: ADAPTOR_DATA_AREA_NOT_SET in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:04.330
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_PROPERTIES_ERROR in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.660
+!MESSAGE NLS unused message: BuildPathDialog_error_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.681
+!MESSAGE NLS unused message: BuildPathDialog_error_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.685
+!MESSAGE NLS unused message: ImportOrganizePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.689
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_static_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.693
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_normal_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.697
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_other_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.700
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_error_invalidnumberofemptylines in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.705
+!MESSAGE NLS unused message: ImportOrganizeConfigurationBlock_emptylines_between_groups_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.714
+!MESSAGE NLS unused message: ImportOrganizeInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.719
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showEditorBreadcrumb in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.725
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showQuickFixables in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.730
+!MESSAGE NLS unused message: JavaEditorPreferencePage_backgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.734
+!MESSAGE NLS unused message: JavaEditorPreferencePage_custom in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.739
+!MESSAGE NLS unused message: JavaEditorPreferencePage_semanticHighlighting_option in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.744
+!MESSAGE NLS unused message: JavaEditorPreferencePage_foreground in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.748
+!MESSAGE NLS unused message: JavaEditorPreferencePage_displayedTabWidth in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.753
+!MESSAGE NLS unused message: JavaEditorPreferencePage_insertSpaceForTabs in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.757
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showOverviewRuler in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.762
+!MESSAGE NLS unused message: JavaEditorPreferencePage_highlightCurrentLine in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.766
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showPrintMargin in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.771
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColumn in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.776
+!MESSAGE NLS unused message: JavaEditorPreferencePage_showLineNumbers in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.780
+!MESSAGE NLS unused message: JavaEditorPreferencePage_lineNumberForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.785
+!MESSAGE NLS unused message: JavaEditorPreferencePage_currentLineHighlighColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.790
+!MESSAGE NLS unused message: JavaEditorPreferencePage_printMarginColor2 in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.796
+!MESSAGE NLS unused message: JavaEditorPreferencePage_typing_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.802
+!MESSAGE NLS unused message: JavaEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.807
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_disableCustomCarets in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.813
+!MESSAGE NLS unused message: JavaEditorPreferencePage_accessibility_wideCaret in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.822
+!MESSAGE NLS unused message: JavaEditorHoverConfigurationBlock_enabled in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.826
+!MESSAGE NLS unused message: MarkOccurrencesConfigurationBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.831
+!MESSAGE NLS unused message: JavaElementInfoPage_binary in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.836
+!MESSAGE NLS unused message: JavaElementInfoPage_classpath_entry_kind in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.842
+!MESSAGE NLS unused message: JavaElementInfoPage_library in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.846
+!MESSAGE NLS unused message: JavaElementInfoPage_nameLabel in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.852
+!MESSAGE NLS unused message: JavaElementInfoPage_not_present in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.858
+!MESSAGE NLS unused message: JavaElementInfoPage_package in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.863
+!MESSAGE NLS unused message: JavaElementInfoPage_package_contents in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.869
+!MESSAGE NLS unused message: JavaElementInfoPage_project in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.875
+!MESSAGE NLS unused message: JavaElementInfoPage_resource_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.879
+!MESSAGE NLS unused message: JavaElementInfoPage_source in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.885
+!MESSAGE NLS unused message: JavaElementInfoPage_variable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.892
+!MESSAGE NLS unused message: JavaElementInfoPage_variable_path in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.898
+!MESSAGE NLS unused message: JavaElementInfoPage_location in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.905
+!MESSAGE NLS unused message: SourceAttachmentPropertyPage_containerentry_message in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.909
+!MESSAGE NLS unused message: CodeFormatterPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.916
+!MESSAGE NLS unused message: JavaBuildPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.923
+!MESSAGE NLS unused message: JavaBuildConfigurationBlock_section_access_rules in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.931
+!MESSAGE NLS unused message: ProblemSeveritiesConfigurationBlock_section_nls in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.935
+!MESSAGE NLS unused message: CompliancePreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.940
+!MESSAGE NLS unused message: OptionsConfigurationBlock_job_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.946
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildall_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.949
+!MESSAGE NLS unused message: OptionsConfigurationBlock_buildproject_taskname in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.954
+!MESSAGE NLS unused message: JavaCategoryPropertyPage_text in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.958
+!MESSAGE NLS unused message: CodeTemplateBlock_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.964
+!MESSAGE NLS unused message: CodeTemplateBlock_export_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.968
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionBackgroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.973
+!MESSAGE NLS unused message: JavaEditorPreferencePage_selectionForegroundColor in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.978
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:43.982
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_extension in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.005
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_dictionary_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.011
+!MESSAGE NLS unused message: SpellingPreferencePage_filter_all_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.017
+!MESSAGE NLS unused message: BuildPathPreferencePage_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.021
+!MESSAGE NLS unused message: BuildPathPreferencePage_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.028
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_enable in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.034
+!MESSAGE NLS unused message: PropertiesFileEditorPreferencePage_link_tooltip in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.038
+!MESSAGE NLS unused message: SmartTypingConfigurationBlock_tabs_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.044
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_restricted_link in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.051
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideForbidden_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.058
+!MESSAGE NLS unused message: CodeAssistConfigurationBlock_hideDiscouraged_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.062
+!MESSAGE NLS unused message: CodeAssistAdvancedConfigurationBlock_parameterNameFromAttachedJavadoc_timeout_ms in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.068
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_member_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.074
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_type_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.079
+!MESSAGE NLS unused message: FavoriteStaticMemberInputDialog_error_enterName in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.085
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_description in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.091
+!MESSAGE NLS unused message: WorkingSetPropertyPage_ReadOnlyWizard_title in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.293
+!MESSAGE NLS unused message: TypeSelectionDialog_errorMessage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.298
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.306
+!MESSAGE NLS unused message: TypeSelectionDialog_notypes_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.309
+!MESSAGE NLS unused message: BuildPathDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.315
+!MESSAGE NLS unused message: GenerateHashCodeEqualsDialog_dialog_description in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.322
+!MESSAGE NLS unused message: JavaImageLabelprovider_assert_wrongImage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.326
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.329
+!MESSAGE NLS unused message: OpenTypeHierarchyUtil_selectionDialog_message in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.333
+!MESSAGE NLS unused message: ResourceTransferDragAdapter_cannot_delete_files in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:44.338
+!MESSAGE NLS unused message: SortMembersMessageDialog_configure_preferences_tool_tip in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.274
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_message2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.278
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_title2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.283
+!MESSAGE NLS unused message: CompilationUnitEditor_warning_save_delete in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.288
+!MESSAGE NLS unused message: StructureSelect_error_title in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.294
+!MESSAGE NLS unused message: StructureSelect_error_message in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.299
+!MESSAGE NLS unused message: StructureSelectNext_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.307
+!MESSAGE NLS unused message: StructureSelectNext_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.311
+!MESSAGE NLS unused message: StructureSelectNext_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.316
+!MESSAGE NLS unused message: StructureSelectPrevious_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.322
+!MESSAGE NLS unused message: StructureSelectPrevious_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.326
+!MESSAGE NLS unused message: StructureSelectPrevious_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.330
+!MESSAGE NLS unused message: StructureSelectEnclosing_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.347
+!MESSAGE NLS unused message: StructureSelectEnclosing_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.352
+!MESSAGE NLS unused message: StructureSelectEnclosing_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.357
+!MESSAGE NLS unused message: StructureSelectHistory_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.361
+!MESSAGE NLS unused message: StructureSelectHistory_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.366
+!MESSAGE NLS unused message: StructureSelectHistory_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.370
+!MESSAGE NLS unused message: GotoNextMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.375
+!MESSAGE NLS unused message: GotoPreviousMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.380
+!MESSAGE NLS unused message: SourceAttachmentForm_message_containerEntry in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:46.385
+!MESSAGE NLS unused message: JavaEditor_occurrence_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:48.934
+!MESSAGE NLS unused message: FileBuffer_status_ok in: org.eclipse.core.internal.filebuffers.FileBuffersMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:49.829
+!MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:50.318
+!MESSAGE NLS unused message: TOOLTIP_UNPIN_FIGURE in: org.eclipse.gef.ui.palette.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.046
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.050
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_java_resources in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.053
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_no_types in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.057
+!MESSAGE NLS unused message: OpenTypeHierarchyAction_messages_unknown_import_decl in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.068
+!MESSAGE NLS unused message: AddGetterSetterAction_error_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.072
+!MESSAGE NLS unused message: AddGetterSetterAction_SkipSetterForFinalDialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.076
+!MESSAGE NLS unused message: ExternalizeStringsAction_dialog_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.080
+!MESSAGE NLS unused message: FindStringsToExternalizeAction_non_externalized in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.086
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.090
+!MESSAGE NLS unused message: OpenExternalBrowserAction_javadoc_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.096
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.100
+!MESSAGE NLS unused message: OpenExternalBrowserAction_url_toolTip in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.116
+!MESSAGE NLS unused message: OpenExternalJavadocAction_select_element in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.120
+!MESSAGE NLS unused message: OpenExternalJavadocAction_libraries_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.124
+!MESSAGE NLS unused message: OpenExternalJavadocAction_source_no_location in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.149
+!MESSAGE NLS unused message: OpenExternalJavadocAction_no_entry in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.154
+!MESSAGE NLS unused message: OpenExternalJavadocAction_opening_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.157
+!MESSAGE NLS unused message: OpenExternalJavadocAction_dialog_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.161
+!MESSAGE NLS unused message: OpenExternalJavadocAction_code_resolve_failed in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.165
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_op_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.170
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_unexpected in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.174
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_error_notoncp in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.178
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.193
+!MESSAGE NLS unused message: OrganizeImportsAction_multi_status_description in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.198
+!MESSAGE NLS unused message: RefreshAction_error_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.202
+!MESSAGE NLS unused message: RefreshAction_error_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.207
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_title in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.211
+!MESSAGE NLS unused message: RefreshAction_locationDeleted_message in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:51.215
+!MESSAGE NLS unused message: AddDelegateMethodsAction_duplicate_methods in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:52.895
+!MESSAGE NLS unused message: MarkerRulerAction_addMarker in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:52.962
+!MESSAGE NLS unused message: MarkerRulerAction_removeMarkers in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:52.978
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_title in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:52.991
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_message in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:52.996
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_rememberquestion in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.324
+!MESSAGE NLS unused message: HistoryAction_inputElements_3 in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.328
+!MESSAGE NLS unused message: RefreshAction_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.332
+!MESSAGE NLS unused message: RefreshAction_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.336
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_text in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.339
+!MESSAGE NLS unused message: SearchScopeActionGroup_hierarchy_tooltip in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.346
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_title in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.357
+!MESSAGE NLS unused message: SelectWorkingSetAction_error_message in: org.eclipse.jdt.internal.ui.callhierarchy.CallHierarchyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.751
+!MESSAGE NLS unused message: SurroundWithTryCatchAction_no_exceptions in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.756
+!MESSAGE NLS unused message: ExtractTempInputPage_signature_preview in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.761
+!MESSAGE NLS unused message: ExtractTempInputPage_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.765
+!MESSAGE NLS unused message: MoveMembersInputPage_descriptionKey in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.769
+!MESSAGE NLS unused message: MoveMembersInputPage_upperListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.774
+!MESSAGE NLS unused message: MoveMembersInputPage_lowerListLabel in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.778
+!MESSAGE NLS unused message: MoveMembersInputPage_internal_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.786
+!MESSAGE NLS unused message: MoveMembersInputPage_move in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.791
+!MESSAGE NLS unused message: PullUpInputPage_hierarchyLabal in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.801
+!MESSAGE NLS unused message: RenameTempAction_exception in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.805
+!MESSAGE NLS unused message: MoveMembersAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.808
+!MESSAGE NLS unused message: MoveMembersAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.820
+!MESSAGE NLS unused message: ParameterEditDialog_type_error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.824
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Create_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.828
+!MESSAGE NLS unused message: MoveInstanceMethodPage_Deprecate_button_name in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.831
+!MESSAGE NLS unused message: UseSupertypeInputPage_Use_Supertype in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.835
+!MESSAGE NLS unused message: UseSupertypeInputPage_Internal_Error in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.838
+!MESSAGE NLS unused message: VisibilityControlUtil_final in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.842
+!MESSAGE NLS unused message: VisibilityControlUtil_synchronized in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.845
+!MESSAGE NLS unused message: PullUpInputPage1_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.849
+!MESSAGE NLS unused message: PullUpInputPage1_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.853
+!MESSAGE NLS unused message: PushDownInputPage_Mark_selected_members in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.856
+!MESSAGE NLS unused message: PushDownInputPage_status_line in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.868
+!MESSAGE NLS unused message: UseSupertypeAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.872
+!MESSAGE NLS unused message: UseSupertypeAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.875
+!MESSAGE NLS unused message: PushDownAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.879
+!MESSAGE NLS unused message: PushDownAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.882
+!MESSAGE NLS unused message: ExtractInterfaceAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.886
+!MESSAGE NLS unused message: ExtractInterfaceAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.889
+!MESSAGE NLS unused message: ConvertNestedToTopAction_Refactoring in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.899
+!MESSAGE NLS unused message: ConvertNestedToTopAction_not_possible in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.904
+!MESSAGE NLS unused message: RenameResourceWizard_defaultPageTitle in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.908
+!MESSAGE NLS unused message: RenameResourceWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.911
+!MESSAGE NLS unused message: RenameLocalVariableWizard_inputPage_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.915
+!MESSAGE NLS unused message: ParameterEditDialog_type_invalid in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.919
+!MESSAGE NLS unused message: DeleteWizard_12 in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.923
+!MESSAGE NLS unused message: IntroduceIndirectionInputPage_select_declaring_class in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.927
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_fieldgroup_text in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.930
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_title in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.934
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_empty in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.939
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_ChoosePackageDialog_description in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.951
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_label in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.955
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_choosepackage_button in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.959
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createdelegate_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.964
+!MESSAGE NLS unused message: IntroduceParameterObjectWizard_createcomments_checkbox in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.968
+!MESSAGE NLS unused message: ExtractClassWizard_button_down in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.972
+!MESSAGE NLS unused message: ExtractClassWizard_checke_setters in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.977
+!MESSAGE NLS unused message: ExtractClassWizard_button_up in: org.eclipse.jdt.internal.ui.refactoring.refactoringui
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:53.995
+!MESSAGE NLS unused message: copyAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.002
+!MESSAGE NLS unused message: copyAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.006
+!MESSAGE NLS unused message: copyAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.011
+!MESSAGE NLS unused message: deleteAction_checkDeletion in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.015
+!MESSAGE NLS unused message: deleteAction_confirm_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.019
+!MESSAGE NLS unused message: deleteAction_confirmReadOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.025
+!MESSAGE NLS unused message: deleteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.029
+!MESSAGE NLS unused message: DestinationRenderer_packages in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.034
+!MESSAGE NLS unused message: moveAction_checkMove in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.038
+!MESSAGE NLS unused message: moveAction_error_readOnly in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.043
+!MESSAGE NLS unused message: moveAction_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.065
+!MESSAGE NLS unused message: moveAction_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.070
+!MESSAGE NLS unused message: moveAction_destination_label in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.074
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.079
+!MESSAGE NLS unused message: ReorgAction_checkSaveTargets_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.083
+!MESSAGE NLS unused message: ReorgAction_exception_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.088
+!MESSAGE NLS unused message: ReorgAction_task_saving in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.093
+!MESSAGE NLS unused message: ReorgAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.097
+!MESSAGE NLS unused message: ReorgAction_reorganize in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.101
+!MESSAGE NLS unused message: CopyResourcesToClipboardAction_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.105
+!MESSAGE NLS unused message: DeleteResourceAction_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.108
+!MESSAGE NLS unused message: DeleteResourceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.120
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_paste1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.124
+!MESSAGE NLS unused message: PasteSourceReferencesFromClipboardAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.128
+!MESSAGE NLS unused message: ReorgExceptionHandler_see_details in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.132
+!MESSAGE NLS unused message: ReorgGroup_copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.136
+!MESSAGE NLS unused message: ReorgGroup_pasteAction_description in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.140
+!MESSAGE NLS unused message: SourceReferenceAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.145
+!MESSAGE NLS unused message: JdtCopyAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.149
+!MESSAGE NLS unused message: JdtCopyAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.153
+!MESSAGE NLS unused message: JdtCopyAction_Copy in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.158
+!MESSAGE NLS unused message: JdtMoveAction_move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.162
+!MESSAGE NLS unused message: JdtMoveAction_preview in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.175
+!MESSAGE NLS unused message: JdtMoveAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.185
+!MESSAGE NLS unused message: JdtMoveAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.190
+!MESSAGE NLS unused message: JdtMoveAction_update_classpath in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.195
+!MESSAGE NLS unused message: JdtMoveAction_Move in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.200
+!MESSAGE NLS unused message: JdtMoveAction_default_package_warning in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.204
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.208
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.212
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete1 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.215
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_confirm_gs_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.219
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_delete_gs in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.223
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.238
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.243
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.247
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cu_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.251
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_cus_empty in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.260
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate_name in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.264
+!MESSAGE NLS unused message: ReorgDestinationAction_error in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.269
+!MESSAGE NLS unused message: ReorgDestinationAction_exception in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.273
+!MESSAGE NLS unused message: ReorgDestinationAction_duplicate in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.281
+!MESSAGE NLS unused message: ReorgDestinationAction_exception_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.310
+!MESSAGE NLS unused message: ReorgDestinationAction_error_occurred in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.314
+!MESSAGE NLS unused message: ReorgQueries_Confirm_Overwritting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.317
+!MESSAGE NLS unused message: ReorgQueries_exists_read_only in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.321
+!MESSAGE NLS unused message: ReorgQueries_exists in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.325
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.328
+!MESSAGE NLS unused message: CopyToClipboardProblemDialog_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.333
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.346
+!MESSAGE NLS unused message: PasteResourcesFromClipboardAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.351
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.355
+!MESSAGE NLS unused message: ReorgExceptionHandler_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.358
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.362
+!MESSAGE NLS unused message: DeleteSourceReferencesAction_sure_elements in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.366
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_title in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.369
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_error_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.374
+!MESSAGE NLS unused message: DeleteSourceReferenceAction_deleting in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.377
+!MESSAGE NLS unused message: DeleteResourcesAction_deleteAction_confirm_message in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.381
+!MESSAGE NLS unused message: DeleteResourcesAction_Delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.385
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.397
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_resources in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.401
+!MESSAGE NLS unused message: DeleteResourcesAction_default_package in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.404
+!MESSAGE NLS unused message: DeleteResourcesAction_referenced in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.408
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.412
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_single_package_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.416
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.419
+!MESSAGE NLS unused message: DeleteResourcesAction_sure_delete_linked_multiple_with_packages_or_pfr in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.423
+!MESSAGE NLS unused message: NewNameQueries_21 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.428
+!MESSAGE NLS unused message: NewNameQueries_22 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.433
+!MESSAGE NLS unused message: ReorgMoveWizard_4 in: org.eclipse.jdt.internal.ui.refactoring.reorg.ReorgMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.581
+!MESSAGE NLS unused message: PropertiesStructureCreator_error_occurred in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:54.585
+!MESSAGE NLS unused message: AddFromHistory_noHistoryMessage in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:55.317
+!MESSAGE NLS unused message: ToggleDetailPaneAction_6 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:55.322
+!MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:57.189
+!MESSAGE NLS unused message: TextEditorPreferencePage_colorsAndFonts_link_tooltip in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:17:57.250
+!MESSAGE NLS unused message: TextEditorPreferencePage_overwriteMode in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.jdt.launching 4 4 2015-07-21 00:18:15.539
+!MESSAGE Failed to retrieve default libraries for C:\Program Files\Java\jre1.8.0_25
+
+!ENTRY org.eclipse.jdt.launching 4 4 2015-07-21 00:18:15.981
+!MESSAGE No se pueden recuperar las propiedades del sistema
+!STACK 1
+org.eclipse.core.runtime.CoreException: No se pueden recuperar las propiedades del sistema
+	at org.eclipse.jdt.launching.AbstractVMInstall.abort(AbstractVMInstall.java:495)
+	at org.eclipse.jdt.launching.AbstractVMInstall.evaluateSystemProperties(AbstractVMInstall.java:445)
+	at org.eclipse.jdt.internal.launching.environments.ExecutionEnvironmentAnalyzer.isFoundation1_0(ExecutionEnvironmentAnalyzer.java:142)
+	at org.eclipse.jdt.internal.launching.environments.ExecutionEnvironmentAnalyzer.analyze(ExecutionEnvironmentAnalyzer.java:90)
+	at org.eclipse.jdt.internal.launching.environments.Analyzer.analyze(Analyzer.java:40)
+	at org.eclipse.jdt.internal.launching.environments.EnvironmentsManager.analyze(EnvironmentsManager.java:338)
+	at org.eclipse.jdt.internal.launching.environments.EnvironmentsManager.vmAdded(EnvironmentsManager.java:377)
+	at org.eclipse.jdt.launching.JavaRuntime.fireVMAdded(JavaRuntime.java:2351)
+	at org.eclipse.jdt.launching.JavaRuntime.initializeVMs(JavaRuntime.java:2722)
+	at org.eclipse.jdt.launching.JavaRuntime.getVMInstallTypes(JavaRuntime.java:523)
+	at org.eclipse.jdt.launching.JavaRuntime.getVMInstallType(JavaRuntime.java:405)
+	at org.eclipse.jdt.internal.launching.JREContainerInitializer.resolveVM(JREContainerInitializer.java:147)
+	at org.eclipse.jdt.internal.launching.JREContainerInitializer.initialize(JREContainerInitializer.java:57)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:2863)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:1877)
+	at org.eclipse.jdt.core.JavaCore.getClasspathContainer(JavaCore.java:2798)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2674)
+	at org.eclipse.jdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2838)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:1943)
+	at org.eclipse.jdt.internal.core.JavaProject.buildStructure(JavaProject.java:461)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:258)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:518)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:255)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:241)
+	at org.eclipse.jdt.internal.core.JavaProject.getJavaProjectElementInfo(JavaProject.java:1623)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2310)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:59)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:66)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:26)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:175)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:268)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:190)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:89)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:788)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1244)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:178)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:114)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:136)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:406)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 150 2015-07-21 00:18:16.007
+!MESSAGE No se pueden recuperar las propiedades del sistema
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:16.749
+!MESSAGE NLS unused message: AllTypesCache_searching in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:16.776
+!MESSAGE NLS unused message: AllTypesCache_checking_type_cache in: org.eclipse.jdt.internal.corext.CorextMessages
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 00:18:25.068
+!MESSAGE Exception thrown.
+!STACK 0
+org.eclipse.emf.ecore.resource.impl.ResourceSetImpl$1$DiagnosticWrappedException: org.eclipse.emf.ecore.xmi.FeatureNotFoundException: Feature 'size' not found. (file:/C:/CursoInces/programacion-inces/J2SE/Profesor/.metadata/.plugins/org.eclipse.core.resources/.projects/Profesor/org.eclipse.ve.java.core/.cache/emfmodel/src/views/Principal.xmi, 2, 5373)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.handleDemandLoadException(ResourceSetImpl.java:307)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:268)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:390)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:262)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doLoadFromCache(VEModelCacheUtility.java:103)
+	at org.eclipse.ve.internal.java.codegen.core.VEModelInstance.createComposition(VEModelInstance.java:100)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reConnect(JavaSourceTranslator.java:1134)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:910)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.eclipse.emf.ecore.xmi.FeatureNotFoundException: Feature 'size' not found. (file:/C:/CursoInces/programacion-inces/J2SE/Profesor/.metadata/.plugins/org.eclipse.core.resources/.projects/Profesor/org.eclipse.ve.java.core/.cache/emfmodel/src/views/Principal.xmi, 2, 5373)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.reportUnknownFeature(XMLHandler.java:1728)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleUnknownFeature(XMLHandler.java:1692)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.handleUnknownFeature(XMIHandler.java:132)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2427)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMIHandler.handleObjectAttribs(SAXXMIHandler.java:74)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:1929)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromTypeName(XMLHandler.java:1833)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:1768)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1576)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:876)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.processElement(XMIHandler.java:82)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:854)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:626)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:179)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:179)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1089)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:895)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:249)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:83)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:264)
+	... 9 more
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 00:18:25.336
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMainType(CodeGenUtil.java:204)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethods(CodeGenUtil.java:239)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethodsInfo(CodeGenUtil.java:249)
+	at org.eclipse.ve.internal.java.codegen.java.JavaBeanModelBuilder.build(JavaBeanModelBuilder.java:411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reverseParse(JavaSourceTranslator.java:865)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:947)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:32.664
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/awt/SystemColor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:32.949
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/nio/file/Files.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.132
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/Instant.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.154
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalDate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.159
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.166
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/LocalTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.170
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/MonthDay.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.180
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/OffsetDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.184
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/OffsetTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.189
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/Year.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.194
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/YearMonth.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.199
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/ZonedDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.203
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/chrono/AbstractChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.214
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/chrono/HijrahChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.278
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.294
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatterBuilder$ReducedPrinterParser.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.300
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/format/DateTimeFormatterBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.335
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/temporal/TemporalAdjusters.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.364
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/time/temporal/TemporalQueries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.389
+!MESSAGE NLS unused message: NewSourceFolderWizardPage_warning_AddedExclusions in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.394
+!MESSAGE NLS unused message: NewVariableEntryDialog_info_isfolder in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.399
+!MESSAGE NLS unused message: CPListLabelProvider_container_access_rules in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.402
+!MESSAGE NLS unused message: CPListLabelProvider_access_rules_enabled in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.406
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.410
+!MESSAGE NLS unused message: CPListLabelProvider_project_access_rules_not_combined in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.414
+!MESSAGE NLS unused message: NewFolderDialog_folderNameEmpty in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.418
+!MESSAGE NLS unused message: NewFolderDialog_errorTitle in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.424
+!MESSAGE NLS unused message: NewFolderDialog_internalError in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.428
+!MESSAGE NLS unused message: NewFolderDialog_progress in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.432
+!MESSAGE NLS unused message: LinkFolderDialog_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.435
+!MESSAGE NLS unused message: LinkFolderDialog_createIn in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.447
+!MESSAGE NLS unused message: LinkFolderDialog_directory_message in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.451
+!MESSAGE NLS unused message: LinkFolderDialog_folderNameGroup_label in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.455
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_title in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.459
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_external_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.463
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_LocationGroup_workspace_desc in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.466
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.470
+!MESSAGE NLS unused message: NewJavaProjectWizardPageOne_Message_notExisingProjectOnWorkspaceRoot in: org.eclipse.jdt.internal.ui.wizards.NewWizardMessages
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.538
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CheckedList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.544
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CheckedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.553
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$CopiesList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.582
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Collections$UnmodifiableMap$UnmodifiableEntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.627
+!MESSAGE NLS unused message: AbstractWorkingSetPage_workingSet_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.642
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameMustNotBeEmpty in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.645
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_workingSetExists in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.649
+!MESSAGE NLS unused message: AbstractWorkingSetPage_warning_nameWhitespace in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.662
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.666
+!MESSAGE NLS unused message: JavaWorkingSetPage_projectClosedDialog_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.670
+!MESSAGE NLS unused message: WorkingSetModel_histroy_name in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.673
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.677
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_error_details in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.680
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.684
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_close_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.688
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_label in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.700
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_title in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.704
+!MESSAGE NLS unused message: OpenCloseWorkingSetAction_open_error_message in: org.eclipse.jdt.internal.ui.workingsets.WorkingSetMessages
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.718
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.724
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.728
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/PrimitiveIterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.738
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.751
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Spliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/TreeMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.772
+!MESSAGE NLS unused message: FilterDescriptor_filterCreationError_title in: org.eclipse.jdt.internal.ui.filters.FilterMessages
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.788
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:33.938
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/concurrent/ConcurrentSkipListMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.978
+!MESSAGE NLS unused message: BuildGroup_buildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:33.982
+!MESSAGE NLS unused message: BuildGroup_rebuildProject in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.005
+!MESSAGE NLS unused message: DropAdapter_alreadyExists in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.009
+!MESSAGE NLS unused message: DropAdapter_errorSame in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.013
+!MESSAGE NLS unused message: DropAdapter_errorSubfolder in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.017
+!MESSAGE NLS unused message: DropAdapter_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.020
+!MESSAGE NLS unused message: FilterSelectionAction_apply_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.024
+!MESSAGE NLS unused message: FilterSelectionAction_apply_toolTip in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.028
+!MESSAGE NLS unused message: FilterSelectionAction_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.032
+!MESSAGE NLS unused message: OpenResource_action_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.035
+!MESSAGE NLS unused message: OpenResource_action_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.039
+!MESSAGE NLS unused message: OpenResource_error_message in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.051
+!MESSAGE NLS unused message: OpenResource_error_messageArgs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.055
+!MESSAGE NLS unused message: OpenResource_error_messageProblems in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.060
+!MESSAGE NLS unused message: OpenResource_error_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.064
+!MESSAGE NLS unused message: Sorter_expectPackage in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.068
+!MESSAGE NLS unused message: ShowLibraries_hideReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.071
+!MESSAGE NLS unused message: ShowLibraries_showReferencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.075
+!MESSAGE NLS unused message: ShowBinaries_hideBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.078
+!MESSAGE NLS unused message: ShowBinaries_showBinaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.082
+!MESSAGE NLS unused message: ShowInNavigator_description in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.086
+!MESSAGE NLS unused message: ShowInNavigator_error in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.089
+!MESSAGE NLS unused message: ShowInNavigator_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.101
+!MESSAGE NLS unused message: PackageExplorer_filters in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.105
+!MESSAGE NLS unused message: PackageExplorer_gotoTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.108
+!MESSAGE NLS unused message: PackageExplorer_openPerspective in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.112
+!MESSAGE NLS unused message: PackageExplorer_refactoringTitle in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.116
+!MESSAGE NLS unused message: PackageExplorer_referencedLibs in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.120
+!MESSAGE NLS unused message: PackageExplorer_binaryProjects in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.123
+!MESSAGE NLS unused message: PackageExplorer_openWith in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.127
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_title in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.131
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_preview_label in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:18:34.134
+!MESSAGE NLS unused message: SelectionTransferDropAdapter_dialog_question in: org.eclipse.jdt.internal.ui.packageview.PackagesMessages
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.149
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.153
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.163
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BinaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.172
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Consumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.177
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoubleConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.182
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoublePredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.191
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/DoubleUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.196
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Function.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.228
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.233
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.249
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/IntUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.266
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.280
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.289
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/LongUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.294
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/Predicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.300
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/UnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.378
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/regex/Pattern.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.409
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/AbstractPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.416
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Collectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.601
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DistinctOps$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.613
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DoublePipeline$5$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.619
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/DoublePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.635
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/FindOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.641
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ForEachOps$ForEachOrderedTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/IntPipeline$7$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/IntPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.722
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/LongPipeline$6$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.730
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/LongPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.752
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/MatchOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.759
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.778
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.783
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Node.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.790
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.801
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.806
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.826
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$10$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.834
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$8$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.840
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline$9$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.846
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/ReferencePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.853
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.858
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.862
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.867
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SliceOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.873
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SortedOps$RefSortingSink.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.881
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/SpinedBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.890
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$DistinctSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.895
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$DoubleWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.901
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$IntWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.906
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$LongWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.933
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.941
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.945
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.951
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.985
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/StreamSpliterators$WrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:34.996
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/stream/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:35.298
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|javax/sql/rowset/spi/SyncFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.098
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/applet/AppletPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.164
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/ImageCache.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/MultiResolutionBufferedImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.207
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/image/MultiResolutionToolkitImage.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.257
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/shell/Win32ShellFolderManager2$ComInvoker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.324
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/font/CreatedFontTracker$TempFileDeletionHook.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:36.909
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/opengl/OGLRenderQueue.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:37.281
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/net/ExtendedOptionsImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:37.675
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/nio/ch/ThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.085
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/security/x509/X509CertImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.242
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/swing/JLightweightFrame.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/d3d/D3DScreenUpdateManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.351
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/java2d/Disposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.363
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/font/SunFontManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.387
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/windows/WToolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.465
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|sun/awt/AWTAutoShutdown.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.528
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|javax/swing/plaf/metal/MetalLookAndFeel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.641
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|javax/swing/JTable.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:38.877
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/function/BiFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.103
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/concurrent/ConcurrentMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.135
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Map$Entry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.154
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Comparator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.166
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/BitSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.182
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/util/Arrays.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.232
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/nio/CharBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.362
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/lang/reflect/AnnotatedElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2015-07-21 00:18:39.515
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/rt.jar|java/lang/CharSequence.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 00:29:20.843
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMainType(CodeGenUtil.java:204)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethods(CodeGenUtil.java:239)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethodsInfo(CodeGenUtil.java:249)
+	at org.eclipse.ve.internal.java.codegen.java.JavaBeanModelBuilder.build(JavaBeanModelBuilder.java:411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reverseParse(JavaSourceTranslator.java:865)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:947)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 00:29:25.684
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMainType(CodeGenUtil.java:204)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethods(CodeGenUtil.java:239)
+	at org.eclipse.ve.internal.java.codegen.util.CodeGenUtil.getMethodsInfo(CodeGenUtil.java:249)
+	at org.eclipse.ve.internal.java.codegen.java.JavaBeanModelBuilder.build(JavaBeanModelBuilder.java:411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reverseParse(JavaSourceTranslator.java:865)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:947)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.644
+!MESSAGE NLS unused message: CorrectionMessages_add_type_parameters_to_instantiation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.648
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator__multiFixErrorDialog_Titel in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.652
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_message in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.659
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_unusedimport_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.663
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_project_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.667
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_workspace_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.670
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeworkspace_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.674
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeproject_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.678
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_surroundwith_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.682
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_unqualifiedfieldaccess_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.686
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_externalizestrings_dialog_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.698
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_addnon_nls_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.704
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.708
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostaticdefining_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.712
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_indirectaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.715
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_remove_nls_tag_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.719
+!MESSAGE NLS unused message: TypeMismatchSubProcessor_0 in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.723
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_changemodifiertodefault_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.728
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_addoverrideannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.732
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_adddeprecatedannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.736
+!MESSAGE NLS unused message: SuppressWarningsSubProcessor_suppress_warnings_initializer_label in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.741
+!MESSAGE NLS unused message: UnimplementedMethodsCorrectionProposal_info in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.755
+!MESSAGE NLS unused message: QuickAssistProcessor_forLoop_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.760
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_removeParenthesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.768
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_addParethesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.773
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator_multiFixErrorDialog_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:29:57.776
+!MESSAGE NLS unused message: GetterSetterCorrectionSubProcessor_createsetterusingencapsulatefield_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:09.586
+!MESSAGE NLS unused message: JavadocHover_back_toolTip in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.469
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_RemovedAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.472
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_AlteredAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.476
+!MESSAGE NLS unused message: Java50Fix_ParametrizeTypeReference_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.480
+!MESSAGE NLS unused message: CodeStyleFix_AddThisQualifier_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.484
+!MESSAGE NLS unused message: ExpressionsFix_addParanoiacParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.488
+!MESSAGE NLS unused message: ExpressionsFix_add_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.492
+!MESSAGE NLS unused message: ExpressionsFix_removeUnnecessaryParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.495
+!MESSAGE NLS unused message: ExpressionsFix_remove_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:16.502
+!MESSAGE NLS unused message: CleanUpPostSaveListener_exception_error in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:41.595
+!MESSAGE NLS unused message: ImportsStructure_operation_description in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:41.603
+!MESSAGE NLS unused message: GenerateToStringOperation_error_dialog_title in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:41.614
+!MESSAGE NLS unused message: GenerateToStringOperation_invalid_message in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.863
+!MESSAGE NLS unused message: Assert_assertion_failed in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.868
+!MESSAGE NLS unused message: Assert_null_argument in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.874
+!MESSAGE NLS unused message: ProcessorBasedRefactoring_error_unsupported_initialization in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.878
+!MESSAGE NLS unused message: Change_is_unsaved in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.882
+!MESSAGE NLS unused message: Change_is_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.885
+!MESSAGE NLS unused message: Change_has_modifications in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.889
+!MESSAGE NLS unused message: Change_same_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.893
+!MESSAGE NLS unused message: UndoCompilationUnitChange_no_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.896
+!MESSAGE NLS unused message: RenameResourceChange_rename_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.900
+!MESSAGE NLS unused message: RenameResourceChange_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.904
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.907
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description_short in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.911
+!MESSAGE NLS unused message: DeleteFromClassPathChange_remove in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.915
+!MESSAGE NLS unused message: MoveResourceChange_move in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.928
+!MESSAGE NLS unused message: AbstractDeleteChange_deleting in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.932
+!MESSAGE NLS unused message: AddToClasspathChange_add in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.936
+!MESSAGE NLS unused message: MoveCompilationUnitChange_default_package in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.943
+!MESSAGE NLS unused message: InlineTempRefactoring_syntax_errors in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.947
+!MESSAGE NLS unused message: ExtractTempRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.951
+!MESSAGE NLS unused message: ExtractTempRefactoring_preview in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.955
+!MESSAGE NLS unused message: ExtractTempRefactoring_extract_temp in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.959
+!MESSAGE NLS unused message: ExtractTempRefactoring_update_imports in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.963
+!MESSAGE NLS unused message: ExtractClassRefactoring_comment_enclosing_type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.968
+!MESSAGE NLS unused message: ExtractConstantRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.972
+!MESSAGE NLS unused message: RenameEnumConstProcessor_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:48.984
+!MESSAGE NLS unused message: RenameFieldRefactoring_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.004
+!MESSAGE NLS unused message: RenameTypeProcessor_cannot_rename_locals_same_new_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.008
+!MESSAGE NLS unused message: RippleMethodFinder_analizing_hierarchy in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.013
+!MESSAGE NLS unused message: RenameResourceRefactoring_Internal_Error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.016
+!MESSAGE NLS unused message: RenameResourceRefactoring_alread_exists in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.020
+!MESSAGE NLS unused message: RenameResourceRefactoring_invalidName in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.024
+!MESSAGE NLS unused message: RenameResourceProcessor_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.028
+!MESSAGE NLS unused message: ExtractSupertypeProcessor_unexpected_exception in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.032
+!MESSAGE NLS unused message: MoveMembersRefactoring_check_availability in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.036
+!MESSAGE NLS unused message: SurroundWithTryCatchAnalyzer_noUncaughtExceptions in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.040
+!MESSAGE NLS unused message: CopyRefactoring_searching in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.045
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.049
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_method_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.061
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_constructor_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.065
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_field_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.070
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_replace_body_with_delegation in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.074
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_method in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.077
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_message in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.082
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.085
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.089
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.093
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.098
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.101
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.110
+!MESSAGE NLS unused message: PromoteTempToFieldRefactoring_uses_types_declared_locally in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.114
+!MESSAGE NLS unused message: ConvertAnonymousToNestedRefactoring_edit_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.120
+!MESSAGE NLS unused message: InlineConstantRefactoring_members_declared_in_anonymous in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.124
+!MESSAGE NLS unused message: InlineConstantRefactoring_source_code_unavailable in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.128
+!MESSAGE NLS unused message: DeleteFileChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.132
+!MESSAGE NLS unused message: DeleteFolderChange_0 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.136
+!MESSAGE NLS unused message: DeleteSourceManipulationChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.140
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.144
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.148
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.152
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.169
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.173
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.177
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.182
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.189
+!MESSAGE NLS unused message: DeleteRefactoring_3 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.193
+!MESSAGE NLS unused message: JavaDeleteProcessor_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.197
+!MESSAGE NLS unused message: JavaRefactoringDescriptor_initialization_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.202
+!MESSAGE NLS unused message: ChangeTypeRefactoring_Generalize_Type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.206
+!MESSAGE NLS unused message: ChangeTypeRefactoring_changes in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.210
+!MESSAGE NLS unused message: ChangeTypeRefactoring_cantDoIt in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.214
+!MESSAGE NLS unused message: ChangeTypeRefactoring_unhandledSearchException in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.227
+!MESSAGE NLS unused message: ChangeTypeRefactoring_failedToSelectType in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:30:49.232
+!MESSAGE NLS unused message: ChangeTypeRefactoring_javaLangObject in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:33:15.401
+!MESSAGE NLS unused message: ProposalInfo_more_to_come in: org.eclipse.jdt.internal.ui.text.java.JavaTextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.741
+!MESSAGE NLS unused message: TextChanges_error_unsaved_changes in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.746
+!MESSAGE NLS unused message: ParticipantDescriptor_correct in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.751
+!MESSAGE NLS unused message: UnknownRefactoringDescriptor_initialization_error in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.760
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_deleting in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.764
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_name in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:07.769
+!MESSAGE NLS unused message: MoveResourceChange_error_destination_already_exists in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:54.266
+!MESSAGE NLS unused message: CommonTab_No_Encoding_Selected in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:34:54.270
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:41:35.621
+!MESSAGE NLS unused message: FileImport_createComplete in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:41:35.625
+!MESSAGE NLS unused message: FileImport_createSelectedFolders in: org.eclipse.ui.internal.wizards.datatransfer.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.054
+!MESSAGE NLS unused message: MainPreferencePage_sourceGroup in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.058
+!MESSAGE NLS unused message: MainPreferencePage_group2 in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.064
+!MESSAGE NLS unused message: AdvancedLauncherTab_error_featureSetup in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.068
+!MESSAGE NLS unused message: WorkbenchLauncherConfigurationDelegate_noJRE in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.071
+!MESSAGE NLS unused message: WorkbenchLauncherConfigurationDelegate_jrePathNotFound in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.075
+!MESSAGE NLS unused message: WorkbenchLauncherConfigurationDelegate_badFeatureSetup in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.079
+!MESSAGE NLS unused message: WorkbenchLauncherConfigurationDelegate_noStartup in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.082
+!MESSAGE NLS unused message: JUnitLaunchConfiguration_error_notaplugin in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.086
+!MESSAGE NLS unused message: JUnitLaunchConfiguration_error_missingPlugin in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.090
+!MESSAGE NLS unused message: LauncherUtils_cannotLaunchApplication in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.094
+!MESSAGE NLS unused message: Launcher_error_code15 in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.101
+!MESSAGE NLS unused message: ContentPage_noname in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.116
+!MESSAGE NLS unused message: PluginImportOperation_executionEnvironment in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.120
+!MESSAGE NLS unused message: ImportWizard_messages_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.124
+!MESSAGE NLS unused message: ImportWizard_messages_exists in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.144
+!MESSAGE NLS unused message: EnvironmentSection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.148
+!MESSAGE NLS unused message: EquinoxLaunchConfiguration_oldTarget in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.153
+!MESSAGE NLS unused message: JRESection_title in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.156
+!MESSAGE NLS unused message: OSGiLaunchConfiguration_selected in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.160
+!MESSAGE NLS unused message: EclipsePluginValidationOperation_pluginMissing in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:42:18.164
+!MESSAGE NLS unused message: VMHelper_cannotFindExecEnv in: org.eclipse.pde.internal.ui.pderesources
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 00:48:09.931
+!MESSAGE NLS unused message: CompletionEvaluator_default_package in: org.eclipse.jdt.internal.ui.text.javadoc.JavaDocMessages
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 00:48:19.902
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at org.eclipse.emf.common.util.BasicEList.get(BasicEList.java:514)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObjectForURIFragmentRootSegment(ResourceImpl.java:642)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:692)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:671)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setValueFromId(XMLHandler.java:2511)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2439)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMIHandler.handleObjectAttribs(SAXXMIHandler.java:74)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:1929)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromTypeName(XMLHandler.java:1833)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:1768)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1576)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:876)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.processElement(XMIHandler.java:82)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:854)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:626)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:179)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:179)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1089)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:895)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:249)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:83)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:264)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:390)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:262)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doLoadFromCache(VEModelCacheUtility.java:103)
+	at org.eclipse.ve.internal.java.codegen.core.VEModelInstance.createComposition(VEModelInstance.java:100)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reConnect(JavaSourceTranslator.java:1134)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:910)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 4 0 2015-07-21 02:07:28.270
+!MESSAGE Exception thrown.
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.ExpressionCommands.sendSyncCommand(ExpressionCommands.java:261)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.sync(REMConnection.java:320)
+	at org.eclipse.jem.internal.proxy.remote.REMExpression.pushInvoke(REMExpression.java:970)
+	at org.eclipse.jem.internal.proxy.core.Expression.invokeExpression(Expression.java:685)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.initBeanProxy(MemberContainerProxyAdapter.java:581)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2089)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 02:07:35.535
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.IllegalStateException: IWAV0173I Se ha producido una excepción de mandato. Vea el archivo .log para conocer los detalles.
+	at org.eclipse.jem.internal.proxy.remote.REMExpression.throwIllegalStateException(REMExpression.java:193)
+	at org.eclipse.jem.internal.proxy.remote.REMExpression.pushInvoke(REMExpression.java:1001)
+	at org.eclipse.jem.internal.proxy.core.Expression.invokeExpression(Expression.java:685)
+	at org.eclipse.ve.internal.java.core.MemberContainerProxyAdapter.initBeanProxy(MemberContainerProxyAdapter.java:581)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:2089)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

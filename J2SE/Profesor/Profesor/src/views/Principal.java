@@ -1,5 +1,9 @@
 package views;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JDesktopPane;
 import javax.swing.JFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
@@ -11,8 +15,10 @@ public class Principal extends JFrame {
 	private JMenuBar barraMenu = null;
 	private JMenu menuOpciones = null;
 	private JMenuItem menuItemCalculadora = null;
+	private IniciarSesion iniciar_Sesion;
 	private JMenu menuAyuda = null;
 	private JMenuItem menuItemSalir = null;
+	private JDesktopPane contenedorPrincipal = null;
 
 
 	private JMenuBar getBarraMenu() {
@@ -38,6 +44,22 @@ public class Principal extends JFrame {
 		if (menuItemCalculadora == null) {
 			menuItemCalculadora = new JMenuItem();
 			menuItemCalculadora.setText("Calculadora");
+			menuItemCalculadora.addActionListener(new ActionListener()
+			{
+		public void actionPerformed(ActionEvent e)
+		{
+		if(iniciar_Sesion == null || iniciar_Sesion.isVisible()==false)
+		{
+			iniciar_Sesion = new IniciarSesion();
+			iniciar_Sesion.setVisible(true);
+			contenedorPrincipal.add(iniciar_Sesion);
+		   
+		  
+		}			            	
+		}
+			        });
+				
+				
 		}
 		return menuItemCalculadora;
 	}
@@ -59,6 +81,18 @@ public class Principal extends JFrame {
 		return menuItemSalir;
 	}
 
+	/**
+	 * This method initializes contenedorPrincipal	
+	 * 	
+	 * @return javax.swing.JDesktopPane	
+	 */
+	private JDesktopPane getContenedorPrincipal() {
+		if (contenedorPrincipal == null) {
+			contenedorPrincipal = new JDesktopPane();
+		}
+		return contenedorPrincipal;
+	}
+
 	public static void main(String[] args) {
 		Principal thisClass = new Principal();
 		thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -72,9 +106,10 @@ public class Principal extends JFrame {
 
 	private void initialize() {
 		this.setSize(300, 200);
+		this.setContentPane(getContenedorPrincipal());
 		this.setJMenuBar(getBarraMenu());
 		this.setTitle("Ventana Principal");
 
 	}
-
+	
 }

@@ -1,0 +1,19 @@
+package views;
+
+import java.awt.BorderLayout;
+import javax.swing.JPanel;
+import javax.swing.JInternalFrame;
+
+public class IniciarSesion extends JInternalFrame {
+
+	private JPanel jContentPane = null;
+
+	/**
+	 * This is the xxx default constructor
+	 */
+	public IniciarSesion() {
+		super();
+		initialize();
+	}
+
+}
