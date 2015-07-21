@@ -1,6 +1,8 @@
 package Vista;
 
 import java.awt.Rectangle;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 
 import javax.swing.JButton;
@@ -17,14 +19,16 @@ public class Ventana extends JFrame{
 	
 	private static final long serialVersionUID = -1683049540705434541L;
 	
-	JMenuBar menu = null;
-	JMenu opciones = null;
-	JMenuItem calculadora, salir = null;
+	private JMenuBar menu = null;
+	private JMenu opciones = null;
+	private JMenuItem calculadora, registroI, salir = null;
 	
-	JPanel panel = null;
-	JLabel inicio = null;
+	private JPanel panel = null;
+	private JLabel inicio = null;
 	
-	JButton calc, ecu, login, registro = null;
+	private JButton calc, ecu, login, registro = null;
+	
+	private Registro registrov;
 
 	public Ventana(){
 		Inicializar();
@@ -54,9 +58,33 @@ public class Ventana extends JFrame{
 			opciones = new JMenu();
 			opciones.setText("Opciones");
 			opciones.add(CalculadoraItem());
+			opciones.add(RegistroItem());
 			opciones.add(SalirItem());
 		}
 		return opciones;
+	}
+	
+	private JMenuItem RegistroItem(){
+		if (registroI == null){
+			registroI = new JMenuItem();
+			registroI.setText("Registro");
+		}
+		
+		registroI.addActionListener(new ActionListener()
+		{
+		public void actionPerformed(ActionEvent e)
+		{
+		if(registrov == null || registrov.isVisible()==false)
+		{
+			registrov = new Registro();
+			registrov.setVisible(true);
+			Contenedor().add(registrov);
+		  
+		}			            	
+		}
+			        });
+		
+		return registroI;
 	}
 	
 	private JMenuItem CalculadoraItem(){

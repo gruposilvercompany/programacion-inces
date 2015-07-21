@@ -5718,3 +5718,1528 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.osgi 2 1 2015-07-21 14:30:42.273
 !MESSAGE NLS unused message: CleanUpPostSaveListener_exception_error in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:10:49.050
+!MESSAGE NLS unused message: JarPackageReader_error_unknownJarBuilder in: org.eclipse.jdt.internal.ui.jarpackager.JarPackagerMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.217
+!MESSAGE NLS unused message: Assert_assertion_failed in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.232
+!MESSAGE NLS unused message: Assert_null_argument in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.232
+!MESSAGE NLS unused message: ProcessorBasedRefactoring_error_unsupported_initialization in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: Change_is_unsaved in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: Change_is_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: Change_has_modifications in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: Change_same_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: UndoCompilationUnitChange_no_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: RenameResourceChange_rename_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: RenameResourceChange_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description_short in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: DeleteFromClassPathChange_remove in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: MoveResourceChange_move in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.248
+!MESSAGE NLS unused message: AbstractDeleteChange_deleting in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: AddToClasspathChange_add in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: MoveCompilationUnitChange_default_package in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: InlineTempRefactoring_syntax_errors in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractTempRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractTempRefactoring_preview in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractTempRefactoring_extract_temp in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractTempRefactoring_update_imports in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractClassRefactoring_comment_enclosing_type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: ExtractConstantRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.263
+!MESSAGE NLS unused message: RenameEnumConstProcessor_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameFieldRefactoring_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameTypeProcessor_cannot_rename_locals_same_new_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RippleMethodFinder_analizing_hierarchy in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameResourceRefactoring_Internal_Error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameResourceRefactoring_alread_exists in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameResourceRefactoring_invalidName in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: RenameResourceProcessor_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: ExtractSupertypeProcessor_unexpected_exception in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: MoveMembersRefactoring_check_availability in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.279
+!MESSAGE NLS unused message: SurroundWithTryCatchAnalyzer_noUncaughtExceptions in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: CopyRefactoring_searching in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_method_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_constructor_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_field_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_replace_body_with_delegation in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_method in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_message in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: PromoteTempToFieldRefactoring_uses_types_declared_locally in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: ConvertAnonymousToNestedRefactoring_edit_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.295
+!MESSAGE NLS unused message: InlineConstantRefactoring_members_declared_in_anonymous in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: InlineConstantRefactoring_source_code_unavailable in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: DeleteFileChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: DeleteFolderChange_0 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: DeleteSourceManipulationChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: DeleteRefactoring_3 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: JavaDeleteProcessor_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: JavaRefactoringDescriptor_initialization_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ChangeTypeRefactoring_Generalize_Type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ChangeTypeRefactoring_changes in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ChangeTypeRefactoring_cantDoIt in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ChangeTypeRefactoring_unhandledSearchException in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.310
+!MESSAGE NLS unused message: ChangeTypeRefactoring_failedToSelectType in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:19:12.326
+!MESSAGE NLS unused message: ChangeTypeRefactoring_javaLangObject in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.956
+!MESSAGE NLS unused message: TextChanges_error_unsaved_changes in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.972
+!MESSAGE NLS unused message: ParticipantDescriptor_correct in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.972
+!MESSAGE NLS unused message: UnknownRefactoringDescriptor_initialization_error in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.972
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_deleting in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.987
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_name in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:33:12.987
+!MESSAGE NLS unused message: MoveResourceChange_error_destination_already_exists in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-21 15:50:04.524
+!MESSAGE NLS unused message: TOOLTIP_UNPIN_FIGURE in: org.eclipse.gef.ui.palette.messages
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 15:50:13.760
+!MESSAGE 
++++ Warning +++: Tue Jul 21 15:50:12 CEST 2015    Skipping expression: jContentPane.setLayout(new BorderLayout())
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:13.775
+!MESSAGE Invalid PropertyDecorator
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:15.429
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.doSave(JavaSourceTranslator.java:1411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$3.doRun(JavaSourceTranslator.java:956)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:18.611
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createLayoutPolicyHelper(ContainerTreeEditPart.java:152)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createEditPolicies(ContainerTreeEditPart.java:139)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:230)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:235)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.setRootModel(JavaVisualEditorPart.java:504)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.initializeViewers(JavaVisualEditorPart.java:1121)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$13.run(JavaVisualEditorPart.java:2098)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:50:18.611
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createLayoutPolicyHelper(ContainerTreeEditPart.java:152)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createEditPolicies(ContainerTreeEditPart.java:139)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:230)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:235)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.setRootModel(JavaVisualEditorPart.java:504)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.initializeViewers(JavaVisualEditorPart.java:1121)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$13.run(JavaVisualEditorPart.java:2098)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ve.java.core 2 0 2015-07-21 15:50:32.183
+!MESSAGE 
++++ Warning +++: Tue Jul 21 15:50:32 CEST 2015    Skipping expression: jContentPane.setLayout(new BorderLayout())
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:32.183
+!MESSAGE Invalid PropertyDecorator
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:32.807
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.doSave(JavaSourceTranslator.java:1411)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$3.doRun(JavaSourceTranslator.java:956)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 4 0 2015-07-21 15:50:37.145
+!MESSAGE 
+!STACK 0
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.eclipse.jem.internal.proxy.remote.REMMasterServerThread.processRequest(REMMasterServerThread.java:140)
+	at org.eclipse.jem.internal.proxy.remote.REMMasterServerThread.run(REMMasterServerThread.java:80)
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:50:37.644
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createLayoutPolicyHelper(ContainerTreeEditPart.java:152)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createEditPolicies(ContainerTreeEditPart.java:139)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:230)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:235)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.setRootModel(JavaVisualEditorPart.java:504)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.initializeViewers(JavaVisualEditorPart.java:1121)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$13.run(JavaVisualEditorPart.java:2098)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:50:37.644
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:609)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:594)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:586)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eGet(BasicEObjectImpl.java:581)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createLayoutPolicyHelper(ContainerTreeEditPart.java:152)
+	at org.eclipse.ve.internal.jfc.core.ContainerTreeEditPart.createEditPolicies(ContainerTreeEditPart.java:139)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:230)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.gef.editparts.AbstractEditPart.addNotify(AbstractEditPart.java:235)
+	at org.eclipse.gef.editparts.AbstractEditPart.addChild(AbstractEditPart.java:198)
+	at org.eclipse.gef.editparts.AbstractEditPart.refreshChildren(AbstractEditPart.java:727)
+	at org.eclipse.gef.editparts.AbstractEditPart.refresh(AbstractEditPart.java:677)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.setRootModel(JavaVisualEditorPart.java:504)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart.initializeViewers(JavaVisualEditorPart.java:1121)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$13.run(JavaVisualEditorPart.java:2098)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:52:17.156
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.listFeatures(XMLSaveImpl.java:2571)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.getFeatures(XMLSaveImpl.java:2513)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1090)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedSingle(XMLSaveImpl.java:2165)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1380)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:52:17.858
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEAnnotations(JavaClassImpl.java:379)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorTypeIterator.findDecorator(ClassDecoratorTypeIterator.java:37)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorIterator.initialize(ClassDecoratorIterator.java:47)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorTypeIterator.<init>(ClassDecoratorTypeIterator.java:33)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorFeatureAccess.getDecoratorWithFeature(ClassDecoratorFeatureAccess.java:40)
+	at org.eclipse.ve.internal.cde.emf.ClassDescriptorDecoratorPolicy.findDecorator(ClassDescriptorDecoratorPolicy.java:127)
+	at org.eclipse.ve.internal.cde.emf.ClassDescriptorDecoratorPolicy.getModelAdapterClassname(ClassDescriptorDecoratorPolicy.java:194)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.createAdapter(DefaultModelAdapterFactory.java:106)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.createAdapter(DefaultModelAdapterFactory.java:95)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.getAdapter(DefaultModelAdapterFactory.java:61)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getTrueChild(AbstractEMFContainerPolicy.java:259)
+	at org.eclipse.ve.internal.java.core.BaseJavaContainerPolicy.getTrueChild(BaseJavaContainerPolicy.java:117)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getTrueChildren(AbstractEMFContainerPolicy.java:307)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getDeleteDependentCommand(AbstractEMFContainerPolicy.java:597)
+	at org.eclipse.ve.internal.cde.core.ContainerPolicy.getDeleteDependentCommand(ContainerPolicy.java:244)
+	at org.eclipse.ve.internal.cde.core.ContainerPolicy.getCommand(ContainerPolicy.java:389)
+	at org.eclipse.ve.internal.cde.core.TreeContainerEditPolicy.getDeleteDependantCommand(TreeContainerEditPolicy.java:101)
+	at org.eclipse.ve.internal.cde.core.TreeContainerEditPolicy.getCommand(TreeContainerEditPolicy.java:77)
+	at org.eclipse.gef.editparts.AbstractEditPart.getCommand(AbstractEditPart.java:473)
+	at org.eclipse.ve.internal.cde.core.DefaultComponentEditPolicy.createDeleteCommand(DefaultComponentEditPolicy.java:33)
+	at org.eclipse.gef.editpolicies.ComponentEditPolicy.getDeleteCommand(ComponentEditPolicy.java:67)
+	at org.eclipse.gef.editpolicies.ComponentEditPolicy.getCommand(ComponentEditPolicy.java:56)
+	at org.eclipse.gef.editparts.AbstractEditPart.getCommand(AbstractEditPart.java:473)
+	at org.eclipse.gef.ui.actions.DeleteAction.createDeleteCommand(DeleteAction.java:99)
+	at org.eclipse.gef.ui.actions.DeleteAction.calculateEnabled(DeleteAction.java:74)
+	at org.eclipse.gef.ui.actions.WorkbenchPartAction.refresh(WorkbenchPartAction.java:119)
+	at org.eclipse.gef.ui.actions.SelectionAction.handleSelectionChanged(SelectionAction.java:85)
+	at org.eclipse.gef.ui.actions.SelectionAction.setSelection(SelectionAction.java:96)
+	at org.eclipse.gef.ui.actions.SelectionAction.update(SelectionAction.java:115)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorOutlinePage$5.selectionChanged(JavaVisualEditorOutlinePage.java:339)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.fireSelectionChanged(AbstractEditPartViewer.java:236)
+	at org.eclipse.gef.ui.parts.TreeViewer.fireSelectionChanged(TreeViewer.java:161)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer$1.run(AbstractEditPartViewer.java:124)
+	at org.eclipse.gef.SelectionManager.fireSelectionChanged(SelectionManager.java:115)
+	at org.eclipse.gef.SelectionManager.setSelection(SelectionManager.java:230)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.setSelection(AbstractEditPartViewer.java:711)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.setViewerSelection(SelectionSynchronizer.java:130)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.syncSelection(SelectionSynchronizer.java:102)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.selectionChanged(SelectionSynchronizer.java:93)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.fireSelectionChanged(AbstractEditPartViewer.java:236)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer$1.run(AbstractEditPartViewer.java:124)
+	at org.eclipse.gef.SelectionManager.fireSelectionChanged(SelectionManager.java:115)
+	at org.eclipse.gef.SelectionManager.appendSelection(SelectionManager.java:76)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.appendSelection(AbstractEditPartViewer.java:183)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.select(AbstractEditPartViewer.java:564)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performSelection(SelectEditPartTracker.java:213)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performConditionalSelection(SelectEditPartTracker.java:159)
+	at org.eclipse.gef.tools.SelectEditPartTracker.handleButtonDown(SelectEditPartTracker.java:90)
+	at org.eclipse.gef.tools.AbstractTool.mouseDown(AbstractTool.java:964)
+	at org.eclipse.gef.tools.SelectionTool.mouseDown(SelectionTool.java:490)
+	at org.eclipse.gef.EditDomain.mouseDown(EditDomain.java:215)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMousePressed(DomainEventDispatcher.java:342)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.mouseDown(LightweightSystem.java:513)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:191)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4165)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3754)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:53:17.326
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.listFeatures(XMLSaveImpl.java:2571)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.getFeatures(XMLSaveImpl.java:2513)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1090)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedSingle(XMLSaveImpl.java:2165)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1380)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:53:18.168
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEAnnotations(JavaClassImpl.java:379)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorTypeIterator.findDecorator(ClassDecoratorTypeIterator.java:37)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorIterator.initialize(ClassDecoratorIterator.java:47)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorTypeIterator.<init>(ClassDecoratorTypeIterator.java:33)
+	at org.eclipse.ve.internal.cde.emf.ClassDecoratorFeatureAccess.getDecoratorWithFeature(ClassDecoratorFeatureAccess.java:40)
+	at org.eclipse.ve.internal.cde.emf.ClassDescriptorDecoratorPolicy.findDecorator(ClassDescriptorDecoratorPolicy.java:127)
+	at org.eclipse.ve.internal.cde.emf.ClassDescriptorDecoratorPolicy.getModelAdapterClassname(ClassDescriptorDecoratorPolicy.java:194)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.createAdapter(DefaultModelAdapterFactory.java:106)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.createAdapter(DefaultModelAdapterFactory.java:95)
+	at org.eclipse.ve.internal.cde.emf.DefaultModelAdapterFactory.getAdapter(DefaultModelAdapterFactory.java:61)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getTrueChild(AbstractEMFContainerPolicy.java:259)
+	at org.eclipse.ve.internal.java.core.BaseJavaContainerPolicy.getTrueChild(BaseJavaContainerPolicy.java:117)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getTrueChildren(AbstractEMFContainerPolicy.java:307)
+	at org.eclipse.ve.internal.cde.emf.AbstractEMFContainerPolicy.getDeleteDependentCommand(AbstractEMFContainerPolicy.java:597)
+	at org.eclipse.ve.internal.cde.core.ContainerPolicy.getDeleteDependentCommand(ContainerPolicy.java:244)
+	at org.eclipse.ve.internal.cde.core.ContainerPolicy.getCommand(ContainerPolicy.java:389)
+	at org.eclipse.ve.internal.cde.core.TreeContainerEditPolicy.getDeleteDependantCommand(TreeContainerEditPolicy.java:101)
+	at org.eclipse.ve.internal.cde.core.TreeContainerEditPolicy.getCommand(TreeContainerEditPolicy.java:77)
+	at org.eclipse.gef.editparts.AbstractEditPart.getCommand(AbstractEditPart.java:473)
+	at org.eclipse.ve.internal.cde.core.DefaultComponentEditPolicy.createDeleteCommand(DefaultComponentEditPolicy.java:33)
+	at org.eclipse.gef.editpolicies.ComponentEditPolicy.getDeleteCommand(ComponentEditPolicy.java:67)
+	at org.eclipse.gef.editpolicies.ComponentEditPolicy.getCommand(ComponentEditPolicy.java:56)
+	at org.eclipse.gef.editparts.AbstractEditPart.getCommand(AbstractEditPart.java:473)
+	at org.eclipse.gef.ui.actions.DeleteAction.createDeleteCommand(DeleteAction.java:99)
+	at org.eclipse.gef.ui.actions.DeleteAction.calculateEnabled(DeleteAction.java:74)
+	at org.eclipse.gef.ui.actions.WorkbenchPartAction.refresh(WorkbenchPartAction.java:119)
+	at org.eclipse.gef.ui.actions.SelectionAction.handleSelectionChanged(SelectionAction.java:85)
+	at org.eclipse.gef.ui.actions.SelectionAction.setSelection(SelectionAction.java:96)
+	at org.eclipse.gef.ui.actions.SelectionAction.update(SelectionAction.java:115)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorOutlinePage$5.selectionChanged(JavaVisualEditorOutlinePage.java:339)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.fireSelectionChanged(AbstractEditPartViewer.java:236)
+	at org.eclipse.gef.ui.parts.TreeViewer.fireSelectionChanged(TreeViewer.java:161)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer$1.run(AbstractEditPartViewer.java:124)
+	at org.eclipse.gef.SelectionManager.fireSelectionChanged(SelectionManager.java:115)
+	at org.eclipse.gef.SelectionManager.setSelection(SelectionManager.java:230)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.setSelection(AbstractEditPartViewer.java:711)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.setViewerSelection(SelectionSynchronizer.java:130)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.syncSelection(SelectionSynchronizer.java:102)
+	at org.eclipse.gef.ui.parts.SelectionSynchronizer.selectionChanged(SelectionSynchronizer.java:93)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.fireSelectionChanged(AbstractEditPartViewer.java:236)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer$1.run(AbstractEditPartViewer.java:124)
+	at org.eclipse.gef.SelectionManager.fireSelectionChanged(SelectionManager.java:115)
+	at org.eclipse.gef.SelectionManager.appendSelection(SelectionManager.java:76)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.appendSelection(AbstractEditPartViewer.java:183)
+	at org.eclipse.gef.ui.parts.AbstractEditPartViewer.select(AbstractEditPartViewer.java:564)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performSelection(SelectEditPartTracker.java:213)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performConditionalSelection(SelectEditPartTracker.java:159)
+	at org.eclipse.gef.tools.SelectEditPartTracker.handleButtonDown(SelectEditPartTracker.java:90)
+	at org.eclipse.gef.tools.AbstractTool.mouseDown(AbstractTool.java:964)
+	at org.eclipse.gef.tools.SelectionTool.mouseDown(SelectionTool.java:490)
+	at org.eclipse.gef.EditDomain.mouseDown(EditDomain.java:215)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMousePressed(DomainEventDispatcher.java:342)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.mouseDown(LightweightSystem.java:513)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:191)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4165)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3754)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:53:18.511
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:54:17.635
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.listFeatures(XMLSaveImpl.java:2571)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.getFeatures(XMLSaveImpl.java:2513)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1090)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedSingle(XMLSaveImpl.java:2165)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1380)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:54:24.078
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.jem.internal.instantiation.base.JavaInstance.migrate(JavaInstance.java:224)
+	at org.eclipse.jem.internal.instantiation.base.JavaInstance.eSettings(JavaInstance.java:286)
+	at org.eclipse.jem.internal.instantiation.base.JavaInstance.visitSetFeatures(JavaInstance.java:59)
+	at org.eclipse.jem.internal.instantiation.base.FeatureValueProvider$FeatureValueProviderHelper.visitSetFeatures(FeatureValueProvider.java:53)
+	at org.eclipse.ve.internal.java.vce.rules.VCEPostSetCommand.handleValue(VCEPostSetCommand.java:173)
+	at org.eclipse.ve.internal.java.vce.rules.VCEPostSetCommand$1.isSet(VCEPostSetCommand.java:209)
+	at org.eclipse.jem.internal.instantiation.base.JavaInstance.visitSetFeatures(JavaInstance.java:70)
+	at org.eclipse.jem.internal.instantiation.base.FeatureValueProvider$FeatureValueProviderHelper.visitSetFeatures(FeatureValueProvider.java:53)
+	at org.eclipse.ve.internal.java.vce.rules.VCEPostSetCommand.handleValue(VCEPostSetCommand.java:173)
+	at org.eclipse.ve.internal.java.vce.rules.VCEPostSetCommand.execute(VCEPostSetCommand.java:78)
+	at org.eclipse.ve.internal.propertysheet.common.commands.CompoundCommand.execute(CompoundCommand.java:224)
+	at org.eclipse.gef.commands.CompoundCommand.execute(CompoundCommand.java:107)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorCommandStack$1.run(JavaVisualEditorCommandStack.java:55)
+	at org.eclipse.ve.internal.cde.core.ModelChangeController.doModelChanges(ModelChangeController.java:245)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorCommandStack.execute(JavaVisualEditorCommandStack.java:52)
+	at org.eclipse.gef.ui.actions.WorkbenchPartAction.execute(WorkbenchPartAction.java:76)
+	at org.eclipse.gef.ui.actions.DeleteAction.run(DeleteAction.java:125)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4165)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3754)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:54:43.890
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:54:52.907
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:54:52.923
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.setValues(AbstractPropertySheetEntry.java:1029)
+	at org.eclipse.ui.views.properties.PropertySheetViewer.setInput(PropertySheetViewer.java:973)
+	at org.eclipse.ui.views.properties.PropertySheetPage.selectionChanged(PropertySheetPage.java:510)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.superSelectionChanged(EToolsPropertySheetPage.java:250)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage.access$2(EToolsPropertySheetPage.java:243)
+	at org.eclipse.ve.internal.propertysheet.EToolsPropertySheetPage$1.run(EToolsPropertySheetPage.java:236)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:55:17.805
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:636)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.listFeatures(XMLSaveImpl.java:2571)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.getFeatures(XMLSaveImpl.java:2513)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1090)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedSingle(XMLSaveImpl.java:2165)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1380)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:55:59.878
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:381)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeaturesData(EClassImpl.java:825)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getFeatureID(EClassImpl.java:856)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eDerivedStructuralFeatureID(BasicEObjectImpl.java:1075)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:814)
+	at org.eclipse.emf.ecore.util.EContentsEList$FeatureIteratorImpl.hasNext(EContentsEList.java:414)
+	at org.eclipse.emf.ecore.util.EcoreUtil$ProperContentIterator.hasNext(EcoreUtil.java:1137)
+	at org.eclipse.emf.ecore.util.EcoreUtil$ContentTreeIterator.hasNext(EcoreUtil.java:1313)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.detached(ResourceImpl.java:815)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eBasicSetContainer(BasicEObjectImpl.java:903)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eInverseRemove(BasicEObjectImpl.java:1020)
+	at org.eclipse.emf.ecore.util.EcoreEList.inverseRemove(EcoreEList.java:309)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.remove(NotifyingListImpl.java:698)
+	at org.eclipse.emf.common.util.BasicEList.remove(BasicEList.java:869)
+	at org.eclipse.ve.internal.java.codegen.java.ExpressionDecoderHelper.cleanProperty(ExpressionDecoderHelper.java:193)
+	at org.eclipse.ve.internal.jfc.codegen.ConstraintDecoderHelper.removeFromModel(ConstraintDecoderHelper.java:356)
+	at org.eclipse.ve.internal.java.codegen.java.AggregateDecoderHelper.removeFromModel(AggregateDecoderHelper.java:96)
+	at org.eclipse.ve.internal.java.codegen.java.AbstractExpressionDecoder.deleteFromComposition(AbstractExpressionDecoder.java:341)
+	at org.eclipse.ve.internal.java.codegen.java.AbstractExpressionDecoder.dispose(AbstractExpressionDecoder.java:330)
+	at org.eclipse.ve.internal.java.codegen.model.CodeExpressionRef.dispose(CodeExpressionRef.java:999)
+	at org.eclipse.ve.internal.java.codegen.model.CodeMethodRef.dispose(CodeMethodRef.java:850)
+	at org.eclipse.ve.internal.java.codegen.model.BeanPart.disposeMethod(BeanPart.java:549)
+	at org.eclipse.ve.internal.java.codegen.model.BeanPart.dispose(BeanPart.java:635)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.removeDeletedBean(BDMMerger.java:1507)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.removeDeletedBeans(BDMMerger.java:1564)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.merge(BDMMerger.java:93)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.merge(JavaSourceTranslator.java:388)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.handleParseable(JavaSourceTranslator.java:434)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.run(JavaSourceTranslator.java:502)
+	at org.eclipse.ve.internal.java.codegen.java.SnippetParseJob.doRun(SnippetParseJob.java:92)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:56:18.099
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getProperties(JavaClassImpl.java:1298)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.allProperties(BeaninfoClassAdapter.java:1364)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getAllProperties(BeaninfoClassAdapter.java:1243)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getAllProperties(JavaClassImpl.java:1339)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.reflectProperties(BeaninfoClassAdapter.java:1602)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:811)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.listFeatures(XMLSaveImpl.java:2571)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl$Lookup.getFeatures(XMLSaveImpl.java:2513)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1090)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedSingle(XMLSaveImpl.java:2165)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1380)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:56:18.161
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jem.proxy 2 0 2015-07-21 15:57:00.032
+!MESSAGE 
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.DataInputStream.readByte(Unknown Source)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.readBackValue(Commands.java:1243)
+	at org.eclipse.jem.internal.proxy.common.remote.Commands.sendInvokeMethodCommand(Commands.java:1403)
+	at org.eclipse.jem.internal.proxy.remote.REMConnection.invokeMethod(REMConnection.java:208)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:219)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeWithParms(REMMethodProxy.java:189)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:102)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invoke(REMMethodProxy.java:98)
+	at org.eclipse.jem.internal.proxy.remote.REMMethodProxy.invokeCatchThrowableExceptions(REMMethodProxy.java:231)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeanInfoDecoratorUtility.introspect(BeanInfoDecoratorUtility.java:220)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspect(BeaninfoClassAdapter.java:767)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:428)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.introspectIfNecessary(BeaninfoClassAdapter.java:415)
+	at org.eclipse.jem.internal.beaninfo.adapters.BeaninfoClassAdapter.getEStructuralFeatures(BeaninfoClassAdapter.java:1235)
+	at org.eclipse.jem.java.internal.impl.JavaClassImpl.getEStructuralFeatures(JavaClassImpl.java:386)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeatures(EClassImpl.java:384)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getEAllStructuralFeaturesData(EClassImpl.java:825)
+	at org.eclipse.emf.ecore.impl.EClassImpl.getFeatureID(EClassImpl.java:856)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eDerivedStructuralFeatureID(BasicEObjectImpl.java:1075)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:814)
+	at org.eclipse.emf.ecore.util.EContentsEList$FeatureIteratorImpl.hasNext(EContentsEList.java:414)
+	at org.eclipse.emf.ecore.util.EcoreUtil$ProperContentIterator.hasNext(EcoreUtil.java:1137)
+	at org.eclipse.emf.ecore.util.EcoreUtil$ContentTreeIterator.hasNext(EcoreUtil.java:1313)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.detached(ResourceImpl.java:815)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eBasicSetContainer(BasicEObjectImpl.java:903)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eInverseRemove(BasicEObjectImpl.java:1020)
+	at org.eclipse.emf.ecore.util.EcoreEList.inverseRemove(EcoreEList.java:309)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.remove(NotifyingListImpl.java:698)
+	at org.eclipse.emf.common.util.BasicEList.remove(BasicEList.java:869)
+	at org.eclipse.ve.internal.java.codegen.java.ExpressionDecoderHelper.cleanProperty(ExpressionDecoderHelper.java:193)
+	at org.eclipse.ve.internal.jfc.codegen.ConstraintDecoderHelper.removeFromModel(ConstraintDecoderHelper.java:356)
+	at org.eclipse.ve.internal.java.codegen.java.AggregateDecoderHelper.removeFromModel(AggregateDecoderHelper.java:96)
+	at org.eclipse.ve.internal.java.codegen.java.AbstractExpressionDecoder.deleteFromComposition(AbstractExpressionDecoder.java:341)
+	at org.eclipse.ve.internal.java.codegen.java.AbstractExpressionDecoder.dispose(AbstractExpressionDecoder.java:330)
+	at org.eclipse.ve.internal.java.codegen.model.CodeExpressionRef.dispose(CodeExpressionRef.java:999)
+	at org.eclipse.ve.internal.java.codegen.model.CodeMethodRef.dispose(CodeMethodRef.java:850)
+	at org.eclipse.ve.internal.java.codegen.model.BeanPart.disposeMethod(BeanPart.java:549)
+	at org.eclipse.ve.internal.java.codegen.model.BeanPart.dispose(BeanPart.java:635)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.removeDeletedBean(BDMMerger.java:1507)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.removeDeletedBeans(BDMMerger.java:1564)
+	at org.eclipse.ve.internal.java.codegen.java.BDMMerger.merge(BDMMerger.java:93)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.merge(JavaSourceTranslator.java:388)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.handleParseable(JavaSourceTranslator.java:434)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$SharedToLocalUpdater.run(JavaSourceTranslator.java:502)
+	at org.eclipse.ve.internal.java.codegen.java.SnippetParseJob.doRun(SnippetParseJob.java:92)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:57:00.141
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ui 4 0 2015-07-21 15:57:00.219
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4282)
+	at org.eclipse.swt.SWT.error(SWT.java:4197)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4140)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2696)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2660)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2494)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:674)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:667)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:123)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:344)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:622)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:577)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1410)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.ve.internal.java.core.BeanPropertyDescriptorAdapter.isReadOnly(BeanPropertyDescriptorAdapter.java:463)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry.refreshChildEntries(AbstractPropertySheetEntry.java:803)
+	at org.eclipse.ve.internal.propertysheet.AbstractPropertySheetEntry$3.run(AbstractPropertySheetEntry.java:880)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 22 more
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-21 15:58:46.677
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.emf.ecore.impl.EStructuralFeatureImpl.getSettingDelegate(EStructuralFeatureImpl.java:779)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eSettingDelegate(BasicEObjectImpl.java:1114)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:832)
+	at org.eclipse.emf.ecore.impl.BasicEObjectImpl.eIsSet(BasicEObjectImpl.java:817)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1103)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:1032)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElement(XMLSaveImpl.java:918)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveContainedMany(XMLSaveImpl.java:2178)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveFeatures(XMLSaveImpl.java:1386)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.saveElementID(XMLSaveImpl.java:2458)
+	at org.eclipse.emf.ecore.xmi.impl.XMISaveImpl.writeTopObjects(XMISaveImpl.java:86)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.traverse(XMLSaveImpl.java:553)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:233)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:203)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:988)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:876)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doSaveCache(VEModelCacheUtility.java:158)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.primDoSave(JavaSourceTranslator.java:1397)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.access$0(JavaSourceTranslator.java:1394)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator$4.doRun(JavaSourceTranslator.java:1418)
+	at org.eclipse.ve.internal.java.codegen.util.ReverseParserJob.run(ReverseParserJob.java:56)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

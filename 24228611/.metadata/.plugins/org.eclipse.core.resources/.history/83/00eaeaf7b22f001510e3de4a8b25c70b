@@ -1,0 +1,18 @@
+package Vista;
+
+import javax.swing.JFrame;
+
+public class Registro extends JFrame{
+
+	public Registro(){
+		
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

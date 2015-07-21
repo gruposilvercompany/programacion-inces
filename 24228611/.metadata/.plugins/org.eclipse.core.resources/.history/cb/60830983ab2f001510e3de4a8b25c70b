@@ -1,0 +1,16 @@
+package Vista;
+
+import javax.swing.JInternalFrame;
+
+public class Registro extends JInternalFrame{
+
+	
+	private static final long serialVersionUID = 3040778412340457986L;
+	
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}
