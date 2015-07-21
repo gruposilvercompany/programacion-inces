@@ -1,6 +1,5 @@
 package views;
 
-import java.awt.BorderLayout;
 import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -8,10 +7,14 @@ import java.awt.event.ActionListener;
 import javax.swing.JDesktopPane;
 import javax.swing.JFrame;
 import javax.swing.JInternalFrame;
+import javax.swing.JLabel;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
+import javax.swing.JButton;
 
 public class Principal extends JFrame {
 
@@ -25,8 +28,13 @@ public class Principal extends JFrame {
 	private JDesktopPane contenedorPrincipal = null;
 	private JInternalFrame jInternalFrame = null;
 	private JPanel jContentPane = null;
-
-
+	private JLabel lblNombreUsuario = null;
+	private JLabel lblContraseña = null;
+	private JTextField txtUsuario = null;
+	private JPasswordField txtPassword = null;
+	private JButton btnCanselar = null;
+	private JButton btnLimpiar = null;
+	private JButton btnCancelar = null;
 	private JMenuBar getBarraMenu() {
 		if (barraMenu == null) {
 			barraMenu = new JMenuBar();
@@ -109,7 +117,7 @@ public class Principal extends JFrame {
 	private JInternalFrame getJInternalFrame() {
 		if (jInternalFrame == null) {
 			jInternalFrame = new JInternalFrame();
-			jInternalFrame.setBounds(new Rectangle(192, 98, 278, 98));
+			jInternalFrame.setBounds(new Rectangle(192, 114, 420, 245));
 			jInternalFrame.setVisible(true);
 			jInternalFrame.setContentPane(getJContentPane());
 		}
@@ -123,10 +131,108 @@ public class Principal extends JFrame {
 	 */
 	private JPanel getJContentPane() {
 		if (jContentPane == null) {
+			lblContraseña = new JLabel();
+			lblContraseña.setBounds(new Rectangle(30, 89, 165, 25));
+			lblContraseña.setText("Comtraseña Usuario");
+			lblNombreUsuario = new JLabel();
+			lblNombreUsuario.setBounds(new Rectangle(33, 32, 165, 25));
+			lblNombreUsuario.setText("Nombre de Usuario");
 			jContentPane = new JPanel();
-			jContentPane.setLayout(new BorderLayout());
+			jContentPane.setLayout(null);
+			jContentPane.add(lblNombreUsuario, null);
+			jContentPane.add(lblContraseña, null);
+			jContentPane.add(getTxtUsuario(), null);
+			jContentPane.add(getTxtPassword(), null);
+			jContentPane.add(getBtnCanselar(), null);
+			jContentPane.add(getBtnLimpiar(), null);
+			jContentPane.add(getBtnCancelar(), null);
 		}
 		return jContentPane;
+	}
+
+	/**
+	 * This method initializes txtUsuario	
+	 * 	
+	 * @return javax.swing.JTextField	
+	 */
+	private JTextField getTxtUsuario() {
+		if (txtUsuario == null) {
+			txtUsuario = new JTextField();
+			txtUsuario.setBounds(new Rectangle(225, 32, 168, 25));
+		}
+		return txtUsuario;
+	}
+
+	/**
+	 * This method initializes txtPassword	
+	 * 	
+	 * @return javax.swing.JPasswordField	
+	 */
+	private JPasswordField getTxtPassword() {
+		if (txtPassword == null) {
+			txtPassword = new JPasswordField();
+			txtPassword.setBounds(new Rectangle(224, 91, 170, 25));
+		}
+		return txtPassword;
+	}
+
+	/**
+	 * This method initializes btnCanselar	
+	 * 	
+	 * @return javax.swing.JButton	
+	 */
+	private JButton getBtnCanselar() {
+		if (btnCanselar == null) {
+			btnCanselar = new JButton();
+			btnCanselar.setBounds(new Rectangle(301, 180, 95, 26));
+			btnCanselar.setText("Cancelar");
+			btnCanselar.addActionListener(new java.awt.event.ActionListener() {
+				public void actionPerformed(java.awt.event.ActionEvent e) {
+					System.exit(0);
+				}
+			});
+		}
+		return btnCanselar;
+	}
+
+	/**
+	 * This method initializes btnLimpiar	
+	 * 	
+	 * @return javax.swing.JButton	
+	 */
+	private JButton getBtnLimpiar() {
+		if (btnLimpiar == null) {
+			btnLimpiar = new JButton();
+			btnLimpiar.setBounds(new Rectangle(163, 179, 114, 29));
+			btnLimpiar.setText("Limpiar");
+			btnLimpiar.addActionListener(new java.awt.event.ActionListener() {
+				public void actionPerformed(java.awt.event.ActionEvent e) {
+					txtUsuario.setText("");
+					txtPassword.setText("");
+					
+				}
+			});
+		}
+		return btnLimpiar;
+	}
+
+	/**
+	 * This method initializes btnCancelar	
+	 * 	
+	 * @return javax.swing.JButton	
+	 */
+	private JButton getBtnCancelar() {
+		if (btnCancelar == null) {
+			btnCancelar = new JButton();
+			btnCancelar.setBounds(new Rectangle(26, 181, 111, 25));
+			btnCancelar.setText("Aceptar");
+			btnCancelar.addActionListener(new java.awt.event.ActionListener() {
+				public void actionPerformed(java.awt.event.ActionEvent e) {
+					System.out.println("actionPerformed()"); // TODO Auto-generated Event stub actionPerformed()
+				}
+			});
+		}
+		return btnCancelar;
 	}
 
 	public static void main(String[] args) {
