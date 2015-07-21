@@ -1,13 +1,17 @@
 package views;
 
+import java.awt.BorderLayout;
+import java.awt.Rectangle;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JDesktopPane;
 import javax.swing.JFrame;
+import javax.swing.JInternalFrame;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
+import javax.swing.JPanel;
 
 public class Principal extends JFrame {
 
@@ -19,11 +23,14 @@ public class Principal extends JFrame {
 	private JMenu menuAyuda = null;
 	private JMenuItem menuItemSalir = null;
 	private JDesktopPane contenedorPrincipal = null;
+	private JInternalFrame jInternalFrame = null;
+	private JPanel jContentPane = null;
 
 
 	private JMenuBar getBarraMenu() {
 		if (barraMenu == null) {
 			barraMenu = new JMenuBar();
+			barraMenu.setVisible(false);
 			barraMenu.setToolTipText("Barra de Menus");
 			barraMenu.add(getMenuOpciones());
 			barraMenu.add(getMenuAyuda());
@@ -89,8 +96,37 @@ public class Principal extends JFrame {
 	private JDesktopPane getContenedorPrincipal() {
 		if (contenedorPrincipal == null) {
 			contenedorPrincipal = new JDesktopPane();
+			contenedorPrincipal.add(getJInternalFrame(), null);
 		}
 		return contenedorPrincipal;
+	}
+
+	/**
+	 * This method initializes jInternalFrame	
+	 * 	
+	 * @return javax.swing.JInternalFrame	
+	 */
+	private JInternalFrame getJInternalFrame() {
+		if (jInternalFrame == null) {
+			jInternalFrame = new JInternalFrame();
+			jInternalFrame.setBounds(new Rectangle(192, 98, 278, 98));
+			jInternalFrame.setVisible(true);
+			jInternalFrame.setContentPane(getJContentPane());
+		}
+		return jInternalFrame;
+	}
+
+	/**
+	 * This method initializes jContentPane	
+	 * 	
+	 * @return javax.swing.JPanel	
+	 */
+	private JPanel getJContentPane() {
+		if (jContentPane == null) {
+			jContentPane = new JPanel();
+			jContentPane.setLayout(new BorderLayout());
+		}
+		return jContentPane;
 	}
 
 	public static void main(String[] args) {
@@ -105,11 +141,11 @@ public class Principal extends JFrame {
 	}
 
 	private void initialize() {
-		this.setSize(300, 200);
+		this.setSize(800, 600);
 		this.setContentPane(getContenedorPrincipal());
 		this.setJMenuBar(getBarraMenu());
 		this.setTitle("Ventana Principal");
 
 	}
 	
-}
+}  //  @jve:decl-index=0:visual-constraint="10,10"
