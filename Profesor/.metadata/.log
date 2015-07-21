@@ -2869,3 +2869,428 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:02.248
 !MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:43:32.781
+!MESSAGE NLS unused message: ProposalInfo_more_to_come in: org.eclipse.jdt.internal.ui.text.java.JavaTextMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_RemovedAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: UnusedCodeFix_RemoveFieldOrLocal_AlteredAssignments_preview in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: Java50Fix_ParametrizeTypeReference_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: CodeStyleFix_AddThisQualifier_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: ExpressionsFix_addParanoiacParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: ExpressionsFix_add_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: ExpressionsFix_removeUnnecessaryParenthesis_description in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: ExpressionsFix_remove_parenthesis_change_name in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.625
+!MESSAGE NLS unused message: CleanUpPostSaveListener_exception_error in: org.eclipse.jdt.internal.corext.fix.FixMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: CorrectionMessages_add_type_parameters_to_instantiation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator__multiFixErrorDialog_Titel in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_no_50jre_message in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_unusedimport_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_project_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_workspace_compliance_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeworkspace_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.656
+!MESSAGE NLS unused message: ReorgCorrectionsSubProcessor_50_compliance_changeproject_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_surroundwith_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_unqualifiedfieldaccess_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_externalizestrings_dialog_title in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_addnon_nls_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_changeaccesstostaticdefining_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_indirectaccesstostatic_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: LocalCorrectionsSubProcessor_remove_nls_tag_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: TypeMismatchSubProcessor_0 in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_changemodifiertodefault_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_addoverrideannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: ModifierCorrectionSubProcessor_adddeprecatedannotation in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: SuppressWarningsSubProcessor_suppress_warnings_initializer_label in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: UnimplementedMethodsCorrectionProposal_info in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: QuickAssistProcessor_forLoop_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_removeParenthesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: AdvancedQuickAssistProcessor_addParethesis_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: CorrectionMarkerResolutionGenerator_multiFixErrorDialog_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.672
+!MESSAGE NLS unused message: GetterSetterCorrectionSubProcessor_createsetterusingencapsulatefield_description in: org.eclipse.jdt.internal.ui.text.correction.CorrectionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Assert_assertion_failed in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Assert_null_argument in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: ProcessorBasedRefactoring_error_unsupported_initialization in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Change_is_unsaved in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Change_is_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Change_has_modifications in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: Change_same_read_only in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: UndoCompilationUnitChange_no_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: RenameResourceChange_rename_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: RenameResourceChange_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: RenameResourceChange_descriptor_description_short in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: DeleteFromClassPathChange_remove in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: MoveResourceChange_move in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: AbstractDeleteChange_deleting in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: AddToClasspathChange_add in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: MoveCompilationUnitChange_default_package in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.781
+!MESSAGE NLS unused message: InlineTempRefactoring_syntax_errors in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractTempRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractTempRefactoring_preview in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractTempRefactoring_extract_temp in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractTempRefactoring_update_imports in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractClassRefactoring_comment_enclosing_type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractConstantRefactoring_syntax_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameEnumConstProcessor_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameFieldRefactoring_change_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameTypeProcessor_cannot_rename_locals_same_new_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RippleMethodFinder_analizing_hierarchy in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameResourceRefactoring_Internal_Error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameResourceRefactoring_alread_exists in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameResourceRefactoring_invalidName in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: RenameResourceProcessor_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: ExtractSupertypeProcessor_unexpected_exception in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.797
+!MESSAGE NLS unused message: MoveMembersRefactoring_check_availability in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: SurroundWithTryCatchAnalyzer_noUncaughtExceptions in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: CopyRefactoring_searching in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_method_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_constructor_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInnerToTopRefactoring_change_visibility_field_warning in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_replace_body_with_delegation in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_method in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_deprecate_delegator_message in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_inline_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MoveInstanceMethodProcessor_javadoc_binary_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_project in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: MemberVisibilityAdjustor_binary_outgoing_resource in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: PromoteTempToFieldRefactoring_uses_types_declared_locally in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ConvertAnonymousToNestedRefactoring_edit_name in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: InlineConstantRefactoring_members_declared_in_anonymous in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: InlineConstantRefactoring_source_code_unavailable in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: DeleteFileChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: DeleteFolderChange_0 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: DeleteSourceManipulationChange_1 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_roots_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_packages_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.812
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_elements_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ReorgPolicyFactory_copy_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ReorgPolicyFactory_move_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: DeleteRefactoring_3 in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: JavaDeleteProcessor_header in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: JavaRefactoringDescriptor_initialization_error in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_Generalize_Type in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_changes in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_cantDoIt in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_unhandledSearchException in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_failedToSelectType in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:17.828
+!MESSAGE NLS unused message: ChangeTypeRefactoring_javaLangObject in: org.eclipse.jdt.internal.corext.refactoring.refactoring
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: TextChanges_error_unsaved_changes in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: ParticipantDescriptor_correct in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: UnknownRefactoringDescriptor_initialization_error in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_deleting in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: DeleteFileOrFolderChange_name in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:18.859
+!MESSAGE NLS unused message: MoveResourceChange_error_destination_already_exists in: org.eclipse.ltk.internal.core.refactoring.RefactoringCoreMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:19.031
+!MESSAGE NLS unused message: ImportsStructure_operation_description in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:19.031
+!MESSAGE NLS unused message: GenerateToStringOperation_error_dialog_title in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:45:19.031
+!MESSAGE NLS unused message: GenerateToStringOperation_invalid_message in: org.eclipse.jdt.internal.corext.codemanipulation.CodeGenerationMessages
+
+!ENTRY org.eclipse.jem.beaninfo 2 0 2015-07-20 21:45:20.896
+!MESSAGE 
++++ Warning +++: Mon Jul 20 21:45:20 VET 2015    Build job waiting when trying to start beaninfo registry. Possible race.
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:46:29.198
+!MESSAGE NLS unused message: CommonTab_No_Encoding_Selected in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:46:29.198
+!MESSAGE NLS unused message: LaunchConfigurationTabGroupViewer_9 in: org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:50:17.378
+!MESSAGE NLS unused message: JavadocHover_back_toolTip in: org.eclipse.jdt.internal.ui.text.java.hover.JavaHoverMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:50:17.410
+!MESSAGE NLS unused message: DocumentInputStream_error_read in: org.eclipse.ui.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.ve.java.core 4 0 2015-07-20 21:57:41.820
+!MESSAGE Exception thrown.
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at org.eclipse.emf.common.util.BasicEList.get(BasicEList.java:514)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObjectForURIFragmentRootSegment(ResourceImpl.java:642)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:692)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.getEObject(ResourceImpl.java:671)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setValueFromId(XMLHandler.java:2511)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.setAttribValue(XMLHandler.java:2439)
+	at org.eclipse.emf.ecore.xmi.impl.SAXXMIHandler.handleObjectAttribs(SAXXMIHandler.java:74)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromFactory(XMLHandler.java:1929)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObjectFromTypeName(XMLHandler.java:1833)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.createObject(XMLHandler.java:1768)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.handleFeature(XMLHandler.java:1576)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.processElement(XMLHandler.java:876)
+	at org.eclipse.emf.ecore.xmi.impl.XMIHandler.processElement(XMIHandler.java:82)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:854)
+	at org.eclipse.emf.ecore.xmi.impl.XMLHandler.startElement(XMLHandler.java:626)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.startElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractXMLDocumentParser.emptyElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl.load(XMLLoadImpl.java:179)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doLoad(XMLResourceImpl.java:179)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:1089)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.load(ResourceImpl.java:895)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoad(ResourceSetImpl.java:249)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.demandLoad(ProjectResourceSetImpl.java:83)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.demandLoadHelper(ResourceSetImpl.java:264)
+	at org.eclipse.emf.ecore.resource.impl.ResourceSetImpl.getResource(ResourceSetImpl.java:390)
+	at org.eclipse.jem.internal.util.emf.workbench.ProjectResourceSetImpl.getResource(ProjectResourceSetImpl.java:262)
+	at org.eclipse.ve.internal.java.codegen.util.VEModelCacheUtility.doLoadFromCache(VEModelCacheUtility.java:103)
+	at org.eclipse.ve.internal.java.codegen.core.VEModelInstance.createComposition(VEModelInstance.java:100)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.reConnect(JavaSourceTranslator.java:1134)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.decodeDocument(JavaSourceTranslator.java:910)
+	at org.eclipse.ve.internal.java.codegen.core.JavaSourceTranslator.loadModel(JavaSourceTranslator.java:597)
+	at org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditorPart$Setup.run(JavaVisualEditorPart.java:1978)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

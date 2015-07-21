@@ -1,0 +1,67 @@
+package views;
+
+import javax.swing.JFrame;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+
+public class Principal extends JFrame {
+
+	private static final long serialVersionUID = 1L;
+	private JMenuBar barraMenu = null;
+	private JMenu menuOpciones = null;
+	/**
+	 * This method initializes barraMenu	
+	 * 	
+	 * @return javax.swing.JMenuBar	
+	 */
+	private JMenuBar getBarraMenu() {
+		if (barraMenu == null) {
+			barraMenu = new JMenuBar();
+			barraMenu.setToolTipText("Barra de Menus");
+			barraMenu.add(getMenuOpciones());
+		}
+		return barraMenu;
+	}
+
+	/**
+	 * This method initializes menuOpciones	
+	 * 	
+	 * @return javax.swing.JMenu	
+	 */
+	private JMenu getMenuOpciones() {
+		if (menuOpciones == null) {
+			menuOpciones = new JMenu();
+			menuOpciones.setText("Menu Opciones");
+		}
+		return menuOpciones;
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Principal thisClass = new Principal();
+		thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		thisClass.setVisible(true);
+	}
+
+	/**
+	 * This is the default constructor
+	 */
+	public Principal() {
+		super();
+		initialize();
+	}
+
+	/**
+	 * This method initializes this
+	 * 
+	 * @return void
+	 */
+	private void initialize() {
+		this.setSize(300, 200);
+		this.setJMenuBar(getBarraMenu());
+		this.setTitle("Ventana Principal");
+	}
+
+}
