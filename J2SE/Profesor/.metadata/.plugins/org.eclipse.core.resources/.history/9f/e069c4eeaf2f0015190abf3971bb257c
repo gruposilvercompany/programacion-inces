@@ -14,7 +14,11 @@ public class Principal extends JFrame {
 	private JMenu menuAyuda = null;
 	private JMenuItem menuItemSalir = null;
 
-
+	/**
+	 * This method initializes barraMenu
+	 * 
+	 * @return javax.swing.JMenuBar
+	 */
 	private JMenuBar getBarraMenu() {
 		if (barraMenu == null) {
 			barraMenu = new JMenuBar();
@@ -25,6 +29,11 @@ public class Principal extends JFrame {
 		return barraMenu;
 	}
 
+	/**
+	 * This method initializes menuOpciones
+	 * 
+	 * @return javax.swing.JMenu
+	 */
 	private JMenu getMenuOpciones() {
 		if (menuOpciones == null) {
 			menuOpciones = new JMenu();
@@ -34,6 +43,11 @@ public class Principal extends JFrame {
 		return menuOpciones;
 	}
 
+	/**
+	 * This method initializes menuItemCalculadora
+	 * 
+	 * @return javax.swing.JMenuItem
+	 */
 	private JMenuItem getMenuItemCalculadora() {
 		if (menuItemCalculadora == null) {
 			menuItemCalculadora = new JMenuItem();
@@ -42,6 +56,11 @@ public class Principal extends JFrame {
 		return menuItemCalculadora;
 	}
 
+	/**
+	 * This method initializes menuAyuda
+	 * 
+	 * @return javax.swing.JMenu
+	 */
 	private JMenu getMenuAyuda() {
 		if (menuAyuda == null) {
 			menuAyuda = new JMenu();
@@ -51,6 +70,11 @@ public class Principal extends JFrame {
 		return menuAyuda;
 	}
 
+	/**
+	 * This method initializes menuItemSalir
+	 * 
+	 * @return javax.swing.JMenuItem
+	 */
 	private JMenuItem getMenuItemSalir() {
 		if (menuItemSalir == null) {
 			menuItemSalir = new JMenuItem();
@@ -59,17 +83,29 @@ public class Principal extends JFrame {
 		return menuItemSalir;
 	}
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		Principal thisClass = new Principal();
 		thisClass.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		thisClass.setVisible(true);
 
 	}
+
+	/**
+	 * This is the default constructor
+	 */
 	public Principal() {
 
 		initialize();
 	}
 
+	/**
+	 * This method initializes this
+	 * 
+	 * @return void
+	 */
 	private void initialize() {
 		this.setSize(300, 200);
 		this.setJMenuBar(getBarraMenu());

@@ -10,7 +10,7 @@
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="126" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="192" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="141" y="22"/>
 <coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="80" y="22"/>
@@ -19,7 +19,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" itemType="typePlaceholder" x="276" y="22"/>
+<coolItem id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" itemType="typeToolBarContribution" x="276" y="22"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
@@ -28,10 +28,16 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 </editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" name="Principal.java" partName="Principal.java" path="C:/CursoInces/programacion-inces/J2SE/Profesor/Profesor/src/views/Principal.java" title="Principal.java" tooltip="Profesor/src/views/Principal.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Profesor/src/views/Principal.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1874" selectionTopPixel="853"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Propiedades">
@@ -86,8 +92,8 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<perspectives activePart="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
 <alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
@@ -138,29 +144,44 @@
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
-<view id="org.eclipse.jdt.ui.PackageExplorer"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.jdt.ui.JavadocView"/>
-<view id="org.eclipse.jdt.ui.SourceView"/>
-<view id="org.eclipse.ui.views.PropertySheet"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="org.eclipse.ve.internal.java.codegen.editorpart.BeansList"/>
 <fastViews>
 <view id="org.eclipse.ve.internal.java.codegen.editorpart.XMLViewPart" ratio="0.95"/>
 </fastViews>
-<fastViewBars/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="org.eclipse.jdt.ui.PackageExplorer" style="1">
+<fastViews>
+<view id="org.eclipse.jdt.ui.PackageExplorer" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.views.PropertySheet" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1fbd5e0" orientation="512" selectedTabId="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" style="1">
+<fastViews>
+<view id="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="right" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="left">
-<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
-<page content="org.eclipse.jdt.ui.PackageExplorer" label="Explorador de paquetes"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@1d69c0f" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="left">
@@ -173,40 +194,31 @@
 </info>
 <info part="org.eclipse.gef.ui.palette_view" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.7491694" ratioLeft="451" ratioRight="151" relationship="4" relative="org.eclipse.gef.ui.palette_view">
-<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ProblemView" label="Problemas"/>
-<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
-<page content="org.eclipse.jdt.ui.SourceView" label="Declaración"/>
-<page content="org.eclipse.ui.views.PropertySheet" label="Propiedades"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
 <page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="right" ratio="0.7493333" ratioLeft="562" ratioRight="188" relationship="2" relative="org.eclipse.gef.ui.palette_view">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Esquema"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.15836298" ratioLeft="89" ratioRight="473" relationship="2" relative="org.eclipse.gef.ui.palette_view"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@1fbd5e0" ratio="0.5" ratioLeft="301" ratioRight="301" relationship="4" relative="left">
-<folder activePageID="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" appearance="2" expanded="2">
-<page content="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" label="Java Beans"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-</presentation>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ve.internal.java.codegen.editorpart.BeansList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </mainWindow>
@@ -214,12 +226,26 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor" path="/Profesor/src/views/Principal.java"/>
+</editors>
+<item active="true" historyLabel="Principal.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1fbd5e0"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -227,6 +253,7 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
