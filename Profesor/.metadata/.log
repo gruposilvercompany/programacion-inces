@@ -2773,3 +2773,99 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.jdt.core 2 0 2015-07-20 21:24:26.751
 !MESSAGE The Java indexing could not index C:/Program Files/Java/jre1.8.0_25/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:56.779
+!MESSAGE NLS unused message: FileBuffer_status_ok in: org.eclipse.core.internal.filebuffers.FileBuffersMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_message2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: CompilationUnitEditor_error_saving_title2 in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: CompilationUnitEditor_warning_save_delete in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelect_error_title in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelect_error_message in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectNext_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectNext_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectNext_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectPrevious_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectPrevious_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectPrevious_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectEnclosing_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectEnclosing_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectEnclosing_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectHistory_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.263
+!MESSAGE NLS unused message: StructureSelectHistory_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.279
+!MESSAGE NLS unused message: StructureSelectHistory_description in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.279
+!MESSAGE NLS unused message: GotoNextMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.279
+!MESSAGE NLS unused message: GotoPreviousMember_label in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.279
+!MESSAGE NLS unused message: SourceAttachmentForm_message_containerEntry in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:39:59.279
+!MESSAGE NLS unused message: JavaEditor_occurrence_tooltip in: org.eclipse.jdt.internal.ui.javaeditor.JavaEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:00.451
+!MESSAGE NLS unused message: TOOLTIP_UNPIN_FIGURE in: org.eclipse.gef.ui.palette.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.545
+!MESSAGE NLS unused message: MarkerRulerAction_addMarker in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.545
+!MESSAGE NLS unused message: MarkerRulerAction_removeMarkers in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.545
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_title in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.545
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_message in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.545
+!MESSAGE NLS unused message: AbstractDecoratedTextEditor_revision_quickdiff_switch_rememberquestion in: org.eclipse.ui.texteditor.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.732
+!MESSAGE NLS unused message: PropertiesStructureCreator_error_occurred in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:01.732
+!MESSAGE NLS unused message: AddFromHistory_noHistoryMessage in: org.eclipse.jdt.internal.ui.compare.CompareMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:02.248
+!MESSAGE NLS unused message: ToggleDetailPaneAction_6 in: org.eclipse.debug.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-07-20 21:40:02.248
+!MESSAGE NLS unused message: ToggleDetailPaneAction_9 in: org.eclipse.debug.internal.ui.actions.ActionMessages
