@@ -29,7 +29,7 @@ public class Principal extends JFrame {
 	private JInternalFrame jInternalFrame = null;
 	private JPanel jContentPane = null;
 	private JLabel lblNombreUsuario = null;
-	private JLabel lblContraseña = null;
+	private JLabel lblContrasena = null;
 	private JTextField txtUsuario = null;
 	private JPasswordField txtPassword = null;
 	private JButton btnCanselar = null;
@@ -131,16 +131,16 @@ public class Principal extends JFrame {
 	 */
 	private JPanel getJContentPane() {
 		if (jContentPane == null) {
-			lblContraseña = new JLabel();
-			lblContraseña.setBounds(new Rectangle(30, 89, 165, 25));
-			lblContraseña.setText("Comtraseña Usuario");
+			lblContrasena = new JLabel();
+			lblContrasena.setBounds(new Rectangle(30, 89, 165, 25));
+			lblContrasena.setText("Comtraseï¿½a Usuario");
 			lblNombreUsuario = new JLabel();
 			lblNombreUsuario.setBounds(new Rectangle(33, 32, 165, 25));
 			lblNombreUsuario.setText("Nombre de Usuario");
 			jContentPane = new JPanel();
 			jContentPane.setLayout(null);
 			jContentPane.add(lblNombreUsuario, null);
-			jContentPane.add(lblContraseña, null);
+			jContentPane.add(lblContrasena, null);
 			jContentPane.add(getTxtUsuario(), null);
 			jContentPane.add(getTxtPassword(), null);
 			jContentPane.add(getBtnCanselar(), null);
