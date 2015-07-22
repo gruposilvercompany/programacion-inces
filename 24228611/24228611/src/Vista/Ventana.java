@@ -28,7 +28,7 @@ public class Ventana extends JFrame{
 	
 	private JButton calc, ecu, login, registro = null;
 	
-	private Registro registrov;
+	private Login loginv;
 
 	public Ventana(){
 		Inicializar();
@@ -74,11 +74,11 @@ public class Ventana extends JFrame{
 		{
 		public void actionPerformed(ActionEvent e)
 		{
-		if(registrov == null || registrov.isVisible()==false)
+		if(loginv == null || loginv.isVisible()==false)
 		{
-			registrov = new Registro();
-			registrov.setVisible(true);
-			Contenedor().add(registrov);
+			loginv = new Login();
+			loginv.setVisible(true);
+			Contenedor().add(loginv);
 		  
 		}			            	
 		}
@@ -123,7 +123,7 @@ public class Ventana extends JFrame{
 	private JLabel getInicio(){
 		if (inicio == null){
 			inicio = new JLabel();
-			inicio.setText("Seleccione una Opción");
+			inicio.setText("Seleccione una Opciï¿½n");
 			inicio.setBounds(new Rectangle(70,10,130,20));
 		}
 		return inicio;
