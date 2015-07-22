@@ -1,27 +1,21 @@
-package Vistas;
+package views;
 
-import javax.swing.SwingUtilities;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
-import javax.swing.JFrame;
+import javax.swing.JInternalFrame;
 
-public class VentanaPrincipal extends JFrame {
+public class IniciarSesion extends JInternalFrame {
 
+	/**
+	 * 
+	 */
 	private static final long serialVersionUID = 1L;
 	private JPanel jContentPane = null;
 
 	/**
-	 * @param args
+	 * This is the xxx default constructor
 	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-	/**
-	 * This is the default constructor
-	 */
-	public VentanaPrincipal() {
+	public IniciarSesion() {
 		super();
 		initialize();
 	}
@@ -32,9 +26,8 @@ public class VentanaPrincipal extends JFrame {
 	 * @return void
 	 */
 	private void initialize() {
-		this.setSize(300,200);
+		this.setSize(300, 200);
 		this.setContentPane(getJContentPane());
-		this.setTitle("JFrame");
 	}
 
 	/**
@@ -43,7 +36,7 @@ public class VentanaPrincipal extends JFrame {
 	 * @return javax.swing.JPanel
 	 */
 	private JPanel getJContentPane() {
-		if(jContentPane == null) {
+		if (jContentPane == null) {
 			jContentPane = new JPanel();
 			jContentPane.setLayout(new BorderLayout());
 		}
