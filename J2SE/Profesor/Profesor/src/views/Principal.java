@@ -38,7 +38,6 @@ public class Principal extends JFrame {
 	private JMenuBar getBarraMenu() {
 		if (barraMenu == null) {
 			barraMenu = new JMenuBar();
-			barraMenu.setVisible(false);
 			barraMenu.setToolTipText("Barra de Menus");
 			barraMenu.add(getMenuOpciones());
 			barraMenu.add(getMenuAyuda());
