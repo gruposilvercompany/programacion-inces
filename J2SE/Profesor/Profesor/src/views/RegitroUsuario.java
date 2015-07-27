@@ -17,7 +17,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 import javax.swing.border.TitledBorder;
-import models.ClaseObjetoParaComboBox;
+
 
 public class RegitroUsuario extends JInternalFrame {
 
@@ -289,8 +289,8 @@ public class RegitroUsuario extends JInternalFrame {
             cbxNacionalidad = new JComboBox();
             cbxNacionalidad.setBounds(new Rectangle(503, 142, 272, 25));
             
-            cbxNacionalidad.addItem(new ClaseObjetoParaComboBox(1,"ItemEjemploNº1"));
-cbxNacionalidad.addItem(new ClaseObjetoParaComboBox(2,"ItemEjemploNº2"));
+//            cbxNacionalidad.addItem(new ClaseObjetoParaComboBox(1,"ItemEjemploNº1"));
+//cbxNacionalidad.addItem(new ClaseObjetoParaComboBox(2,"ItemEjemploNº2"));
         }
         return cbxNacionalidad;
     }

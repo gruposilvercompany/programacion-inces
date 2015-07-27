@@ -13,7 +13,7 @@ public class ModeloAcceso extends ModeloBD {
         boolean sw = false;
         nbUsuario = lcUsuario;
         clave = lcClave;
-        String sql = "SELECT * FROM tbl_usuario WHERE username = '" + nbUsuario + "' AND password ='" + clave + "' AND estatus_usuario='Activo'";
+        String sql = "SELECT * FROM tbl_usuario WHERE usario = '" + nbUsuario + "' AND password ='" + clave + "' AND estatus_usuario='Activo'";
         abrirConexion();
         ResultSet rs = cargarSGenerico(sql);
         try {

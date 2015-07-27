@@ -36,13 +36,10 @@ public class ControlAcceso extends WindowAdapter implements ActionListener {
 
     private void verificaEntrada() {//INICIO METODO
 
-        // System.out.println(vista.getUsuario());
-       /* if ("1".equals(vista.getUsuario())) {
-         System.out.println("Se Ejecuta la Accion en el Boton");
-            
-         } */
         if (usuario.validarUsuario(vista.getUsuario(), vista.getClave())) {
-            System.out.println("Se Ejecuta la Accion en el Boton");
+           JOptionPane.showMessageDialog(null, "<html><h3 color='#336633'>Bienvenido(a) al Curso de programacion del Inces","Acceso Consedido",JOptionPane.QUESTION_MESSAGE);
+	
+            vista.jInternalFrame.dispose();
         } else {
             JOptionPane.showMessageDialog(null, "<html>"
                     + "<h2 color='RED'>El Usuario y La Clave Son Incorrectos", null, JOptionPane.ERROR_MESSAGE);

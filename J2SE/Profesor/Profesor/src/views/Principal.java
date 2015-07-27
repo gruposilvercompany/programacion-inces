@@ -30,7 +30,7 @@ public class Principal extends JFrame {
     private JMenu menuAyuda = null;
     private JMenuItem menuItemSalir = null;
     private JDesktopPane contenedorPrincipal = null;
-    private JInternalFrame jInternalFrame = null;
+    public JInternalFrame jInternalFrame = null;
     private JPanel jContentPane = null;
     private JLabel lblNombreUsuario = null;
     private JLabel lblContrasena = null;
