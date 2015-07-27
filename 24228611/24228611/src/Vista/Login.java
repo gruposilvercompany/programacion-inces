@@ -48,8 +48,8 @@ public class Login extends JFrame{
 	
 	public void Inicializar(){
 		this.setTitle("Login");
-		this.setSize(400,400);
-		this.setLocation(200,300);
+		this.setSize(450,600);
+
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setContentPane(getContenedorPrincipal());
 		this.setJMenuBar(MenuContenedor());

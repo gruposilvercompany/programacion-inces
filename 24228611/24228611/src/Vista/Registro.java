@@ -14,30 +14,36 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
+import javax.swing.JPasswordField;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
 public class Registro extends JInternalFrame {
 
 	private static final long serialVersionUID = 1L;
-	JPanel panel = null;
-	JLabel inicio, nombre, apellido, cedula, tlfm, tlff, pin, what,
-			correo = null;
-	JTextField txtnom, txtape, txtced, txttlfm, txttlff, txtpin, txtwhat,
-			txtcorreo = null;
-
-	JLabel inicio1, region, estado, municipio, parroquia, sector,
-			direccion = null;
-	JTextField txtreg, txtestad, txtmunic, txtparr, txtsector, txtdir = null;
+	private JPanel panel = null;
 	
-	JComboBox estadoc = null;
-	JRadioButton radioF, radioM = null;
+        private JLabel inicio, nombre, apellido, cedula, tlfm, tlff, pin, what,
+			correo, fecha = null;
+	private JTextField txtnom, txtape, txtced, txttlfm, txttlff, txtpin, txtwhat,
+			txtcorreo, txtfecha = null;
 
-	JButton btnAceptar, btnCancelar, btnLimpiar = null;
+	private JLabel inicio1, sector, direccion = null;
+	private JTextField txtsector, txtdir = null;
+        
+        private JLabel inicio2, usuario, clave, confirmarclave = null;
+        private JTextField txtusuario = null;
+        private JPasswordField txtclave, txtconfirmar = null;
 	
-	JMenuBar menu = null;
-	JMenu menuA, menuE = null;
-	JMenuItem menunuevo = null;
+	private JComboBox estadoc, regioncombo, estadocombo, municipiocombo,
+                parroquiacombo = null;
+	private JRadioButton radioF, radioM = null;
+
+	private JButton btnAceptar, btnCancelar, btnLimpiar = null;
+	
+	private JMenuBar menu = null;
+	private JMenu menuA, menuE = null;
+	private JMenuItem menunuevo = null;
 
 	public Registro() {
                 super("Registro",true,true,true,true);
@@ -64,6 +70,8 @@ public class Registro extends JInternalFrame {
 			panel.add(getTxtape(), null);
 			panel.add(getCedula(), null);
 			panel.add(getTxtced(), null);
+                        panel.add(getFecha(), null);
+                        panel.add(getTxtFecha(), null);
 			panel.add(getTelefonoM(), null);
 			panel.add(getTxttlfm(), null);
 			panel.add(getTelefonoF(), null);
@@ -78,18 +86,21 @@ public class Registro extends JInternalFrame {
 			panel.add(getCorreo(), null);
 			panel.add(getTxtCorreo(), null);
 			panel.add(getInicio1(), null);
-			panel.add(getRegion(), null);
-			panel.add(getTxtRegion(), null);
-			panel.add(getEstado(), null);
-			panel.add(getTxtEstado(), null);
-			panel.add(getMunicipio(), null);
-			panel.add(getTxtMunic(), null);
-			panel.add(getParroquia(), null);
-			panel.add(getTxtParroquia(), null);
+			panel.add(ComboRegion(), null);
+			panel.add(ComboEstado(), null);
+			panel.add(ComboMunicipio(), null);
+			panel.add(ComboParroquia(), null);
 			panel.add(getSector(), null);
 			panel.add(getTxtSector(), null);
 			panel.add(getDireccion(), null);
 			panel.add(getTxtDireccion(), null);
+                        panel.add(getInicio2(), null);
+                        panel.add(getUsuario(), null);
+                        panel.add(getTxtUsuario(), null);
+                        panel.add(getClave(), null);
+                        panel.add(getTxtClave(), null);
+                        panel.add(getClaveConfirmada(), null);
+                        panel.add(getTxtClaveConfirmada(), null);
 			panel.add(getbtnAceptar(), null);
 			panel.add(getbtnLimpiar(), null);
 			panel.add(getbtnCancelar(), null);
@@ -163,7 +174,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtnom() {
 		if (txtnom == null) {
 			txtnom = new JTextField();
-			txtnom.setBounds(new Rectangle(70, 40, 100, 20));
+			txtnom.setBounds(new Rectangle(80, 40, 100, 20));
 		}
 		return txtnom;
 	}
@@ -172,7 +183,7 @@ public class Registro extends JInternalFrame {
 		if (apellido == null) {
 			apellido = new JLabel();
 			apellido.setText("Apellidos");
-			apellido.setBounds(new Rectangle(180, 40, 100, 20));
+			apellido.setBounds(new Rectangle(190, 40, 100, 20));
 		}
 		return apellido;
 	}
@@ -180,7 +191,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtape() {
 		if (txtape == null) {
 			txtape = new JTextField();
-			txtape.setBounds(new Rectangle(240, 40, 100, 20));
+			txtape.setBounds(new Rectangle(260, 40, 100, 20));
 		}
 		return txtape;
 	}
@@ -197,9 +208,26 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtced() {
 		if (txtced == null) {
 			txtced = new JTextField();
-			txtced.setBounds(new Rectangle(70, 60, 100, 20));
+			txtced.setBounds(new Rectangle(80, 60, 100, 20));
 		}
 		return txtced;
+	}
+        
+        	private JLabel getFecha() {
+		if (fecha == null) {
+			fecha = new JLabel();
+			fecha.setText("Fecha");
+			fecha.setBounds(new Rectangle(190, 60, 100, 20));
+		}
+		return fecha;
+	}
+
+	private JTextField getTxtFecha() {
+		if (txtfecha == null) {
+			txtfecha = new JTextField();
+			txtfecha.setBounds(new Rectangle(260, 60, 100, 20));
+		}
+		return txtfecha;
 	}
 
 	private JLabel getTelefonoM() {
@@ -214,7 +242,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxttlfm() {
 		if (txttlfm == null) {
 			txttlfm = new JTextField();
-			txttlfm.setBounds(new Rectangle(70, 80, 100, 20));
+			txttlfm.setBounds(new Rectangle(80, 80, 100, 20));
 		}
 		return txttlfm;
 	}
@@ -223,7 +251,7 @@ public class Registro extends JInternalFrame {
 		if (tlff == null) {
 			tlff = new JLabel();
 			tlff.setText("Tlf Fijo");
-			tlff.setBounds(new Rectangle(180, 80, 100, 20));
+			tlff.setBounds(new Rectangle(190, 80, 100, 20));
 		}
 		return tlff;
 	}
@@ -231,7 +259,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxttlff() {
 		if (txttlff == null) {
 			txttlff = new JTextField();
-			txttlff.setBounds(new Rectangle(240, 80, 100, 20));
+			txttlff.setBounds(new Rectangle(260, 80, 100, 20));
 		}
 		return txttlff;
 	}
@@ -239,7 +267,7 @@ public class Registro extends JInternalFrame {
 	private JComboBox getComboE() {
 		if (estadoc == null) {
 			estadoc = new JComboBox();
-			estadoc.setBounds(new Rectangle(150, 110, 100, 20));
+			estadoc.setBounds(new Rectangle(150, 110, 110, 20));
 			estadoc.addItem("Estado Civil");
 			estadoc.addItem("Soltero(a)");
 			estadoc.addItem("Casado(a)");
@@ -283,7 +311,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtPin() {
 		if (txtpin == null) {
 			txtpin = new JTextField();
-			txtpin.setBounds(new Rectangle(70, 150, 100, 20));
+			txtpin.setBounds(new Rectangle(80, 150, 100, 20));
 		}
 		return txtpin;
 	}
@@ -292,7 +320,7 @@ public class Registro extends JInternalFrame {
 		if (what == null) {
 			what = new JLabel();
 			what.setText("WhatsApp");
-			what.setBounds(new Rectangle(180, 150, 100, 20));
+			what.setBounds(new Rectangle(185, 150, 100, 20));
 		}
 		return what;
 	}
@@ -300,7 +328,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtWhat() {
 		if (txtwhat == null) {
 			txtwhat = new JTextField();
-			txtwhat.setBounds(new Rectangle(240, 150, 100, 20));
+			txtwhat.setBounds(new Rectangle(260, 150, 100, 20));
 		}
 		return txtwhat;
 	}
@@ -317,84 +345,68 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtCorreo() {
 		if (txtcorreo == null) {
 			txtcorreo = new JTextField();
-			txtcorreo.setBounds(new Rectangle(70, 170, 270, 20));
+			txtcorreo.setBounds(new Rectangle(80, 170, 280, 20));
 		}
 		return txtcorreo;
 	}
 
-	private JLabel getRegion() {
-		if (region == null) {
-			region = new JLabel();
-			region.setText("Region");
-			region.setBounds(new Rectangle(10, 240, 100, 20));
-		}
-		return region;
-	}
+	
+        private JComboBox ComboRegion(){
+            if (regioncombo == null){
+                regioncombo = new JComboBox();
+                regioncombo.setBounds(new Rectangle(30,240,120,20));
+                regioncombo.addItem("Region");
+                regioncombo.addItem("Oriental");
+                regioncombo.addItem("Llanera");
+                regioncombo.addItem("Occidente");
+                regioncombo.addItem("Insular");
+                regioncombo.addItem("Andina");
+                regioncombo.addItem("Guayana");
+                regioncombo.addItem("Centro");
+            }
+            return regioncombo;
+        }
 
-	private JTextField getTxtRegion() {
-		if (txtreg == null) {
-			txtreg = new JTextField();
-			txtreg.setBounds(new Rectangle(70, 240, 100, 20));
-		}
-		return txtreg;
-	}
-
-	private JLabel getEstado() {
-		if (estado == null) {
-			estado = new JLabel();
-			estado.setText("Estado");
-			estado.setBounds(new Rectangle(10, 260, 100, 20));
-		}
-		return estado;
-	}
-
-	private JTextField getTxtEstado() {
-		if (txtestad == null) {
-			txtestad = new JTextField();
-			txtestad.setBounds(new Rectangle(70, 260, 100, 20));
-		}
-		return txtestad;
-	}
-
-	private JLabel getMunicipio() {
-		if (municipio == null) {
-			municipio = new JLabel();
-			municipio.setText("Municipio");
-			municipio.setBounds(new Rectangle(10, 280, 100, 20));
-		}
-		return municipio;
-	}
-
-	private JTextField getTxtMunic() {
-		if (txtmunic == null) {
-			txtmunic = new JTextField();
-			txtmunic.setBounds(new Rectangle(70, 280, 100, 20));
-		}
-		return txtmunic;
-	}
-
-	private JLabel getParroquia() {
-		if (parroquia == null) {
-			parroquia = new JLabel();
-			parroquia.setText("Parroquia");
-			parroquia.setBounds(new Rectangle(10, 300, 100, 20));
-		}
-		return parroquia;
-	}
-
-	private JTextField getTxtParroquia() {
-		if (txtparr == null) {
-			txtparr = new JTextField();
-			txtparr.setBounds(new Rectangle(70, 300, 100, 20));
-		}
-		return txtparr;
-	}
+        private JComboBox ComboEstado(){
+            if (estadocombo == null){
+                estadocombo = new JComboBox();
+                estadocombo.setBounds(new Rectangle(220,240,120,20));
+                estadocombo.addItem("Estado");
+                estadocombo.addItem("Amazonas");
+                estadocombo.addItem("Anzoategui");
+                estadocombo.addItem("Apure");
+                estadocombo.addItem("Barinas");
+                estadocombo.addItem("Bolivar");
+                estadocombo.addItem("Carabobo");
+                estadocombo.addItem("Guarico");
+                estadocombo.addItem("Aragua");
+            }
+            return estadocombo;
+        }
+        
+        private JComboBox ComboMunicipio(){
+            if (municipiocombo == null) {
+                municipiocombo = new JComboBox();
+                municipiocombo.setBounds(new Rectangle(30,265,120,20));
+                municipiocombo.addItem("Municipio");
+            }
+            return municipiocombo;
+        }
+        
+                private JComboBox ComboParroquia(){
+            if (parroquiacombo == null){
+                parroquiacombo = new JComboBox();
+                parroquiacombo.setBounds(new Rectangle(220,265,120,20));
+                parroquiacombo.addItem("Parroquia");
+            }
+            return parroquiacombo;
+        }
 
 	private JLabel getSector() {
 		if (sector == null) {
 			sector = new JLabel();
 			sector.setText("Sector");
-			sector.setBounds(new Rectangle(10, 320, 100, 20));
+			sector.setBounds(new Rectangle(10, 290, 100, 20));
 		}
 		return sector;
 	}
@@ -402,7 +414,7 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtSector() {
 		if (txtsector == null) {
 			txtsector = new JTextField();
-			txtsector.setBounds(new Rectangle(70, 320, 270, 20));
+			txtsector.setBounds(new Rectangle(80, 290, 100, 20));
 		}
 		return txtsector;
 	}
@@ -411,7 +423,7 @@ public class Registro extends JInternalFrame {
 		if (direccion == null) {
 			direccion = new JLabel();
 			direccion.setText("Direccion");
-			direccion.setBounds(new Rectangle(10, 340, 100, 20));
+			direccion.setBounds(new Rectangle(190, 290, 100, 20));
 		}
 		return direccion;
 	}
@@ -419,30 +431,95 @@ public class Registro extends JInternalFrame {
 	private JTextField getTxtDireccion() {
 		if (txtdir == null) {
 			txtdir = new JTextField();
-			txtdir.setBounds(new Rectangle(70, 340, 270, 20));
+			txtdir.setBounds(new Rectangle(260, 290, 100, 20));
 		}
 		return txtdir;
 	}
+        
+        private JLabel getInicio2(){
+            if (inicio2 == null){
+                inicio2 = new JLabel();
+                inicio2.setText("DATOS DE CUENTA");
+                inicio2.setBounds(new Rectangle(140,320,150,20));
+            }
+            return inicio2;
+        }
+        
+        private JLabel getUsuario(){
+            if (usuario == null){
+                usuario = new JLabel();
+                usuario.setText("Usuario");
+                usuario.setBounds(new Rectangle(10,350,100,20));
+            }
+            return usuario;
+        }
+        
+        private JTextField getTxtUsuario(){
+            if (txtusuario == null){
+                txtusuario = new JTextField();
+                txtusuario.setBounds(new Rectangle(80,350,100,20));
+            }
+            return txtusuario;
+        }
+        
+        private JLabel getClave(){
+            if (clave == null){
+                clave = new JLabel();
+                clave.setText("Clave");
+                clave.setBounds(new Rectangle(10,370,100,20));
+            }
+            return clave;
+        }
+        
+        private JPasswordField getTxtClave(){
+            if (txtclave == null){
+                txtclave = new JPasswordField();
+                txtclave.setBounds(new Rectangle(80,370,100,20));
+            }
+            return txtclave;
+        }
+        
+         private JLabel getClaveConfirmada(){
+            if (confirmarclave == null){
+                confirmarclave = new JLabel();
+                confirmarclave.setText("Confirmar");
+                confirmarclave.setBounds(new Rectangle(190,370,100,20));
+            }
+            return confirmarclave;
+        }
+        
+        private JPasswordField getTxtClaveConfirmada(){
+            if (txtconfirmar == null){
+                txtconfirmar = new JPasswordField();
+                txtconfirmar.setBounds(new Rectangle(270,370,100,20));
+            }
+            return txtconfirmar;
+        }
 
 	//Aqui estan las etiquetas JButton
 	private JButton getbtnAceptar() {
 		if (btnAceptar == null) {
 			btnAceptar = new JButton();
 			btnAceptar.setText("Aceptar");
-			btnAceptar.setBounds(new Rectangle(50, 400, 100, 20));
+			btnAceptar.setBounds(new Rectangle(30, 410, 100, 20));
 
 			btnAceptar.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(java.awt.event.MouseEvent e) {
 
 					String nombre = txtnom.getText();
 					String apellido = txtape.getText();
+                                        String cedula = txtced.getText();
+                                        String fecha = txtfecha.getText();
+                                        String tlfm = txttlfm.getText();
+                                        String tlff = txttlff.getText();
 					String pin = txtpin.getText();
+                                        String what = txtwhat.getText();
 					String correo = txtcorreo.getText();
-					String region = txtreg.getText();
-					String municipio = txtmunic.getText();
-					String parroquia = txtparr.getText();
 					String sector = txtsector.getText();
 					String direccion = txtdir.getText();
+                                        String cuenta = txtusuario.getText();
+                                        String clave = txtclave.getText();
+                                        String confirmado = txtconfirmar.getText();
 
 
 
@@ -450,37 +527,57 @@ public class Registro extends JInternalFrame {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese un nombre", "Mensaje del Sistema", 0);
 					}
-					if (apellido.equals("")) {
+                                        else if (apellido.equals("")) {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese un Apellido", "Mensaje del Sistema", 0);
 					}
-					if (pin.equals("")) {
+                                        else if (cedula.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese la Cedula", "Mensaje del Sistema", 0);
+					}
+                                        else if (fecha.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese su Fecha de Nacimiento", "Mensaje del Sistema", 0);
+					}
+                                        else if (tlfm.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese un Telefono Movil", "Mensaje del Sistema", 0);
+					}
+                                        else if (tlff.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese un Telefono Fijo", "Mensaje del Sistema", 0);
+					}
+                                        else if (pin.equals("")) {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese un PIN", "Mensaje del Sistema", 0);
 					}
-					if (correo.equals("")) {
+                                        else if (what.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese un WhatsApp", "Mensaje del Sistema", 0);
+					}
+                                        else if (correo.equals("")) {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese un E-Mail", "Mensaje del Sistema", 0);
 					}
-					if (region.equals("")) {
-						JOptionPane.showMessageDialog(null,
-								"Ingrese una Region", "Mensaje del Sistema", 0);
-					}
-					if (municipio.equals("")) {
-						JOptionPane.showMessageDialog(null,
-								"Ingrese un Municipio", "Mensaje del Sistema", 0);
-					}
-					if (parroquia.equals("")) {
-						JOptionPane.showMessageDialog(null,
-								"Ingrese una Parroquia", "Mensaje del Sistema", 0);
-					}
-					if (sector.equals("")) {
+                                        else if (sector.equals("")) {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese el Sector", "Mensaje del Sistema", 0);
 					}
-					if (direccion.equals("")) {
+                                        else if (direccion.equals("")) {
 						JOptionPane.showMessageDialog(null,
 								"Ingrese su Direccion", "Mensaje del Sistema", 0);
+					}
+                                        else if (cuenta.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese su nomber de Usuario", "Mensaje del Sistema", 0);
+					}
+                                        else if (clave.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Ingrese su Clave", "Mensaje del Sistema", 0);
+					}
+                                        else if (confirmado.equals("")) {
+						JOptionPane.showMessageDialog(null,
+								"Repita la clave", "Mensaje del Sistema", 0);
 					}
 
 				}
@@ -495,7 +592,7 @@ public class Registro extends JInternalFrame {
 		if(btnLimpiar == null){
 			btnLimpiar = new JButton();
 			btnLimpiar.setText("Limpiar");
-			btnLimpiar.setBounds(new Rectangle(150,400,100,20));
+			btnLimpiar.setBounds(new Rectangle(145,410,100,20));
 			
 			btnLimpiar.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(java.awt.event.MouseEvent e) {
@@ -503,17 +600,17 @@ public class Registro extends JInternalFrame {
 					txtnom.setText(null);
 					txtape.setText(null);
 					txtced.setText(null);
+                                        txtfecha.setText(null);
 					txttlff.setText(null);
 					txttlfm.setText(null);
 					txtpin.setText(null);
 					txtwhat.setText(null);
 					txtcorreo.setText(null);
-					txtreg.setText(null);
-					txtestad.setText(null);
-					txtmunic.setText(null);
-					txtparr.setText(null);
 					txtsector.setText(null);
 					txtdir.setText(null);
+                                        txtusuario.setText(null);
+                                        txtclave.setText(null);
+                                        txtconfirmar.setText(null);
 				}
 
 			});
@@ -526,7 +623,7 @@ public class Registro extends JInternalFrame {
 		if (btnCancelar == null) {
 			btnCancelar = new JButton();
 			btnCancelar.setText("Cancelar");
-			btnCancelar.setBounds(new Rectangle(250, 400, 100, 20));
+			btnCancelar.setBounds(new Rectangle(260, 410, 100, 20));
 
 			btnCancelar.addMouseListener(new MouseAdapter() {
 				public void mouseClicked(java.awt.event.MouseEvent e) {
