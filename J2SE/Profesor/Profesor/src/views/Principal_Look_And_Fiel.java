@@ -7,7 +7,6 @@ import java.awt.Frame;
 import javax.swing.JFrame;
 
 import javax.swing.UIManager;
-
 public class Principal_Look_And_Fiel {
 
     public static void main(String[] args) {
