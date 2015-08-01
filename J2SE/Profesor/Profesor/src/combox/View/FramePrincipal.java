@@ -1,33 +1,18 @@
 package combox.View;
 
-
-
-
 import combox.Controller.CCItem;
 import combox.Modelo.Entidad.CEItem;
-import java.util.List;
 
-public class FramePrincipal extends javax.swing.JFrame
-{
-    public FramePrincipal()
-    {
+public class FramePrincipal extends javax.swing.JFrame {
+
+    CCItem cCItem;
+
+    public FramePrincipal() {
         initComponents();
-        cargarItemsComboBox();
+        cCItem = new CCItem(this);
+        cCItem.cargarItemsComboBox();
     }
 
-
-    private void cargarItemsComboBox()
-    {
-        List<CEItem> oListaItem=CCItem.listarItem();
-        if(oListaItem!=null)
-        {
-            int size=oListaItem.size();
-            for(int i=0;i<size;i++)
-            {
-                CbxItem.addItem(oListaItem.get(i));
-            }
-        }
-    }
 
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
@@ -87,7 +72,7 @@ public class FramePrincipal extends javax.swing.JFrame
                     .addComponent(TxtCodigo)
                     .addComponent(TxtPrecio)
                     .addComponent(CbxItem, javax.swing.GroupLayout.PREFERRED_SIZE, 173, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(53, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -134,18 +119,16 @@ public class FramePrincipal extends javax.swing.JFrame
             .addGroup(layout.createSequentialGroup()
                 .addGap(23, 23, 23)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(BtnImprimir)
+                    .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jPanel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 253, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(BtnSalir))
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(BtnImprimir)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 229, Short.MAX_VALUE))
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 312, Short.MAX_VALUE)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 24, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addComponent(jLabel1)
-                        .addGap(19, 19, 19))
-                    .addComponent(jPanel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addGap(24, 24, 24)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(BtnSalir, javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                                .addComponent(jLabel1)
+                                .addGap(19, 19, 19)))))
                 .addGap(26, 26, 26))
         );
         layout.setVerticalGroup(
@@ -168,33 +151,30 @@ public class FramePrincipal extends javax.swing.JFrame
     }// </editor-fold>//GEN-END:initComponents
 
     private void BtnSalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BtnSalirActionPerformed
-      System.exit(0);
+        System.exit(0);
     }//GEN-LAST:event_BtnSalirActionPerformed
 
     private void BtnImprimirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BtnImprimirActionPerformed
-        int size=CbxItem.getItemCount();
-        if(size>0)
-        {
-            for(int i=0;i<size;i++)
-            {
-              CEItem oItem=(CEItem)CbxItem.getItemAt(i);
-              TxaImpresion.append("Codigo:"+oItem.getId_Item()+"\tDescripcion:"+oItem+"\tPrecio:"+oItem.getPrecio()+"\n");
+        int size = CbxItem.getItemCount();
+        if (size > 0) {
+            for (int i = 0; i < size; i++) {
+                CEItem oItem = (CEItem) CbxItem.getItemAt(i);
+                TxaImpresion.append("Codigo:" + oItem.getId_Item() + "\tDescripcion:" + oItem + "\tPrecio:" + oItem.getPrecio() + "\n");
             }
         }
     }//GEN-LAST:event_BtnImprimirActionPerformed
 
     private void CbxItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CbxItemActionPerformed
-        CEItem oItem=(CEItem)CbxItem.getSelectedItem();
-        if(oItem!=null)
-        {
-            TxtCodigo.setText(oItem.getId_Item()+"");
+        CEItem oItem = (CEItem) CbxItem.getSelectedItem();
+        if (oItem != null) {
+            TxtCodigo.setText(oItem.getId_Item() + "");
             TxtPrecio.setText(oItem.getDescripcion());
         }
     }//GEN-LAST:event_CbxItemActionPerformed
 
     /**
-    * @param args the command line arguments
-    */
+     * @param args the command line arguments
+     */
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
@@ -207,7 +187,7 @@ public class FramePrincipal extends javax.swing.JFrame
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton BtnImprimir;
     private javax.swing.JButton BtnSalir;
-    private javax.swing.JComboBox CbxItem;
+    public static javax.swing.JComboBox CbxItem;
     private javax.swing.JTextArea TxaImpresion;
     private javax.swing.JTextField TxtCodigo;
     private javax.swing.JTextField TxtPrecio;
