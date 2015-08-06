@@ -62,7 +62,7 @@ public class Principal extends JFrame {
 	private JMenuItem getMenuItemCalculadora() {
 		if (menuItemCalculadora == null) {
 			menuItemCalculadora = new JMenuItem();
-			menuItemCalculadora.setText("Calculadora");
+			menuItemCalculadora.setText("Registro");
 			menuItemCalculadora.addActionListener(new ActionListener()
 			{
 		public void actionPerformed(ActionEvent e)
