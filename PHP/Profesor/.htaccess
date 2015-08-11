@@ -1,1 +1,5 @@
+#<IfModule mod_rewrite.c>
+#  RewriteEngine on   
+#    RewriteRule ^(application|config|db|library|public|scripts|tmp)/ - [F]
+# </IfModule>
 
