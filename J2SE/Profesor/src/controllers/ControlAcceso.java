@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import javax.swing.JOptionPane;
 import models.ModeloAcceso;
-import views.Principal;
+import viewsll.Principal;
 
 /**
  * @author JUAN AJOSE
