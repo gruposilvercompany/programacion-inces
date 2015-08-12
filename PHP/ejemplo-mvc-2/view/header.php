@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title>Anexsoft</title>
+		<title>ejemplo-mvc-2</title>
         
         <meta charset="utf-8" />
         
@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="assets/js/jquery-ui/jquery-ui.min.css" />
         <link rel="stylesheet" href="assets/css/style.css" />
         
-        <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+        <script src="assets/jquery/jquery-2.1.1.min.js"></script>
 	</head>
     <body>
         
