@@ -1,0 +1,59 @@
+body{
+	background: -webkit-linear-gradient(top, navy, black, navy);
+	background: -moz-linear-gradient(top, navy, black, navy);
+	text-align: center;
+	color: white;
+}
+
+header{
+	color: silver;
+	font-size: 50px;
+	background: -webkit-linear-gradient(top, navy, blue, navy);
+	background: -moz-linear-gradient(top, navy, blue, navy);
+	border-radius: 100px 100px 100px 100px;
+	width: 950px;
+	margin-left: 12%;
+}
+
+section{
+	background: -webkit-linear-gradient(top, blue, navy, blue);
+	background: -moz-linear-gradient(top, blue, navy, blue);
+	border-radius: 500px 500px 500px 500px;
+	width: 400px;
+}
+
+table{
+	background: -webkit-linear-gradient(top, navy, blue, navy);
+	background: -moz-linear-gradient(top, navy, blue, navy);
+	color: white;
+}
+
+#seccion{
+	margin-left: 450px;
+}
+
+button{
+	color: red;
+	background: -webkit-linear-gradient(top, navy, silver, navy);
+	background: -moz-linear-gradient(top, navy, silver, navy);
+	width: 120px;
+	height: 40px;
+	font-size: 1.1em;
+	border-radius: 10px 10px 10px 10px;
+}
+
+button:hover{
+	background: -webkit-linear-gradient(top, silver, blue, silver);
+	background: -moz-linear-gradient(top, silver, blue, silver);
+	color: orange;
+}
+
+footer{
+	font-size: 1.9em;
+	color: silver;
+	width: 1100px;
+	margin-left: 7%;
+	background: -webkit-linear-gradient(top, navy, blue, navy);
+	background: -moz-linear-gradient(top, navy, blue, navy);
+	border-radius: 200px 200px 200px 200px;
+}
