@@ -12,64 +12,74 @@
         <title>Curso programacion Inces</title>
         <meta name="description" content="">
 
-        <script type="text/javascript" src="core/jquery/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="../../core/jquery/jquery-2.1.1.min.js"></script>
         <link href="../../core/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <script src="../../core/bootstrap/js/bootstrap.min.js"></script>
         <link href="../../core/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../core/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link href="../../public/css/AdminLTE.css" rel="stylesheet">
-        <link href="../../public/css/curso.css.css" rel="stylesheet">
+        <link href="../../public/css/curso.css" rel="stylesheet">
     </head>
     <body>
-        
-        <nav class="navbar navbar-default">
+        <form method="post" action="accionejecutar" class="form-vertical" id="tblusuario-create">
+
             <div class="container-fluid">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="#">Project name</a>
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">datos persona</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row show-grid">
+
+                            <div class="col-md-4">                                                            <label for="lbl-tblpersona-nombres" class="lbl-tblpersona-nombres">Nombres</label>
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="glyphicon glyphicon-text-size"></i>
+                                    </span>
+                                    <input type="text" class="form-control" >
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label class="control-label">Apellidos</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon">
+                                            <i class="glyphicon glyphicon-text-color"></i>
+                                        </span>
+                                        <input type="text" class="form-control" >
+                                    </div>
+                                </div>                               
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label class="control-label">Cédula</label>
+                                    <div class="input-group">
+                                        <span class="input-group-addon">
+                                            <i class="fa fa-sort-numeric-asc"></i>
+                                        </span>
+                                        <input type="text" class="form-control">
+                                    </div>
+
+
+                                </div>                                
+                            </div>
+
+                        </div>
+                    </div>
                 </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li role="separator" class="divider"></li>
-                                <li class="dropdown-header">Nav header</li>
-                                <li><a href="#">Separated link</a></li>
-                                <li><a href="#">One more separated link</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
-                        <li><a href="../navbar-static-top/">Static top</a></li>
-                        <li><a href="../navbar-fixed-top/">Fixed top</a></li>
-                    </ul>
-                </div><!--/.nav-collapse -->
-            </div><!--/.container-fluid -->
-        </nav>
+            </div>
+        </div>
+        <section id="contenedor-1" class="contenedor-1">
+            Contenedor 1
+
+        </section>
 
         <section ><div class="container">
-                <ul class="breadcrumb"><li><a href="/safe_cgev/backend/web/">Inicio</a></li>
-                    <li><a href="/safe_cgev/backend/web/tblusuario/index">Usuarios</a></li>
-                    <li class="active">Crear Usuario</li>
-                </ul>                <div class="tbl-usuario-create">
-
-
-
-
+                <div class="tbl-usuario-create">
                     <div class="tbl-usuario-form">
-                        <form method="post" action="/safe_cgev/backend/web/tblusuario/create" class="form-vertical" id="tblfuncionario-create">
+                        <form method="post" action="accionejecutar" class="form-vertical" id="tblusuario-create">
                             <div class="">
                                 <div class="box-body">
                                     <div class="box-group" id="accordion">
@@ -84,84 +94,109 @@
                                             <div style="height: auto;" id="collapseOne" class="panel-collapse in">
                                                 <div class="box-body">
                                                     <div class="row show-grid">
+
+                                                        <div class="col-md-4">                                                            <label for="lbl-tblpersona-nombres" class="lbl-tblpersona-nombres">Nombres</label>
+                                                            <div class="input-group">
+                                                                <span class="input-group-addon">
+                                                                    <i class="glyphicon glyphicon-text-size"></i>
+                                                                </span>
+                                                                <input type="text" class="form-control" >
+                                                            </div>
+
+                                                        </div>
+
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-nombres required">
-                                                                <label for="tblpersona-nombres" class="control-label">Nombres</label>
+                                                            <div class="form-group">
+                                                                <label class="control-label">Apellidos</label>
                                                                 <div class="input-group">
                                                                     <span class="input-group-addon">
-                                                                        <i class="glyphicon glyphicon-text-size"></i>
+                                                                        <i class="glyphicon glyphicon-text-color"></i>
                                                                     </span>
-                                                                    <input type="text" data-toggle="tooltip" title="" name="TblPersona[nombres]" class="form-control" id="tblpersona-nombres" data-original-title="Nombres">
+                                                                    <input type="text" class="form-control" >
                                                                 </div>
-                                                                <div class="help-block"></div>
-
-                                                            </div> 
+                                                            </div>                               
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-apellidos required">
-                                                                <label for="tblpersona-apellidos" class="control-label">Apellidos</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="glyphicon glyphicon-text-color"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[apellidos]" class="form-control" id="tblpersona-apellidos" data-original-title="Apellidos" aria-describedby="tooltip484102"><div role="tooltip" class="tooltip fade top in" id="tooltip484102" style="top: -33px; left: 129px; display: block;"><div class="tooltip-arrow" style="left: 50%;"></div><div class="tooltip-inner">Apellidos</div></div></div>
-                                                                <div class="help-block"></div>
+                                                            <div class="form-group">
+                                                                <label class="control-label">Cédula</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="fa fa-sort-numeric-asc"></i>
+                                                                    </span>
+                                                                    <input type="text" class="form-control">
+                                                                </div>
 
-                                                            </div>                                </div>
-                                                        <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-int_cedula required">
-                                                                <label for="tblpersona-int_cedula" class="control-label">Cédula</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="fa fa-sort-numeric-asc"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[int_cedula]" class="form-control" id="tblpersona-int_cedula" data-original-title="Número cedula"></div>
-                                                                <div class="help-block"></div>
 
-                                                            </div>                                </div>
+                                                            </div>                                
+                                                        </div>
                                                     </div>
                                                     <div class="row show-grid">
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-int_rif required">
-                                                                <label for="tblpersona-int_rif" class="control-label">Rif</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="fa fa-sort-numeric-asc"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[int_rif]" class="form-control" id="tblpersona-int_rif" data-original-title="Número Rif"></div>
-                                                                <div class="help-block"></div>
-
+                                                            <div class="form-group">
+                                                                <label class="control-label">Rif</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="fa fa-sort-numeric-asc"></i>
+                                                                    </span>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
                                                             </div> 
                                                         </div>
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-tlf_movil required">
-                                                                <label for="tblpersona-tlf_movil" class="control-label">Télefono Móvil</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="glyphicon glyphicon-phone"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[tlf_movil]" class="form-control" id="tblpersona-tlf_movil" data-original-title="Teléfono Móvil"></div>
-                                                                <div class="help-block"></div>
-
-                                                            </div>                                </div>
+                                                            <div class="form-group">
+                                                                <label class="control-label">Télefono Móvil</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="glyphicon glyphicon-phone"></i>
+                                                                    </span>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-tlf_fijo">
-                                                                <label for="tblpersona-tlf_fijo" class="control-label">Télefono Fijo</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="glyphicon glyphicon-phone-alt"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[tlf_fijo]" class="form-control" id="tblpersona-tlf_fijo" data-original-title="Teléfono Fijo"></div>
-                                                                <div class="help-block"></div>
-
-                                                            </div>                                </div>
+                                                            <div class="form-group">
+                                                                <label class="control-label">Télefono Fijo</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="glyphicon glyphicon-phone-alt"></i>
+                                                                    </span>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
+                                                            </div>   
+                                                        </div>
                                                     </div>
                                                     <div class="row show-grid">
                                                         <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-correo required">
-                                                                <label for="tblpersona-correo" class="control-label">Correo</label>
-                                                                <div class="input-group"><span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span><input type="text" data-toggle="tooltip" title="" name="TblPersona[correo]" class="form-control" id="tblpersona-correo" data-original-title="Correo"></div>
-                                                                <div class="help-block"></div>
-
+                                                            <div class="form-group">
+                                                                <label class="control-label">Correo</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="glyphicon glyphicon-envelope"></i>
+                                                                    </span>
+                                                                    <input type="text" class="form-control" >
+                                                                </div>
                                                             </div> 
                                                         </div>
-                                                        <div class="col-md-4">
-                                                            <div class="form-group field-tblpersona-cod_nacionalidad required">
-                                                                <label for="tblpersona-cod_nacionalidad" class="control-label">Nacionalidad</label>
-                                                                <div class="input-group input-group-md select2-bootstrap-prepend">
-                                                                    <span class="input-group-addon"><span class="glyphicon glyphicon-random"></span></span><div class="select2-container form-control" id="s2id_tblpersona-cod_nacionalidad" title="Nacionalidad del Usuario" style="width:100%"><a tabindex="-1" class="select2-choice select2-default" href="javascript:void(0)">   <span class="select2-chosen" id="select2-chosen-1">Indique Nacionalidd</span>
-                                                                            <abbr class="select2-search-choice-close"></abbr>   
-                                                                            <span role="presentation" class="select2-arrow">
-                                                                                <b role="presentation"></b></span></a><label class="select2-offscreen" for="s2id_autogen1">Nacionalidad</label>
-                                                                        <select data-krajee-select2="select2_6789bf5d" style="width: 100%; display: none;" data-toggle="tooltip" placeholder="Indique Nacionalidd" title="" name="TblPersona[cod_nacionalidad]" class="form-control" id="tblpersona-cod_nacionalidad" tabindex="-1" data-original-title="Nacionalidad del Usuario">
-                                                                            <option value=""></option>
-                                                                            <option value="14">Venezolo</option>
-                                                                            <option value="15">Extranjero</option>
-                                                                        </select></div>
-                                                                    <div class="help-block"></div>
 
-                                                                </div>                                </div>
+
+                                                        <div class="col-md-4">
+                                                            <div class="form-group">
+                                                                <label class="control-label">Nacionalidad</label>
+                                                                <div class="input-group">
+                                                                    <span class="input-group-addon">
+                                                                        <i class="glyphicon glyphicon-envelope"></i>
+                                                                    </span>
+                                                                    <select  class="form-control" >
+                                                                        <option value=""></option>
+                                                                        <option value="14">Venezolo</option>
+                                                                        <option value="15">Extranjero</option>
+                                                                    </select>
+                                                                </div>
+                                                            </div> 
                                                         </div>
+
+
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -169,7 +204,7 @@
                                             <div class="panel box box-danger">
                                                 <div class="box-header">
                                                     <h4 class="box-title">
-                                                        <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                                                        <a data-parent="#accordion" href="#collapseTwo">
                                                             Datos Geográficos
                                                         </a>
                                                     </h4>
@@ -178,9 +213,9 @@
                                                     <div class="box-body">
                                                         <div class="row show-grid">
                                                             <div class="col-md-4">
-                                                                <div class="form-group field-tblpersona-cod_region required">
-                                                                    <label for="cod_region" class="control-label">Región</label>
-                                                                    <select name="TblPersona[cod_region]" class="form-control" id="cod_region">
+                                                                <div class="form-group">
+                                                                    <label class="control-label">Región</label>
+                                                                    <select class="form-control">
                                                                         <option value="">Indique la Región</option>
                                                                         <option value="1">CENTRO CAPITAL</option>
                                                                         <option value="3">CENTRO-OCCIDENTAL</option>
@@ -189,61 +224,53 @@
                                                                         <option value="2">OCCIDENTAL</option>
                                                                         <option value="4">SUR ORIENTAL</option>
                                                                     </select>
-                                                                    <div class="help-block"></div>
+
 
                                                                 </div> 
                                                             </div>
                                                             <div class="col-md-4">
-                                                                <div class="form-group field-tblpersona-cod_estado required">
-                                                                    <label for="tblpersona-cod_estado" class="control-label">Estado</label>
-                                                                    <select onchange="
-                                                                            " name="TblPersona[cod_estado]" class="form-control" id="tblpersona-cod_estado">
+                                                                <div class="form-group">
+                                                                    <label class="control-label">Estado</label>
+                                                                    <select class="form-control">
                                                                         <option value="0">Seleccione el Estado</option>
                                                                     </select>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>                                </div>
-                                                            <div class="col-md-4">
-                                                                <div class="form-group field-tblpersona-cod_municipio required">
-                                                                    <label for="tblpersona-cod_municipio" class="control-label">Municipio</label>
-                                                                    <select name="TblPersona[cod_municipio]" class="form-control" id="tblpersona-cod_municipio">
-                                                                        <option value="">Seleccione el Municipio</option>
-                                                                    </select>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>
+                                                                </div>     
                                                             </div>
+                                                            <div class="col-md-4">
+                                                                <div class="form-group ">
+                                                                    <label class="control-label">Municipio</label>
+                                                                    <select class="form-control">
+                                                                        <option value="0">Seleccione el Municipio</option>
+                                                                    </select>
+                                                                </div>     
+                                                            </div>
+
+
                                                         </div>
                                                         <div class="row show-grid">
                                                             <div class="col-md-6">
-                                                                <div class="form-group field-tblpersona-cod_parroquia required">
-                                                                    <label for="tblpersona-cod_parroquia" class="control-label">Parroquia</label>
-                                                                    <select onchange="
-
-                                                                            " name="TblPersona[cod_parroquia]" class="form-control" id="tblpersona-cod_parroquia">
-                                                                        <option value="">Seleccione la Parroquia</option>
+                                                                <div class="form-group">
+                                                                    <label class="control-label">Parroquia</label>
+                                                                    <select class="form-control">
+                                                                        <option value="0">Seleccione el Parroquia</option>
                                                                     </select>
-                                                                    <div class="help-block"></div>
-
-                                                                </div> 
+                                                                </div>     
                                                             </div>
                                                             <div class="col-md-6">
-                                                                <div class="form-group field-tblpersona-cod_sector">
-                                                                    <label for="tblpersona-cod_sector" class="control-label">Sector</label>
-                                                                    <select name="TblPersona[cod_sector]" class="form-control" id="tblpersona-cod_sector">
-                                                                        <option value="">Indique el Sector</option>
+                                                                <div class="form-group">
+                                                                    <label class="control-label">Sector</label>
+                                                                    <select class="form-control">
+                                                                        <option value="0">Seleccione el Sector</option>
                                                                     </select>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>                                </div>
-
+                                                                </div>     
+                                                            </div>
                                                         </div>
                                                         <div class="row show-grid">
                                                             <div class="col-md-12">                                
                                                                 <div class="form-group field-tblpersona-direccion required">
                                                                     <label for="tblpersona-direccion" class="control-label">Direccion</label>
                                                                     <input type="text" data-toggle="tooltip" title="" name="TblPersona[direccion]" class="form-control" id="tblpersona-direccion" data-original-title="Detalle donde Vive">
-                                                                    <div class="help-block"></div>
+
 
                                                                 </div>                                
                                                             </div>
@@ -253,93 +280,6 @@
 
                                             </div>
                                             <!--PanelDatos Cargo-->
-                                            <div class="panel box box-success">
-                                                <div class="box-header">
-                                                    <h4 class="box-title">
-                                                        <a class="" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                                                            Datos de Acceso del Usuario
-                                                        </a>
-                                                    </h4>
-                                                </div>
-                                                <div style="height: auto;" id="collapseTwo" class="panel-collapse in">
-                                                    <div class="box-body">
-                                                        <div class="row show-grid">
-                                                            <div class="col-md-4">
-                                                                <div class="form-group field-tblusuario-id_status required">
-                                                                    <label for="tblusuario-id_status" class="control-label">Estatus Usuario</label>
-                                                                    <div class="input-group input-group-md select2-bootstrap-prepend">
-                                                                        <span class="input-group-addon">
-                                                                            <span class="glyphicon glyphicon-random"></span>
-                                                                                
-                                                                        </span>
-                                                                        <div class="select2-container form-control" id="s2id_tblusuario-id_status" title="Indique el Estatus del Usuario" style="width:100%">
-                                                                            <a tabindex="-1" class="select2-choice select2-default" href="javascript:void(0)">   
-                                                                                <span class="select2-chosen" id="select2-chosen-2">Indique el Estatus del Usuario</span>
-                                                                                <abbr class="select2-search-choice-close"></abbr>   
-                                                                                <span role="presentation" class="select2-arrow">
-                                                                                    <b role="presentation"></b>
-                                                                                </span></a>
-                                                                            <label class="select2-offscreen" for="s2id_autogen2">Estatus Usuario</label><input type="text" role="button" aria-haspopup="true" class="select2-focusser select2-offscreen" aria-labelledby="select2-chosen-2" id="s2id_autogen2"><div class="select2-drop select2-display-none select2-with-searchbox">   <div class="select2-search">       <label class="select2-offscreen" for="s2id_autogen2_search">Estatus Usuario</label>       <input type="text" aria-autocomplete="list" aria-expanded="true" role="combobox" class="select2-input" spellcheck="false" autocapitalize="off" autocorrect="off" autocomplete="off" aria-owns="select2-results-2" id="s2id_autogen2_search" placeholder="">   </div>   <ul role="listbox" class="select2-results" id="select2-results-2">   </ul></div></div><select data-krajee-select2="select2_6789bf5d" style="width: 100%; display: none;" data-toggle="tooltip" placeholder="Indique el Estatus del Usuario" title="" name="TblUsuario[id_status]" class="form-control" id="tblusuario-id_status" tabindex="-1" data-original-title="Indique el Estatus del Usuario">
-                                                                            <option value=""></option>
-                                                                            <option value="11">Activo</option>
-                                                                            <option value="12">Inactivo</option>
-                                                                        </select>
-                                                                    </div>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-md-4">
-                                                                <div class="form-group field-tblusuario-username required">
-                                                                    <label for="tblusuario-username" class="control-label">Usuario</label>
-                                                                    <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-plus"></i></span><input type="text" data-toggle="tooltip" title="" name="TblUsuario[username]" class="form-control" id="tblusuario-username" data-original-title="Nombres Usuario"></div>
-                                                                    <div class="help-block"></div>
-
-                                                                </div> 
-                                                            </div>
-                                                            <div class="col-md-4">
-                                                                <div class="form-group field-tblusuario-id_role required">
-                                                                    <label for="tblusuario-id_role" class="control-label">Rol Usuario</label>
-                                                                    <div class="input-group input-group-md select2-bootstrap-prepend"><span class="input-group-addon"><span class="glyphicon glyphicon-random"></span></span><div class="select2-container form-control" id="s2id_tblusuario-id_role" title="Indique el Rol del Usuario" style="width:100%"><a tabindex="-1" class="select2-choice select2-default" href="javascript:void(0)">   <span class="select2-chosen" id="select2-chosen-3">Indique el Estatus del Usuario</span><abbr class="select2-search-choice-close"></abbr>   <span role="presentation" class="select2-arrow"><b role="presentation"></b></span></a><label class="select2-offscreen" for="s2id_autogen3">Rol Usuario</label><input type="text" role="button" aria-haspopup="true" class="select2-focusser select2-offscreen" aria-labelledby="select2-chosen-3" id="s2id_autogen3"><div class="select2-drop select2-display-none select2-with-searchbox">   <div class="select2-search">       <label class="select2-offscreen" for="s2id_autogen3_search">Rol Usuario</label>       <input type="text" aria-autocomplete="list" aria-expanded="true" role="combobox" class="select2-input" spellcheck="false" autocapitalize="off" autocorrect="off" autocomplete="off" aria-owns="select2-results-3" id="s2id_autogen3_search" placeholder="">   </div>   <ul role="listbox" class="select2-results" id="select2-results-3">   </ul></div></div><select data-krajee-select2="select2_6789bf5d" style="width: 100%; display: none;" data-toggle="tooltip" placeholder="Indique el Estatus del Usuario" title="" name="TblUsuario[id_role]" class="form-control" id="tblusuario-id_role" tabindex="-1" data-original-title="Indique el Rol del Usuario">
-                                                                            <option value=""></option>
-                                                                            <option value="1">Administrador</option>
-                                                                        </select></div>
-                                                                    <div class="help-block"></div>
-
-                                                                </div> 
-                                                            </div>
-
-                                                        </div>
-                                                        <div class="row show-grid">
-                                                            <div class="col-md-6">
-                                                                <div class="form-group field-tblusuario-password required">
-                                                                    <label for="tblusuario-password" class="control-label">Contraseña</label>
-                                                                    <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-secret"></i></span><input type="password" data-toggle="tooltip" title="" name="TblUsuario[password]" class="form-control" id="tblusuario-password" data-original-title="Contraseña Usuario"></div>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>
-                                                            </div>
-                                                            <div class="col-md-6">
-                                                                <div class="form-group field-tblusuario-password_repeat required">
-                                                                    <label for="tblusuario-password_repeat" class="control-label">Repetir Contraseña</label>
-                                                                    <div class="input-group"><span class="input-group-addon"><i class="fa fa-unlock"></i></span><input type="password" data-toggle="tooltip" title="" name="TblUsuario[password_repeat]" class="form-control" id="tblusuario-password_repeat" data-original-title="Repita la Contraseña"></div>
-                                                                    <div class="help-block"></div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-
-                                                    </div>
-                                                </div>
-                                                <div class="box-footer">
-                                                    <div class="create-footer">
-
-                                                        <button class="btn btn-success" type="submit"><i class="fa fa-hand-o-right"></i> Crear</button>
-                                                        <a href="/safe_cgev/backend/web/tblusuario/index" class="btn btn-danger"><i class="fa fa-hand-o-left"></i> Cancelar</a>
-                                                    </div>
-                                                </div>
-                                            </div>
 
                                         </div>
 
@@ -351,5 +291,7 @@
 
                 </div>
             </div>
+            </div>
         </section>
+
 </html>

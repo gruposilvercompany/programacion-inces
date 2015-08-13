@@ -1,7 +1,11 @@
-.contenedor-interno-login {
-    border-radius: 0.5em;
-    box-shadow: 0 0 1em 0 #888888;
-    margin: 0.5em 10%;
-    padding: 1em;
-    text-align: center;
+.f{
+    background-color: tomato;
+    color:black
+    
+}
+#contenedor-1
+{
+    /*background: #007bb6;*/
+    border-top: 1px solid red;
+    margin-top: 20px;
 }

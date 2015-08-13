@@ -1,5 +1,7 @@
-<?php include("ui/header.htm"); ?>
-<?php include("ui/nav.htm"); ?>
-<div id="content"></div>
-<?php include("ui/deleteconfirmmodal.htm"); ?>
-<?php include("ui/footer.htm"); ?>
+<?php 
+	include_once("controller/Controller.php");
+
+	$controller = new Controller();
+	$controller->invoke();
+
+?>
