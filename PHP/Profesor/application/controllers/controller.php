@@ -8,11 +8,7 @@ class controller{
 
     public function temp_index(){
          require '../views/temp_index.php';
-        if($_REQUEST['submit'] == 'get_all'){
-            $result = $this -> model -> get_all();
-            //require 'get_all.php';
-        }
-        else if($_REQUEST['submit'] == 'get_search'){
+        if($_REQUEST['submit'] == 'get_search'){
             $result = $this -> model -> get_search();
            // require 'get_search.php';
         }
