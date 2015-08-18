@@ -4,69 +4,155 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <title>Programacion-Inces by Curso-Programacion</title>
-          <link rel="stylesheet" href="stylesheets/styles.css">
-         <!--     <link rel="stylesheet" href="stylesheets/github-dark.css">-->
+        <link rel="stylesheet" href="stylesheets/styles.css">
+        <!--     <link rel="stylesheet" href="stylesheets/github-dark.css">-->
         <link rel="stylesheet" href="core/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="core/bootstrap/css/bootstrap.css">
         <link rel="stylesheet" href="core/font-awesome/css/font-awesome.min.css">
         <script src="core/jquery/jquery-2.1.1.min.js"></script>
         <script src="core/bootstrap/js/bootstrap.min.js"></script>
-        <!--    <script src="javascripts/main.js"></script>-->
-        <!--[if lt IE 9]>
-          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     </head>
     <body>
 
         <header>
-            <div >
-                
-                
+            <div >                
                 <img  alt="" src="images/header.png" class="img-responsive">
-                
+
             </div>
-            
+
         </header>
-       
-            <!-- Static navbar -->
-            <nav class="navbar navbar-default">
-                <div class="container-fluid">
+
+        <!-- Static navbar -->
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
                     
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li><a href="contenidoprogramatico.html">Contenido Programatico</a></li>
-                            <li><a href="#">Soporte T&eacute;cnico</a></li>
-                            <li><a href="#">Lenguaje de Programaci&oacute;n</a></li>
-                            <li><a href="#">Proyectos</a></li>
-                            <li><a href="#">Programaci&oacute;n M&oacute;vil</a></li>
-                           
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="active" class="active">
+                            <a  href="index.html">Contenido Programatico</a>
+                        </li>
+                        <li><a href="#">Soporte T&eacute;cnico</a></li>
+                        <li><a href="#">Lenguaje de Programaci&oacute;n</a></li>
+                        <li><a href="#">Proyectos</a></li>
+                        <li><a href="#">Programaci&oacute;n M&oacute;vil</a></li>
+
+
+                    </ul>
+                  
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="softwarelibre.html">Software Libre</a></li>
                         </ul>
-                        <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="#">Software Libre</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </div><!--/.container-fluid -->
-            </nav>
-          
-        
-        
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+
+
+
 
         <div class="container-fluid">
             <section>
-                
-                
-                <img  alt="" src="images/softwarelibre.png" class="img-responsive" style="width: 100%">
-                
+
+                <div class="panel-group" id="accordion">
+                    <div class="panel panel-primary">
+
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#accordionOne">
+                                    Contenido Programatico del Lunes 1 Hasta el Martes 30 del mes de Junio
+                                </a>
+                            </h4>
+                        </div>
+
+                        <div id="accordionOne" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <img  alt="" src="images/m1.png" class="img-responsive" style="width: 100%">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-success">
+
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#accordionTwo">
+                                    Contenido Programatico del miercoles 1 Hasta el Jueves 30 del mes de Julio
+                                </a>
+                            </h4>
+                        </div>
+
+                        <div id="accordionTwo" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <img  alt="" src="images/m2.png" class="img-responsive" style="width: 100%">
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="panel panel-warning">
+
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#accordionThree">
+                                    Contenido Programatico del Lunes  3 Hasta el Lunes 31 del mes de Agosto 
+                                </a>
+                            </h4>
+                        </div>
+
+                        <div id="accordionThree" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <img  alt="" src="images/m3.png" class="img-responsive" style="width: 100%">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="panel panel-danger">
+
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#accordionThree">
+                                    Contenido Programatico del Martes 1 Hasta el Lunes 30 del mes de Septiembre
+                                </a>
+                            </h4>
+                        </div>
+
+                        <div id="accordionThree" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <img  alt="" src="images/m5.png" class="img-responsive" style="width: 100%">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
             </section>
         </div>
-       <footer>
-           
-           
-                <p>Proyecto mantenido por <a href="https://github.com/Curso-Programacion">Curso Programacion del CFS San Juan de los Morros </a></p>
-                <p><small>Hosted on GitHub Pages &mdash; <a class="button fork" href="https://github.com/Curso-Programacion/programacion-inces"><strong>Ver Proyecto en <img  alt="" src="images/octocat-logo.png" class="">
-          </strong></a></small></p>
-            
-       </footer>
+        <footer>
+
+
+            <p>Proyecto mantenido por <a href="https://github.com/Curso-Programacion">Curso Programacion del CFS San Juan de los Morros </a></p>
+            <p><small>Hosted on GitHub Pages &mdash; <a class="button fork" href="https://github.com/Curso-Programacion/programacion-inces"><strong>Ver Proyecto en <img  alt="" src="images/octocat-logo.png" class="">
+                        </strong></a></small></p>
+
+        </footer>
     </body>
 </html>
