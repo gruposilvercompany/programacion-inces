@@ -5,13 +5,16 @@
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <title>Programacion-Inces by Curso-Programacion</title>
         <link rel="stylesheet" href="stylesheets/styles.css">
+
+        <link rel="stylesheet" type="text/css" href="stylesheets/css-/demo.css" />
+        <link rel="stylesheet" type="text/css" href="stylesheets/css-/common.css" />
+        <link rel="stylesheet" type="text/css" href="stylesheets/css-/style2.css" />
         <!--     <link rel="stylesheet" href="stylesheets/github-dark.css">-->
         <link rel="stylesheet" href="core/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="core/bootstrap/css/bootstrap.css">
         <link rel="stylesheet" href="core/font-awesome/css/font-awesome.min.css">
         <script src="core/jquery/jquery-2.1.1.min.js"></script>
         <script src="core/bootstrap/js/bootstrap.min.js"></script>
-
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     </head>
@@ -45,10 +48,10 @@
                         <li>
                             <a  href="index.html">Contenido Programatico</a>
                         </li>
-                        <li ><a href="soportetecnico.html">Soporte T&eacute;cnico</a></li>
-                        <li><a href="lenguajesprogramacion.html">Lenguaje de Programaci&oacute;n</a></li>
+                        <li><a href="soportetecnico.html">Soporte T&eacute;cnico</a></li>
+                        <li class="active"><a href="lenguajesprogramacion.html">Lenguaje de Programaci&oacute;n</a></li>
                         <li><a href="proyectos.html">Proyectos</a></li>
-                        <li class="active"><a href="phonegap.html">Programaci&oacute;n M&oacute;vil</a></li>
+                        <li><a href="phonegap.html">Programaci&oacute;n M&oacute;vil</a></li>
 
 
                     </ul>
@@ -61,13 +64,76 @@
         </nav>
 
 
+
+
         <div class="container-fluid">
-            <section>
+            <section class="">
+
+                <ul class="ch-grid">
+                    <li>
+                        <div class="ch-item ch-img-php">
+                            <div class="ch-info">
+                                <h3>Programaci&oacute;n PHP</h3>
+                                <p><a  href="#" data-remote="false" data-toggle="modal" data-target="#php" class="btn btn-info">PHP</a></p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="ch-item ch-img-j2se">
+                            <div class="ch-info">
+                                <h3>Programaci&oacute;n JAVA</h3>
+                                <p><a  href="#" data-remote="false" data-toggle="modal" data-target="#java" class="btn btn-danger">J2SE</a></p>
+                            </div>
+                        </div>
+                    </li>
+                    
 
 
-                <img  alt="" src="images/phonegap.png.jpg" class="img-responsive center-block" >
+
+                </ul>
 
             </section>
+        </div>
+
+
+
+        <!-- contenido modal mvc -->
+        <div class="modal fade" id="java" tabindex="-1" role="dialog" >
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <section>
+
+
+                                <img  alt="" src="images/java.png" class="img-responsive">
+
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- contenido modal git -->
+        <div class="modal fade" id="php" tabindex="-1" role="dialog" >
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <section>
+
+
+                                <img  alt="" src="images/descripcion-php.jpg" class="img-responsive center-block">
+
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
         <footer>
 
