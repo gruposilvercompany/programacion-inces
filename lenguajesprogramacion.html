@@ -15,7 +15,6 @@
         <link rel="stylesheet" href="core/font-awesome/css/font-awesome.min.css">
         <script src="core/jquery/jquery-2.1.1.min.js"></script>
         <script src="core/bootstrap/js/bootstrap.min.js"></script>
-
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     </head>
@@ -75,7 +74,7 @@
                         <div class="ch-item ch-img-3">
                             <div class="ch-info">
                                 <h3>Control Versiones</h3>
-                                <p>by Daniel Nyari <a href="http://drbl.in/eNXW">View on Dribbble</a></p>
+                                <p><a  href="#" data-remote="false" data-toggle="modal" data-target="#git" class="btn btn-info">GIT</a></p>
                             </div>
                         </div>
                     </li>
@@ -83,7 +82,7 @@
                         <div class="ch-item ch-img-2">
                             <div class="ch-info">
                                 <h3>Paradigma POO</h3>
-                                <p><a href="http://drbl.in/eNXW">MVC</a></p>
+                                <p><a  href="#" data-remote="false" data-toggle="modal" data-target="#mvc" class="btn btn-danger">MVC</a></p>
                             </div>
                         </div>
                     </li>
@@ -91,42 +90,58 @@
                         <div class="ch-item ch-img-1">
                             <div class="ch-info">
                                 <h3>Programacion</h3>
-                                <p> <a  class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal" href="remote.php">J2SE/PHP</a></p>
+                                <p> <a  href="#" data-remote="false" data-toggle="modal" data-target="#myModal" class="btn btn-danger">J2SE/PHP</a></p>
                             </div>
                         </div>
                     </li>
-                   
+
 
 
                 </ul>
 
             </section>
         </div>
-        
-        
-        
-        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-  Launch demo modal
-</button>
 
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
+
+
+        <!-- contenido modal mvc -->
+        <div class="modal fade" id="mvc" tabindex="-1" role="dialog" >
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <section>
+
+
+                                <img  alt="" src="images/mvc.png" class="img-responsive" style="height: 10%">
+
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- contenido modal git -->
+        <div class="modal fade" id="git" tabindex="-1" role="dialog" >
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <section>
+
+
+                                <img  alt="" src="images/git-github.jpg" class="img-responsive" style="height: 10%">
+
+                            </section>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
         <footer>
 
 
