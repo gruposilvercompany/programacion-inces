@@ -1,117 +1,176 @@
 
 .cintillo {
-  
-  background: url(../images/cintillo_pueblo_vc.png);
+
+    background: url(../images/cintillo_pueblo_vc.png);
 }
 #banner .button:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#ffe788, #ffe788);
-  background: -moz-linear-gradient(#ffe788, #ffe788);
-  background: -o-linear-gradient(#ffe788, #ffe788);
-  background: -ms-linear-gradient(#ffe788, #ffe788);
-  background: linear-gradient(#ffe788, #ffe788);
-  background-color: #ffeca0;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
+    background: -webkit-linear-gradient(#ffe788, #ffe788);
+    background: -moz-linear-gradient(#ffe788, #ffe788);
+    background: -o-linear-gradient(#ffe788, #ffe788);
+    background: -ms-linear-gradient(#ffe788, #ffe788);
+    background: linear-gradient(#ffe788, #ffe788);
+    background-color: #ffeca0;
 }
 #banner .fork {
-  position: fixed;
-  left: 50%;
-  margin-left: -325px;
-  padding: 10px 12px;
-  margin-top: 6px;
-  line-height: 14px;
-  font-size: 14px;
-  background-color: #FFE788;
+    position: fixed;
+    left: 50%;
+    margin-left: -325px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+    background-color: #FFE788;
 }
 #banner .downloads {
-  float: right;
-  margin: 0 45px 0 0;
+    float: right;
+    margin: 0 45px 0 0;
 }
 #banner .downloads span {
-  float: left;
-  line-height: 52px;
-  font-size: 90%;
-  color: #9d7f0d;
-  text-transform: uppercase;
-  text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
+    float: left;
+    line-height: 52px;
+    font-size: 90%;
+    color: #9d7f0d;
+    text-transform: uppercase;
+    text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
 }
 #banner ul {
-  list-style: none;
-  height: 40px;
-  padding: 0;
-  float: left;
-  margin-left: 10px;
+    list-style: none;
+    height: 40px;
+    padding: 0;
+    float: left;
+    margin-left: 10px;
 }
 #banner ul li {
-  display: inline;
+    display: inline;
 }
 #banner ul li a.button {
-  background-color: #FFE788;
+    background-color: #FFE788;
 }
 .logo {
-  position: absolute;
-  height: 36px;
-  width: 36px;
-  right: 7px;
-  top: 7px;
-  display: block;
-  background: url(../images/octocat-logo.png);
+    position: absolute;
+    height: 36px;
+    width: 36px;
+    right: 7px;
+    top: 7px;
+    display: block;
+    background: url(../images/octocat-logo.png);
 }
- footer {
+footer {
     text-align: center;
-  }
-  
-  
-  
-  
-  .ch-grid {
-	margin: 20px 0 0 0;
-	padding: 0;
-	list-style: none;
-	display: block;
-	text-align: center;
-	width: 100%;
+}
+
+
+
+
+.ch-grid {
+    margin: 20px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+    width: 100%;
 }
 
 .ch-grid:after,
 .ch-item:before {
-	content: '';
+    content: '';
     display: table;
 }
 
 .ch-grid:after {
-	clear: both;
+    clear: both;
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
-	display: inline-block;
-	margin: 20px;
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+    margin: 20px;
 }
 
 
 .ch-grid {
-	margin: 20px 0 0 0;
-	padding: 0;
-	list-style: none;
-	display: block;
-	text-align: center;
-	width: 100%;
+    margin: 20px 0 0 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+    text-align: center;
+    width: 100%;
 }
 
 .ch-grid:after,
 .ch-item:before {
-	content: '';
+    content: '';
     display: table;
 }
 
 .ch-grid:after {
-	clear: both;
+    clear: both;
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
-	display: inline-block;
-	margin: 20px;
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+    margin: 20px;
+}
+.f{
+    background-color: tomato;
+    color:black
+
+}
+#contenedor-1
+{
+    /*background: #007bb6;*/
+    border-top: 1px solid red;
+    margin-top: 20px;
+}
+.nueva{
+    background: #00B2AF !important;;
+
+}
+html body nav.navbar.navbar-default.nueva div.container-fluid div#bs-example-navbar-collapse-1.collapse.navbar-collapse ul.nav.navbar-nav li a{
+
+    color: white;
+
+
+}
+.contenedor-interno-login{    
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    box-shadow: 0 0 1em 0 red;
+    margin: 0.5em 0;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 1em;
+
+}
+.error-acceso{
+    background: red;
+    color: white;
+}
+.error-mensaje{
+    background-color: #d0cfcd;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+.contenedor-error{
+    background-color: #e3e3e1;
+}
+.a-activo {
+    color: white !important; ;
+
+    background-color:#5bc0de;
+
+    //border-color:#46b8da;  
+}
+
+
+
+.navbar-default .navbar-nav>li>a:hover{
+    color:#fff !important;
+    background-color: #00cccc  !important;
+
 }

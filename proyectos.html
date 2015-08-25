@@ -16,20 +16,40 @@
         <script src="core/jquery/jquery-2.1.1.min.js"></script>
         <script src="core/bootstrap/js/bootstrap.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="core/Nivo-Slider//themes/default/default.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="core/Nivo-Slider//themes/light/light.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="core/Nivo-Slider//themes/dark/dark.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="core/Nivo-Slider//themes/bar/bar.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="core/Nivo-Slider//nivo-slider.css" type="text/css" media="screen" />
 
+
+
+        <script type="text/javascript" src="core/Nivo-Slider/jquery.nivo.slider.js"></script>
+        <script type="text/javascript">
+            $(window).load(function () {
+                $('#slider').nivoSlider();
+            });
+        </script>
     </head>
     <body>
 
-        <header>
-            <div >                
-               <img  alt="" src="images/header.png" class="img-responsive" style="width: 100%">
+       <header>
+            <div id="wrapper">
+                <div class="slider-wrapper theme-default">
+                    <div id="slider" class="nivoSlider">
+                        <img src="images/heades_1.png" data-thumb="images/heades_1.png" class="img-responsive" style="width: 100%"/>
+                        <img src="images/heades_2.jpg" data-thumb="images/heades_2.jpg" class="img-responsive" style="width: 100%"/>
+                        <img src="images/heades_1.png" data-thumb="images/heades_1.png" class="img-responsive" style="width: 100%"/>
+                        <img src="images/heades_2.jpg" data-thumb="images/heades_2.jpg" class="img-responsive" style="width: 100%"/>
+                    </div>
+
+                </div>
 
             </div>
-
         </header>
 
         <!-- Static navbar -->
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default nueva">
             <div class="container-fluid">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -50,7 +70,7 @@
                         </li>
                         <li><a href="soportetecnico.html">Soporte T&eacute;cnico</a></li>
                         <li><a href="lenguajesprogramacion.html">Lenguaje de Programaci&oacute;n</a></li>
-                        <li class="active"><a href="proyectos.html">Proyectos</a></li>
+                        <li class="a-activo"><a href="proyectos.html">Proyectos</a></li>
                         <li><a href="phonegap.html">Programaci&oacute;n M&oacute;vil</a></li>
 
 
